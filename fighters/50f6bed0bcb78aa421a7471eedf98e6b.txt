@@ -1,0 +1,499 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Roberto Godoi | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.1.2" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.1 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview'],['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Roberto Godoi Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/roberto-godoi/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Gabrielle Garcia (Alliance)' href='http://www.bjjheroes.com/bjj-fighters/gabrielle-garcia-bjj' />
+<link rel='next' title='Gabriel Vella (Gracie Elite Team)' href='http://www.bjjheroes.com/bjj-fighters/gabriel-vella' />
+<meta name="generator" content="WordPress 3.1.2" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/roberto-godoi' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=601' />
+
+<!-- Facebook Open Graph metatags added by WordPress plugin. Get it at: http://www.linksalpha.com/widgets/clickngo -->
+<meta property="og:site_name" content="BJJ Heroes" />
+<meta property="og:title" content="Roberto Godoi" />
+<meta property="og:url" content="http://www.bjjheroes.com/bjj-fighters/roberto-godoi" />
+<meta property="og:image" content="http://www.bjjheroes.com/wp-content/uploads/2010/08/Roberto-Godoi-225x300.jpg" />
+<meta property="og:description" content="One of the best Jiu Jitsu instructors in the world, the black belt graduated by Waldomiro Perez is the founder of one of the strongest teams in Sao Paulo, Brazil - The Macaco/Godoi (today Godoi Jiu JItsu)." />
+<meta property="og:type" content="article" />
+<!-- End Facebook Open Graph metatags-->
+
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[280,317] -->
+<meta name="description" content="One of the best Jiu Jitsu instructors in the world, the black belt graduated by Waldomiro Perez is the founder of one of the strongest teams in Sao Paulo, Brazil - The Macaco/Godoi (today Godoi Jiu JItsu)." />
+<meta name="keywords" content="bjj fighter database" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [400972817,451362819,486039127,468416020,16603418,262209810,1425688577,400578816,216615976,1453855831,1169758278,1169692743,1169758534,1152915526,1152981063,1169692742,1152915526,1454970950,368970060,83822853,299321887,1235767573,1421023575,1425688577,400578816,216747048,1151865943,486476108,1559053598,400578816,216747048,61347159,736837895,1525696530,333859867,262226179,1559117911,400578816,216615976,367020633,1560045573,400578816,216747048,1236601182,1454967639,1425213790,400578816,216681512,1421148759,486295610,65493337,1420041055,400578816,216747048,162009694,486039127,401438228,1336082959,111694935,117267730,83822873,299321887,162746645,486039127,468416020,16603418,1335951634]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^1955080567;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "5528084450";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-837"><a title="Jiu Jitsu" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-1244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1244"><a title="BJJ Tournament Results and News" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-864"><a title="bjj instructionals" href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-1245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245"><a title="BJJ Workout Tips" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-1246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1246"><a title="Mundials BJJ Tournament History" href="http://www.bjjheroes.com/bjj-news/worlds-bjj">Worlds BJJ</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top BJJ Fighters Today</a></li>
+<li id="menu-item-1054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1054"><a href="http://www.bjjheroes.com/bjj-news/best-jiu-jitsu-fighter-in-mma-today">Top BJJ Fighters in MMA</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-841" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+<li id="menu-item-1289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1289"><a title="Want to join our BB Database?" href="http://www.bjjheroes.com/joining-bjj-heroes">Joining BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					<div class="banner468">
+	<a title="MMA Deals" href="http://mmadeals.com/" target="_blank"><img src="http://www.bjjheroes.com/wp-content/uploads/2010/02/mma-deals.gif" border="0" alt="MMA Deals" width="468" height="60" /></a></div>
+
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-601">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/roberto-godoi#comments"><span class='IDCommentsReplace' style='display:none'>601</span>0<span style='display:none' id='IDCommentPostInfoPermalink601'>http%3A%2F%2Fwww.bjjheroes.com%2Fbjj-fighters%2Froberto-godoi</span><span style='display:none' id='IDCommentPostInfoTitle601'>Roberto+Godoi</span><span style='display:none' id='IDCommentPostInfoTime601'>2010-08-12+22%3A39%3A41</span><span style='display:none' id='IDCommentPostInfoAuthor601'>admin</span><span style='display:none' id='IDCommentPostInfoGuid601'>http%3A%2F%2Fwww.bjjheroes.com%2F%3Fp%3D601</span></a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin" title="Posts by admin">admin</a> on August 12th, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/roberto-godoi" rel="bookmark" title="Permanent Link to Roberto Godoi">Roberto Godoi</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+											<iframe
+												style="height:25px !important; border:0px solid gray !important; overflow:hidden !important; width:550px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+												src="http://www.linksalpha.com/social?blog=BJJ+Heroes&link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Froberto-godoi&title=Roberto+Godoi&desc=%5Bcaption+id%3D%22attachment_602%22+align%3D%22alignright%22+width%3D%22225%22+caption%3D%22Roberto+Godoi%22%5D%5B%2Fcaption%5D%0D%0A%0D%0ARoberto+Godoi+is+a+brilliant+Jiu+Jitsu+instructor+formed+by+Waldomiro+Perez.+The+founder+of+one+of+the&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fblshow=1&fbsbutton=1&fbsctr=1&fbslang=en&fbsendbutton=0&twbutton=1&twlang=en&twmention=bjjheroes&twrelated1=&twrelated2=&twctr=1&lnkdshow=noshow&lnkdctr=1&buzzbutton=0&buzzlang=en&buzzctr=1&diggbutton=1&diggctr=1&stblbutton=1&stblctr=1&g1button=1&g1ctr=1&g1lang=en-US">
+											</iframe>
+										</div><div id="attachment_602" class="wp-caption alignright" style="width: 235px"><a href="http://www.bjjheroes.com/wp-content/uploads/2010/08/Roberto-Godoi.jpg"><img class="size-medium wp-image-602" title="Roberto-Godoi" src="http://www.bjjheroes.com/wp-content/uploads/2010/08/Roberto-Godoi-225x300.jpg" alt="Roberto Godoi" width="225" height="300" /></a><p class="wp-caption-text">Roberto Godoi</p></div>
+<p>Roberto Godoi is a brilliant Jiu Jitsu instructor formed by Waldomiro Perez. The founder of one of the strongest teams in Sao Paulo, Brazil &#8211; The Macaco/Godoi (today Godoi Jiu JItsu), Godoi is also famed for his bitter break up with his team partner Jorge &#8220;Macaco&#8221; Patino in 2001, a break up that made the headlines of many BJJ magazines and turned into a fearce rivalry on and off the mats.</p>
+<h2>Roberto Godoi in Detail</h2>
+<p><strong>Lineage:</strong> Mitsuyo Maeda &gt; <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/rickson-gracie-facts-and-bio">Rickson Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/marcelo-behring">Marcelo Behring</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/waldomiro-perez-jr">Waldomiro Perez</a> &gt; Roberto Godoi</p>
+<p><strong>Main Achievements/BJJ record:</strong></p>
+<ul>
+<li><strong>Campeonato Mundial No-Gi Champion</strong> (2008 weight and open weight Masters Division);</li>
+<li><strong>5x Brazilian National Champio</strong>n (2007 &#8211; Masters Division, 2009 weight and open weight Masters Division, 2010 weight and open weight Masters Division);</li>
+<li><strong>3x Pan American Silver Medallist</strong> (2007 Masters Division, 2008 Masters Division, 2009 open weight Masters Division);</li>
+<li><strong>4x Pan American Bronze Medallist</strong> (2000, 2001, 2002, 2004);</li>
+<li><strong>Brazilian National Silver Medallist</strong> (2000)</li>
+</ul>
+<p><strong>Weight Category:</strong> Pesado (94kg-207lbs)</p>
+<p><strong>Team/Association:</strong> Godoi Jiu Jitsu</p>
+<h3>Roberto Godoi Biography</h3>
+<p>Roberto Godoi was born in Sao Paulo, Brazil. He started training Jiu Jitsu in 1988 with the late <a href="http://www.bjjheroes.com/bjj-fighters/marcelo-behring">Marcelo Behring</a>, one of the great Jiu Jitsu figures of the 1980&#8242;s. Godoi trained under the wild Behring for the duration of one year until Marcelo decided to move to Australia. He then began training with the founder of Companhia Atlética Paulista (Cia Paulista) Valdomiro Perez who was a brown belt under Behring at the time.</p>
+<p>In 1992 Jorge Patino &#8220;Macaco&#8221; who was a school friend and neighbour of Godoi decided to join Perez&#8217;s BJJ academy also. Patino was a Rugby player who also practiced Judo while Godoi was already a purple belt at the time, with two Brazilian national titles under his belt.</p>
+<p>In 1994 Roberto opened an affiliate school of the Cia Paulista in partnership with Valdomiro Perez and Jorge Patino. That partnership lasted for one year until Macaco and Godoi decided to cut their bond with the Cia Paulista. Roberto and Jorge perused their careers as athletes during the following year, both premiering in MMA, Macaco made a staggering total of 5 fights that year winning the belt of the &#8220;Circuito de Lutas&#8221; while Roberto Godoi also won 2 fights by submission in 1995.</p>
+<p>On 1996 (a year after the break) they returned to teaching BJJ, opening their own gym, the Academia Macaco/Godoi. Their team was extremely successful for the following 4 years, winning 4 Paulista (Sao Paulo State) championships on a row, beating many of the strong competitors such as Ryan Gracie Academy, Alliance and Cia Paulista, a truly remarkable feature for such a fresh team. Their partnership seemed to work perfectly with both Jiu Jitsu men&#8217;s schedules, &#8220;Macaco&#8221; always competing elevating the academy&#8217;s name while also teaching a class, and Roberto Godoi taking his low key profile though being an immensely important figure teaching most of the athletes.</p>
+<p>In 2001 the shock break up occurred, the two parted in less then amicable terms over money arrangements. Patino went on to open his &#8220;Macaco Gold Team&#8221; while Roberto opened the &#8220;Godoi Jiu Jitsu&#8221;. Many of the fighters followed Godoi, people like <a href="http://www.bjjheroes.com/bjj-fighters/marco-barbosa-facts-and-bio">Marco Barbosa</a>, <a href="http://www.bjjheroes.com/bjj-fighters/bruno-frazatto-bjj-fighter-wiki">Bruno Frazatto</a> and <a href="http://www.bjjheroes.com/bjj-fighters/roberto-tozi-wiki-bio">Roberto Tozi</a>. Jorge took offence on the fighters that did not follow his footsteps which aggravated further an already troubled relationship. The two coaches exchanged harsh words on many occasions. Godoi claimed that &#8220;Macaco&#8221; used to call him Master when they owned the Macaco/Godoi, while Patino replied &#8220;when we meet I knock him out and I offer him my hand for Godoi to get back up I will then ask him: Do you want my hand master?&#8221;. Godoi also stated on another interview: &#8220;what he has is envy, Macaco is acting like a betrayed woman&#8221;</p>
+<p>With such grief being yelled from both sides a match between the two was inevitable, and it did happen. In jiu jitsu it happened twice, with one fight going to Macaco by advantages and the other going to Godoi by sweep on the final of the Sao Paulo State Championship. In 2006 the two were offered a large sum of money to fight in an MMA main event. The offer was accepted in a fight were Macaco TKO&#8217;ed Godoi on the second round.</p>
+<p>Today Godoi does seminars throughout the World and has his own academy in Sao Paulo.</p>
+<p>Roberto Godoi vs Macaco Patino<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/tbfiDLhBe2I?fs=1&amp;hl=en_GB" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/tbfiDLhBe2I?fs=1&amp;hl=en_GB" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a>	</span>
+	</div>
+						</div>
+
+							<div id='idc-container'></div>
+	<div id="idc-noscript">
+		
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are open, but there are no comments. -->
+
+	 
+
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/roberto-godoi#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='601' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="025d20f05b" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+	</div>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var idc_xd_receiver = '/wp-content/plugins/intensedebate/xd_receiver.htm';
+	function IDC_revert() { document.getElementById('idc-loading-comments').style.display='none'; if ( !document.getElementById('IDCommentsHead') ) { document.getElementById('idc-noscript').style.display='block'; document.getElementById('idc-comment-wrap-js').parentNode.removeChild(document.getElementById('idc-comment-wrap-js')); } else { document.getElementById('idc-noscript').style.display='none'; } }
+	idc_ns = document.getElementById('idc-noscript');
+	idc_ns.style.display='none'; idc_ld = document.createElement('div');
+	idc_ld.id = 'idc-loading-comments'; idc_ld.style.verticalAlign='middle';
+	idc_ld.innerHTML = "<img src='http://www.bjjheroes.com/wp-content/plugins/intensedebate/loading.gif' alt='Loading' border='0' align='absmiddle' /> Loading IntenseDebate Comments...";
+	idc_ns.parentNode.insertBefore(idc_ld, idc_ns);
+	setTimeout( IDC_revert, 10000 );
+	/* ]]> */
+	</script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var s = document.createElement("script"); s.type = "text/javascript"; s.id = 'idc-comment-wrap-js'; s.src = "http://intensedebate.com/js/wordpressTemplateCommentWrapper2.php?acct=2fd021e7a72a99cbb9accff966860246&postid=601&title=Roberto+Godoi&url=http%3A%2F%2Fwww.bjjheroes.com%2Fbjj-fighters%2Froberto-godoi&posttime=2010-08-12+22%3A39%3A41&postauthor=admin&guid=http%3A%2F%2Fwww.bjjheroes.com%2F%3Fp%3D601"; document.getElementsByTagName("head")[0].appendChild(s);
+		/* ]]> */
+		</script>
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-fighters/gabrielle-garcia-bjj" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/bjj-fighters/gabriel-vella" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><a title="M Kimonos - proved and tested by Jiu Jitsu legends" href="http://www.mkimonos.com/" target="_blank"><img src="http://www.bjjheroes.com/MachadoKimonos-xande-caps.jpg" border="0" alt="M Kimonos - Jiu Jitsu Tradition" width="300" height="250" /></a></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://feeds.feedburner.com/bjjheroes', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://feeds.feedburner.com/bjjheroes" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/06'> June 2011 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2011/05'> May 2011 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2011/04'> April 2011 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2011/03'> March 2011 &nbsp;(13)</option>
+	<option value='http://www.bjjheroes.com/2011/02'> February 2011 &nbsp;(11)</option>
+	<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(24)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-dvd'>BJJ DVD</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gft-bjj'>GFT BJJ</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+		<li id="recent-posts-4" class="widget widget_recent_entries">		<h3 class="widgettitle">Recent Posts</h3>		<ul>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/sergio-babu" title="Sergio “Babu”">Sergio “Babu”</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/lloyd-irvin" title="Lloyd Irvin">Lloyd Irvin</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/fabio-pateta-prado" title="Fabio &#8220;Pateta&#8221; Prado">Fabio &#8220;Pateta&#8221; Prado</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/shane-rice" title="Shane Rice (Rickson Gracie)">Shane Rice (Rickson Gracie)</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/roger-coelho" title="Roger Coelho">Roger Coelho</a></li>
+				</ul>
+		</li>
+<li id="text-5" class="widget widget_text"><h3 class="widgettitle">Caio Terra Half Guard Instructional</h3>			<div class="textwidget"><a href="http://gan.doubleclick.net/gan_click?lid=41000000035438324&pubid=21000000000302733" target="_blank">
+<img src="http://www.bjjheroes.com/wp-content/uploads/2011/04/advert.jpg" width="300" height="250" alt="Caio Terra Half Guard DVD" border="0"/></a></div>
+		</li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-6" class="widget widget_text"><h3 class="widgettitle">Top Kimono Brands</h3>			<div class="textwidget"><a href="http://gan.doubleclick.net/gan_click?lid=41000000036134047&pubid=21000000000302733" target="_blank">
+<img src="http://www.bjjheroes.com/wp-content/uploads/2010/02/bjj-kimonos.jpg" width="120" height="240" alt="All major BJJ Kimono brands available here" border="0"/></a></div>
+		</li>
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (6)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (282)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (43)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (11)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (117)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (5)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var s = document.createElement("script"); s.type = "text/javascript"; s.src = "http://intensedebate.com/js/wordpressTemplateLinkWrapper2.php?acct=2fd021e7a72a99cbb9accff966860246"; document.getElementsByTagName("head")[0].appendChild(s);
+		/* ]]> */
+		</script>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+<script type='text/javascript' src='http://cdn.wibiya.com/Toolbars/dir_0855/Toolbar_855533/Loader_855533.js?ver=3.1.2'></script>
+
+</body>
+
+</html>

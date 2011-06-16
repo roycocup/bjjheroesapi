@@ -9,7 +9,9 @@ $linkMask = '/\<a[\s]+href\=[\'|\"]([htp\:\w\.\/]+\-fighters[\w\d\/\-]+)/';
 
 $directory = "fighters/";
 
-//if the enderecos file exists then use that to cycle all of them. If not, create one and use the array in memory
+//endereos is the html page that has the list of all fighters
+//if the enderecos file exists then use that to cycle all of them. 
+//If not, create one and use the array in memory
 if (!file_exists($directory.'enderecos.txt')){
 	$string = file_get_contents($url);
 	file_put_contents($directory.'enderecos.txt', $string);

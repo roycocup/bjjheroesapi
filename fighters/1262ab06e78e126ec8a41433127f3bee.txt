@@ -1,0 +1,685 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Theodoro Canal | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.1.2" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.1 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview'],['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Theodoro Canal (GF Team) Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Contato Constante &#8211; Core Muscle/Mobility Training' href='http://www.bjjheroes.com/bjj-tips-for-fighters/core-muscle-and-mobility-workout' />
+<link rel='next' title='Marcos da Matta “Parrumpinha” (ATT)' href='http://www.bjjheroes.com/bjj-fighters/marcos-matta-parrumpinha' />
+<meta name="generator" content="WordPress 3.1.2" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/theodoro-canal' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=1178' />
+
+<!-- Facebook Open Graph metatags added by WordPress plugin. Get it at: http://www.linksalpha.com/widgets/clickngo -->
+<meta property="og:site_name" content="BJJ Heroes" />
+<meta property="og:title" content="Theodoro Canal (GF Team)" />
+<meta property="og:url" content="http://www.bjjheroes.com/bjj-fighters/theodoro-canal" />
+<meta property="og:image" content="http://www.bjjheroes.com/wp-content/uploads/2011/04/theodoro-canal-2.jpg" />
+<meta property="og:description" content="[caption id=&quot;attachment_1179&quot; align=&quot;alignright&quot; width=&quot;234&quot; caption=&quot;Theodoro Canal&quot;][/caption]Theodoro Canal is one of the top featherweights in the world. A black belt under Julio Cesar from Grappling Fight Team (GFT), Theodoro has won some of the world’s..." />
+<meta property="og:type" content="article" />
+<!-- End Facebook Open Graph metatags-->
+
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[280,328] -->
+<meta name="description" content="Theodoro Canal is one of the top featherweights in the world. A black belt under Julio Cesar from Grappling Fight Team (GFT), Theodoro has won some of the" />
+<meta name="keywords" content="theodoro canal jiu jitsu, theodoro canal bjj, theodoro canal gama filho, theodoro canal gf team,gama filho bjj,bjj fighter database,featured" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [1134757999,1319244925,1220348457,1336812138,1421348196,1541690732,12524671,1134890366,1487673430,300761129,385437233,435703103,1475167800,2142115193,11869292,300761122,385567545,317999163,1170169138,1321142397,1220348457,1101537898,1575831153,1220348457,1336812138,1421348196,467948908]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^550337801;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "5528084450";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-837"><a title="Jiu Jitsu" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-1244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1244"><a title="BJJ Tournament Results and News" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-864"><a title="bjj instructionals" href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-1245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245"><a title="BJJ Workout Tips" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-1246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1246"><a title="Mundials BJJ Tournament History" href="http://www.bjjheroes.com/bjj-news/worlds-bjj">Worlds BJJ</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top BJJ Fighters Today</a></li>
+<li id="menu-item-1054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1054"><a href="http://www.bjjheroes.com/bjj-news/best-jiu-jitsu-fighter-in-mma-today">Top BJJ Fighters in MMA</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-841" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+<li id="menu-item-1289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1289"><a title="Want to join our BB Database?" href="http://www.bjjheroes.com/joining-bjj-heroes">Joining BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					<div class="banner468">
+	<a title="MMA Deals" href="http://mmadeals.com/" target="_blank"><img src="http://www.bjjheroes.com/wp-content/uploads/2010/02/mma-deals.gif" border="0" alt="MMA Deals" width="468" height="60" /></a></div>
+
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-1178">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal#comments"><span class='IDCommentsReplace' style='display:none'>1178</span>11<span style='display:none' id='IDCommentPostInfoPermalink1178'>http%3A%2F%2Fwww.bjjheroes.com%2Fbjj-fighters%2Ftheodoro-canal</span><span style='display:none' id='IDCommentPostInfoTitle1178'>Theodoro+Canal+%28GF+Team%29</span><span style='display:none' id='IDCommentPostInfoTime1178'>2011-04-29+21%3A33%3A01</span><span style='display:none' id='IDCommentPostInfoAuthor1178'>admin</span><span style='display:none' id='IDCommentPostInfoGuid1178'>http%3A%2F%2Fwww.bjjheroes.com%2F%3Fp%3D1178</span></a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin" title="Posts by admin">admin</a> on April 29th, 2011  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal" rel="bookmark" title="Permanent Link to Theodoro Canal (GF Team)">Theodoro Canal (GF Team)</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+											<iframe
+												style="height:25px !important; border:0px solid gray !important; overflow:hidden !important; width:550px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+												src="http://www.linksalpha.com/social?blog=BJJ+Heroes&link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Ftheodoro-canal&title=Theodoro+Canal+%28GF+Team%29&desc=%5Bcaption+id%3D%22attachment_1179%22+align%3D%22alignright%22+width%3D%22234%22+caption%3D%22Theodoro+Canal%22%5D%5B%2Fcaption%5DTheodoro+Canal+is+one+of+the+top+featherweights+in+the+world.+A+black+belt+under+Julio+Cesar+from+Grappl&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fblshow=1&fbsbutton=1&fbsctr=1&fbslang=en&fbsendbutton=0&twbutton=1&twlang=en&twmention=bjjheroes&twrelated1=&twrelated2=&twctr=1&lnkdshow=noshow&lnkdctr=1&buzzbutton=0&buzzlang=en&buzzctr=1&diggbutton=1&diggctr=1&stblbutton=1&stblctr=1&g1button=1&g1ctr=1&g1lang=en-US">
+											</iframe>
+										</div><p><div id="attachment_1179" class="wp-caption alignright" style="width: 244px"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/attachment/theodoro-canal" rel="attachment wp-att-1179"><img src="http://www.bjjheroes.com/wp-content/uploads/2011/04/theodoro-canal-234x300.jpg" alt="" title="theodoro-canal" width="234" height="300" class="size-medium wp-image-1179" /></a><p class="wp-caption-text">Theodoro Canal</p></div>Theodoro Canal is one of the top featherweights in the world. A black belt under <a href="http://www.bjjheroes.com/bjj-fighters/mestre-julio-cezar-pereira">Julio Cesar</a> from Grappling Fight Team (GFT), Theodoro has won some of the world’s top competitions, such as the World Cup, Brazilian National Cup, Pan American and Rio Open.</p>
+<h2>Theodoro Canal in Detail</h2>
+<p><strong>Full Name:</strong> Theodoro Gabriel Canal Almeida</p>
+<p><strong>Lineage:</strong> Mitsuyo Maeda &gt; Luis Franca &gt; <a href="http://www.bjjheroes.com/bjj-fighters/oswaldo-fadda-facts-and-bio">Oswaldo Fadda</a> &gt; Moacir Salomão &gt; <a href="http://www.bjjheroes.com/bjj-fighters/mestre-julio-cezar-pereira">Julio Cesar Pereira</a> &gt; Theodoro Canal</p>
+<p><strong>Main Achievements:</strong></p>
+<ul>
+<li>World Cup Champion (2010 CBJJO)</li>
+<li>Pan American Champion (2011 weight &#038; open weight – Master)</li>
+<li>2x Brazilian Teams Champion (2009, 2008)</li>
+<li>Rio Open Champion (closed final with team mate)</li>
+<li>3x Brazilian National Silver Medallist (2009, 2002 brown, 2001 purple)</li>
+<li>2x Rio Open Silver Medallist (2010, 2008)</li>
+<li>World Bronze Medallist (2008)</li>
+<li>2x Pan American Bronze Medallist (2010, 2007)</li>
+<li>3x Brazilian National Bronze Medallist (2010, 2008, 2005)</li>
+</ul>
+<p><strong>Weight Division:</strong> Peso Pena (70kg-154lbs)</p>
+<p><strong>Team/Association:</strong> GF Team</p>
+<h3>Theodoro Canal Biography</h3>
+<p>Theodoro Canal was born on the 22nd of April, 1981 in the State of Espirito Santo &#8211; Brazil. He started practicing jiu-jitsu by the age of 7 under Master Maeda, because his mother thought it was a good way for her youngster to get in shape while interacting with other kids of the same age. When he was 14 years old, he changed camps as his family moved houses and Theodoro picked up training with Agnaldo Goes&#8217;s school.</p>
+<p>Later Canal moved to Rio de Janeiro and trained with Nigue and Vinicius Amaral from the Carlson Gracie Team, competing under that banner for 4 years. It was around that time that Theodoro Canal received a scholarship from the Gama Filho University, one of the most recognizable Physical Education schools in the country. One of the school’s subjects was Jiu Jitsu and it’s team was rated amongst the best in the country (the University cutt BJJ from their program at a later stage, but the team went on to form Grapple Fight Team &#8211; GFT), Theodoro started training there with Master <a title="Julio Cezar" href="http://www.bjjheroes.com/bjj-fighters/mestre-julio-cezar-pereira">Julio Cesar</a> already as a purple belt and earned his brown and black (2003) from the hands of Cesar.</p>
+<p>Since earning his black belt, Theodoro Canal became one of the strongest competitors making the top spots of many important tournaments such as the Mundial, Pan Ams, World Cup and many others.</p>
+<p>Contact: theodorocanal@yahoo.com.br</p>
+<p><strong>Theodoro Canal’s Sponsors</strong></p>
+<ul>
+<li>Banco BMG</li>
+<li>Postos FORZA</li>
+<li>Loja HS Lutas</li>
+</ul>
+<p>Theodoro Canal vs Marcelo “Galinha”<br />
+<iframe width="480" height="390" src="http://www.youtube.com/embed/KMKIv47YVcE" frameborder="0" allowfullscreen></iframe></p>
+<p>Theodoro Canal vs Bernardo Pitel<br />
+<iframe width="480" height="390" src="http://www.youtube.com/embed/Wb0LldUNE9s" frameborder="0" allowfullscreen></iframe></p>
+<p>Theodoro Canal vs Bruno Malfacine<br />
+<iframe width="480" height="390" src="http://www.youtube.com/embed/q3BaG7vI9-A" frameborder="0" allowfullscreen></iframe></p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a> &bull; <a href="http://www.bjjheroes.com/category/featured" title="View all posts in Featured" rel="category tag">Featured</a>	</span>
+	<span class='tags'><a href="http://www.bjjheroes.com/tag/gama-filho-bjj" rel="tag">gama filho bjj</a></span></div>
+						</div>
+
+							<div id='idc-container'></div>
+	<div id="idc-noscript">
+		
+<!-- You can start editing here. -->
+
+
+	<div class="allcomments">
+
+		<h3 id="comments">Comments (<span class='IDCommentsReplace' style='display:none'>1178</span>11<span style='display:none' id='IDCommentPostInfoPermalink1178'>http%3A%2F%2Fwww.bjjheroes.com%2Fbjj-fighters%2Ftheodoro-canal</span><span style='display:none' id='IDCommentPostInfoTitle1178'>Theodoro+Canal+%28GF+Team%29</span><span style='display:none' id='IDCommentPostInfoTime1178'>2011-04-29+21%3A33%3A01</span><span style='display:none' id='IDCommentPostInfoAuthor1178'>admin</span><span style='display:none' id='IDCommentPostInfoGuid1178'>http%3A%2F%2Fwww.bjjheroes.com%2F%3Fp%3D1178</span>)</h3>
+
+		<p class="comments-number"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/trackback" title="Trackback URL">Trackback URL</a> | <a title="Comments RSS Feed for This Entry" href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/feed">Comments RSS Feed</a></p>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+		<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="comment-4826">
+				<div id="div-comment-4826" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/7df2c465e47f7fc45fbea96327e89d6d?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Felipe Cavalcante</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4826">
+			April 29, 2011 at 11:47 am</a>		</div>
+
+		<p>Casca Grossa!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4826#respond' onclick='return addComment.moveForm("div-comment-4826", "4826", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-4887">
+				<div id="div-comment-4887" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/15155709a29350bee0f68edc7202df07?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">mauro verry</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4887">
+			May 6, 2011 at 3:17 pm</a>		</div>
+
+		<p>Um exemplo de pessoa,amigo e professor,OSS!!!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4887#respond' onclick='return addComment.moveForm("div-comment-4887", "4887", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-4908">
+				<div id="div-comment-4908" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/7f93346bd95b35d5e479b15e20a9c6da?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">CBF</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4908">
+			May 10, 2011 at 12:18 am</a>		</div>
+
+		<p>Exemplo de carater e de humildade&#8230; Um grade Mestre&#8230;OSSSSSSSS</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4908#respond' onclick='return addComment.moveForm("div-comment-4908", "4908", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-4909">
+				<div id="div-comment-4909" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/9b9503383fb6346c92ab4a7de247531a?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">AthosGFTeam</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4909">
+			May 10, 2011 at 12:45 am</a>		</div>
+
+		<p>Theodoro &eacute; um exemplo de determina&ccedil;&atilde;o e perseveran&ccedil;a ! Valeu Mestre!!! Osssss</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4909#respond' onclick='return addComment.moveForm("div-comment-4909", "4909", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-4910">
+				<div id="div-comment-4910" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/a5cd34038a1ded60a40e54a67b7ef8d2?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">lo bianco</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4910">
+			May 10, 2011 at 1:03 am</a>		</div>
+
+		<p>vlw mestrao</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4910#respond' onclick='return addComment.moveForm("div-comment-4910", "4910", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-4914">
+				<div id="div-comment-4914" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/ea4bb1af8f0a36cc0d29e99d8e21872e?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Fabio Andrade</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4914">
+			May 10, 2011 at 3:37 am</a>		</div>
+
+		<p>Po que maneiro seu trabalho sendo reconhecido&#8230; sou suspeito a falar, mas isso &eacute; muito mais que merecido, naum s&oacute; pelo atleta, mas pela pessoa que o Theodoro &eacute;&#8230; Parab&eacute;ns T&eacute;o&#8230; Osssssssssss</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4914#respond' onclick='return addComment.moveForm("div-comment-4914", "4914", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-4915">
+				<div id="div-comment-4915" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/86957f689e92b7cabeca519b87aeaf26?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://gfteamjudo.blogspot.com' rel='external nofollow' class='url'>Octavio Braga</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4915">
+			May 10, 2011 at 5:00 am</a>		</div>
+
+		<p>Grande atleta e amigo!! Parab&eacute;ns! Osss&#8230;</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4915#respond' onclick='return addComment.moveForm("div-comment-4915", "4915", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-4917">
+				<div id="div-comment-4917" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/1483628e9cbd8541447d9de8633e1609?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Rapos&atilde;o</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4917">
+			May 10, 2011 at 12:03 pm</a>		</div>
+
+		<p>Puta que pariu bicho, acho q vai dar merda!!!</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4917#respond' onclick='return addComment.moveForm("div-comment-4917", "4917", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-4918">
+				<div id="div-comment-4918" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/8c2058b749c872a97881a80481f5b356?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">rogerio riccobene</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4918">
+			May 10, 2011 at 1:13 pm</a>		</div>
+
+		<p>J&aacute; sabia disso!!! Moleque bom de onda e foda no jiu jitsu!!! ooooossssssssssssssssssssssssssssssssssssss   abra&ccedil;o</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4918#respond' onclick='return addComment.moveForm("div-comment-4918", "4918", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-4924">
+				<div id="div-comment-4924" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d07ff2d7462e2062bf041e26066a70a9?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">admin</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4924">
+			May 10, 2011 at 9:56 pm</a>		</div>
+
+		<p>Galera, vamos manter o nivel. Qualquer obscenidade sera deletada dos comentarios.</p>
+<p>Obrigado</p>
+<p>Administrador do website</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4924#respond' onclick='return addComment.moveForm("div-comment-4924", "4924", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-4937">
+				<div id="div-comment-4937" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/18eaa53a7d8412258592ff1b2413205c?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Cesar Drumond</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal/comment-page-1#comment-4937">
+			May 13, 2011 at 1:11 am</a>		</div>
+
+		<p>Grande ser humano, uma refer&ecirc;ncia, parab&eacute;ns bich&atilde;oo, </p>
+<p>Osssss</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/theodoro-canal?replytocom=4937#respond' onclick='return addComment.moveForm("div-comment-4937", "4937", "respond", "1178")'>Reply</a>		</div>
+				</div>
+		</li>
+		</ol>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+	</div>
+
+ 
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/theodoro-canal#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='1178' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4c42538546" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+	</div>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var idc_xd_receiver = '/wp-content/plugins/intensedebate/xd_receiver.htm';
+	function IDC_revert() { document.getElementById('idc-loading-comments').style.display='none'; if ( !document.getElementById('IDCommentsHead') ) { document.getElementById('idc-noscript').style.display='block'; document.getElementById('idc-comment-wrap-js').parentNode.removeChild(document.getElementById('idc-comment-wrap-js')); } else { document.getElementById('idc-noscript').style.display='none'; } }
+	idc_ns = document.getElementById('idc-noscript');
+	idc_ns.style.display='none'; idc_ld = document.createElement('div');
+	idc_ld.id = 'idc-loading-comments'; idc_ld.style.verticalAlign='middle';
+	idc_ld.innerHTML = "<img src='http://www.bjjheroes.com/wp-content/plugins/intensedebate/loading.gif' alt='Loading' border='0' align='absmiddle' /> Loading IntenseDebate Comments...";
+	idc_ns.parentNode.insertBefore(idc_ld, idc_ns);
+	setTimeout( IDC_revert, 10000 );
+	/* ]]> */
+	</script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var s = document.createElement("script"); s.type = "text/javascript"; s.id = 'idc-comment-wrap-js'; s.src = "http://intensedebate.com/js/wordpressTemplateCommentWrapper2.php?acct=2fd021e7a72a99cbb9accff966860246&postid=1178&title=Theodoro+Canal+%28GF+Team%29&url=http%3A%2F%2Fwww.bjjheroes.com%2Fbjj-fighters%2Ftheodoro-canal&posttime=2011-04-29+21%3A33%3A01&postauthor=admin&guid=http%3A%2F%2Fwww.bjjheroes.com%2F%3Fp%3D1178"; document.getElementsByTagName("head")[0].appendChild(s);
+		/* ]]> */
+		</script>
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-tips-for-fighters/core-muscle-and-mobility-workout" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/bjj-fighters/marcos-matta-parrumpinha" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><a title="M Kimonos - proved and tested by Jiu Jitsu legends" href="http://www.mkimonos.com/" target="_blank"><img src="http://www.bjjheroes.com/MachadoKimonos-xande-caps.jpg" border="0" alt="M Kimonos - Jiu Jitsu Tradition" width="300" height="250" /></a></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://feeds.feedburner.com/bjjheroes', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://feeds.feedburner.com/bjjheroes" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/06'> June 2011 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2011/05'> May 2011 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2011/04'> April 2011 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2011/03'> March 2011 &nbsp;(13)</option>
+	<option value='http://www.bjjheroes.com/2011/02'> February 2011 &nbsp;(11)</option>
+	<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(24)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-dvd'>BJJ DVD</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gft-bjj'>GFT BJJ</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+		<li id="recent-posts-4" class="widget widget_recent_entries">		<h3 class="widgettitle">Recent Posts</h3>		<ul>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/sergio-babu" title="Sergio “Babu”">Sergio “Babu”</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/lloyd-irvin" title="Lloyd Irvin">Lloyd Irvin</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/fabio-pateta-prado" title="Fabio &#8220;Pateta&#8221; Prado">Fabio &#8220;Pateta&#8221; Prado</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/shane-rice" title="Shane Rice (Rickson Gracie)">Shane Rice (Rickson Gracie)</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/roger-coelho" title="Roger Coelho">Roger Coelho</a></li>
+				</ul>
+		</li>
+<li id="text-5" class="widget widget_text"><h3 class="widgettitle">Caio Terra Half Guard Instructional</h3>			<div class="textwidget"><a href="http://gan.doubleclick.net/gan_click?lid=41000000035438324&pubid=21000000000302733" target="_blank">
+<img src="http://www.bjjheroes.com/wp-content/uploads/2011/04/advert.jpg" width="300" height="250" alt="Caio Terra Half Guard DVD" border="0"/></a></div>
+		</li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-6" class="widget widget_text"><h3 class="widgettitle">Top Kimono Brands</h3>			<div class="textwidget"><a href="http://gan.doubleclick.net/gan_click?lid=41000000036134047&pubid=21000000000302733" target="_blank">
+<img src="http://www.bjjheroes.com/wp-content/uploads/2010/02/bjj-kimonos.jpg" width="120" height="240" alt="All major BJJ Kimono brands available here" border="0"/></a></div>
+		</li>
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (6)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (282)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (43)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (11)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (117)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (5)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var s = document.createElement("script"); s.type = "text/javascript"; s.src = "http://intensedebate.com/js/wordpressTemplateLinkWrapper2.php?acct=2fd021e7a72a99cbb9accff966860246"; document.getElementsByTagName("head")[0].appendChild(s);
+		/* ]]> */
+		</script>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+<script type='text/javascript' src='http://cdn.wibiya.com/Toolbars/dir_0855/Toolbar_855533/Loader_855533.js?ver=3.1.2'></script>
+
+</body>
+
+</html>

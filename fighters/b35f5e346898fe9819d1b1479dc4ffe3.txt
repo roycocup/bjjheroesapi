@@ -1,0 +1,524 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Alexsandro Leke Machado | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.1.2" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.1 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview'],['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Alexsandro “Leke” Machado (Checkmat) Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Leonardo Leite (Alliance)' href='http://www.bjjheroes.com/bjj-fighters/leo-leite' />
+<link rel='next' title='Sergio Bolao Souza' href='http://www.bjjheroes.com/bjj-fighters/sergio-bolao-souza' />
+<meta name="generator" content="WordPress 3.1.2" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=891' />
+
+<!-- Facebook Open Graph metatags added by WordPress plugin. Get it at: http://www.linksalpha.com/widgets/clickngo -->
+<meta property="og:site_name" content="BJJ Heroes" />
+<meta property="og:title" content="Alexsandro “Leke” Machado (Checkmat)" />
+<meta property="og:url" content="http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado" />
+<meta property="og:image" content="http://www.bjjheroes.com/wp-content/uploads/2010/12/leke1.jpg" />
+<meta property="og:description" content="Another success story from the famous "Projeto do Cantagalo" this Brazilian Jiu Jitsu black belt under Ricardo Vieira is teaching in Singapore after a successful career as both a competitor and a coach in Rio de Janeiro" />
+<meta property="og:type" content="article" />
+<!-- End Facebook Open Graph metatags-->
+
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[280,344] -->
+<meta name="description" content="A black belt under Ricardinho Vieira, Leke is a Checkmat athlete and instructor based in Singapore." />
+<meta name="keywords" content="checkmat bjj,bjj fighter database,featured" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [201387990,16905156,119467408,902611,454814429,340243157,1327299526,201779911,386924527,1297000336,1583328129,1583262592,1583327873,1600039809,1600105344,1583262593,1600039809,1298115457,236501643,521779906,171047384,1380901586,1331014288,1327299526,201779911,386793455,1598990224,119126667,1191966425,201779911,386793455,407807632,806220480,1092025301,134283228,340259524,1191768976,201779911,386924527,235338142,1192942530,201779911,386793455,1381218969,1298118800,1326824089,201779911,386727919,1330885008,119208957,402778782,1329768600,201779911,386793455,307143065,119467408,202098131,1413853640,491710352,488369877,521779934,171047384,307618514,119467408,902611,454814429,1413984981]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^1869519536;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "5528084450";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-837"><a title="Jiu Jitsu" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-1244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1244"><a title="BJJ Tournament Results and News" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-864"><a title="bjj instructionals" href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-1245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245"><a title="BJJ Workout Tips" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-1246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1246"><a title="Mundials BJJ Tournament History" href="http://www.bjjheroes.com/bjj-news/worlds-bjj">Worlds BJJ</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top BJJ Fighters Today</a></li>
+<li id="menu-item-1054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1054"><a href="http://www.bjjheroes.com/bjj-news/best-jiu-jitsu-fighter-in-mma-today">Top BJJ Fighters in MMA</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-841" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+<li id="menu-item-1289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1289"><a title="Want to join our BB Database?" href="http://www.bjjheroes.com/joining-bjj-heroes">Joining BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					<div class="banner468">
+	<a title="MMA Deals" href="http://mmadeals.com/" target="_blank"><img src="http://www.bjjheroes.com/wp-content/uploads/2010/02/mma-deals.gif" border="0" alt="MMA Deals" width="468" height="60" /></a></div>
+
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-891">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado#comments"><span class='IDCommentsReplace' style='display:none'>891</span>1<span style='display:none' id='IDCommentPostInfoPermalink891'>http%3A%2F%2Fwww.bjjheroes.com%2Fbjj-fighters%2Falexsandro-leke-machado</span><span style='display:none' id='IDCommentPostInfoTitle891'>Alexsandro+%E2%80%9CLeke%E2%80%9D+Machado+%28Checkmat%29</span><span style='display:none' id='IDCommentPostInfoTime891'>2010-12-23+19%3A22%3A05</span><span style='display:none' id='IDCommentPostInfoAuthor891'>admin</span><span style='display:none' id='IDCommentPostInfoGuid891'>http%3A%2F%2Fwww.bjjheroes.com%2F%3Fp%3D891</span></a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin" title="Posts by admin">admin</a> on December 23rd, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado" rel="bookmark" title="Permanent Link to Alexsandro “Leke” Machado (Checkmat)">Alexsandro “Leke” Machado (Checkmat)</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+											<iframe
+												style="height:25px !important; border:0px solid gray !important; overflow:hidden !important; width:550px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+												src="http://www.linksalpha.com/social?blog=BJJ+Heroes&link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Falexsandro-leke-machado&title=Alexsandro+%E2%80%9CLeke%E2%80%9D+Machado+%28Checkmat%29&desc=%5Bcaption+id%3D%22attachment_892%22+align%3D%22alignright%22+width%3D%22199%22+caption%3D%22Alexsandro+Leke+Machado%22%5D%5B%2Fcaption%5DAlexsandro+%E2%80%9CLeke%E2%80%9D+Machado+is+a+Brazilian+Jiu+Jitsu+black+belt+under+Ricardo+Vieira.+Having+b&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fblshow=1&fbsbutton=1&fbsctr=1&fbslang=en&fbsendbutton=0&twbutton=1&twlang=en&twmention=bjjheroes&twrelated1=&twrelated2=&twctr=1&lnkdshow=noshow&lnkdctr=1&buzzbutton=0&buzzlang=en&buzzctr=1&diggbutton=1&diggctr=1&stblbutton=1&stblctr=1&g1button=1&g1ctr=1&g1lang=en-US">
+											</iframe>
+										</div><p><div id="attachment_892" class="wp-caption alignright" style="width: 209px"><a rel="attachment wp-att-892" href="http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado/attachment/leke"><img class="size-medium wp-image-892" title="leke" src="http://www.bjjheroes.com/wp-content/uploads/2010/12/leke-199x300.jpg" alt="Leke Machado BJJ" width="199" height="300" /></a><p class="wp-caption-text">Alexsandro Leke Machado</p></div>Alexsandro “Leke” Machado is a Brazilian Jiu Jitsu black belt under <a href="http://www.bjjheroes.com/bjj-fighters/ricardo-ricardinho-vieira">Ricardo Vieira</a>. Having been the right arm of Mr Vieira for a long time at the famous Fight Zone  Academy in Copacabana, Rio   de Janeiro, recently “Leke” moved to the Singapore, where he is currently teaching BJJ. Alexsandro Machado is also famous for being one of the success stories to have come out of the social project led by Ricardo and Leonardo Vieira called “Projeto do Cantagalo”.<br />
+.</p>
+<h2>Leke Machado in Detail</h2>
+<p><strong>Full Name:</strong> Alexsandro dos Santos Machado</p>
+<p><strong>Nickname:</strong> “Leke” is short for “Moleque” which means kid. The name was given by family members when Alexsandro was still a child.</p>
+<p><strong>Lineage:</strong> Mitsuyo Maeda &gt; <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/rolls-gracie-profile">Rolls Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/romero-jacare-cavalcanti-wiki">Romero Cavalcanti</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/ricardo-ricardinho-vieira">Ricardo Vieira</a> &gt; Alexsandro Leke Machado</p>
+<p><strong>Competitive Achievements:</strong></p>
+<ul>
+<li>Scandinavian Open Champion (2007 brown belt)</li>
+<li>Scandinavian Open Silver Medallist (2007 absolute division)</li>
+<li>Rio State Championship Silver Medallist (2009)</li>
+</ul>
+<p><strong>Weight Division:</strong> Peso Leve (76kg-167lbs)</p>
+<p><strong>Team/Association:</strong> Checkmat</p>
+<h3>Alexsandro Machado “Leke” Biography</h3>
+<p>Alexsandro dos Santos was born on the 4<sup>th</sup> of  September, 1975 in Rio de Janeiro, Brazil. He started training Jiu Jitsu in 1984. Leke lived in the Favela (slum) of Cantagalo, which provided him a chance of training with Ricardo Vieira, a legendary world Jiu Jitsu champion that has established a BJJ based social project in the Favela to try and take kids away from the streets and into the sport of Jiu Jitsu.</p>
+<p>Leke’s close contact with the Checkmat frontman, Ricardo, bore fruits as Machado was invited to be an assistant instructor at Fight Zone, Checkmat’s Headquarters in Rio de Janeiro. He was awarded his black belt in 2009 by his long term master, Ricardinho Vieira and shortly after he moved to Singapore where he trains and teaches at Impact MMA Singapore.</p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a> &bull; <a href="http://www.bjjheroes.com/category/featured" title="View all posts in Featured" rel="category tag">Featured</a>	</span>
+	<span class='tags'><a href="http://www.bjjheroes.com/tag/checkmat-bjj" rel="tag">Checkmat BJJ</a></span></div>
+						</div>
+
+							<div id='idc-container'></div>
+	<div id="idc-noscript">
+		
+<!-- You can start editing here. -->
+
+
+	<div class="allcomments">
+
+		<h3 id="comments">Comments (<span class='IDCommentsReplace' style='display:none'>891</span>1<span style='display:none' id='IDCommentPostInfoPermalink891'>http%3A%2F%2Fwww.bjjheroes.com%2Fbjj-fighters%2Falexsandro-leke-machado</span><span style='display:none' id='IDCommentPostInfoTitle891'>Alexsandro+%E2%80%9CLeke%E2%80%9D+Machado+%28Checkmat%29</span><span style='display:none' id='IDCommentPostInfoTime891'>2010-12-23+19%3A22%3A05</span><span style='display:none' id='IDCommentPostInfoAuthor891'>admin</span><span style='display:none' id='IDCommentPostInfoGuid891'>http%3A%2F%2Fwww.bjjheroes.com%2F%3Fp%3D891</span>)</h3>
+
+		<p class="comments-number"><a href="http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado/trackback" title="Trackback URL">Trackback URL</a> | <a title="Comments RSS Feed for This Entry" href="http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado/feed">Comments RSS Feed</a></p>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+		<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="comment-4267">
+				<div id="div-comment-4267" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/8e9859dd4d0e653c66ccd497ef949ab5?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">wei&#039;an</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado/comment-page-1#comment-4267">
+			February 18, 2011 at 7:02 pm</a>		</div>
+
+		<p>I have been training under Prof Leke at Impact Mixed Martial Arts (affiliate to Checkmat) in Singapore. He has been a truly remarkable coach. He pushes us to our limit, and answers all our queries. When we are rolling, he will motivate us and spur us on, pointing out or mistakes and possible moves which we can execute.</p>
+
+		<div class="reply">
+		<a class='comment-reply-link' href='/bjj-fighters/alexsandro-leke-machado?replytocom=4267#respond' onclick='return addComment.moveForm("div-comment-4267", "4267", "respond", "891")'>Reply</a>		</div>
+				</div>
+		</li>
+		</ol>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+	</div>
+
+ 
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/alexsandro-leke-machado#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='891' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="de5e964768" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+	</div>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var idc_xd_receiver = '/wp-content/plugins/intensedebate/xd_receiver.htm';
+	function IDC_revert() { document.getElementById('idc-loading-comments').style.display='none'; if ( !document.getElementById('IDCommentsHead') ) { document.getElementById('idc-noscript').style.display='block'; document.getElementById('idc-comment-wrap-js').parentNode.removeChild(document.getElementById('idc-comment-wrap-js')); } else { document.getElementById('idc-noscript').style.display='none'; } }
+	idc_ns = document.getElementById('idc-noscript');
+	idc_ns.style.display='none'; idc_ld = document.createElement('div');
+	idc_ld.id = 'idc-loading-comments'; idc_ld.style.verticalAlign='middle';
+	idc_ld.innerHTML = "<img src='http://www.bjjheroes.com/wp-content/plugins/intensedebate/loading.gif' alt='Loading' border='0' align='absmiddle' /> Loading IntenseDebate Comments...";
+	idc_ns.parentNode.insertBefore(idc_ld, idc_ns);
+	setTimeout( IDC_revert, 10000 );
+	/* ]]> */
+	</script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var s = document.createElement("script"); s.type = "text/javascript"; s.id = 'idc-comment-wrap-js'; s.src = "http://intensedebate.com/js/wordpressTemplateCommentWrapper2.php?acct=2fd021e7a72a99cbb9accff966860246&postid=891&title=Alexsandro+%E2%80%9CLeke%E2%80%9D+Machado+%28Checkmat%29&url=http%3A%2F%2Fwww.bjjheroes.com%2Fbjj-fighters%2Falexsandro-leke-machado&posttime=2010-12-23+19%3A22%3A05&postauthor=admin&guid=http%3A%2F%2Fwww.bjjheroes.com%2F%3Fp%3D891"; document.getElementsByTagName("head")[0].appendChild(s);
+		/* ]]> */
+		</script>
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-fighters/leo-leite" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/bjj-fighters/sergio-bolao-souza" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><a title="M Kimonos - proved and tested by Jiu Jitsu legends" href="http://www.mkimonos.com/" target="_blank"><img src="http://www.bjjheroes.com/MachadoKimonos-xande-caps.jpg" border="0" alt="M Kimonos - Jiu Jitsu Tradition" width="300" height="250" /></a></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://feeds.feedburner.com/bjjheroes', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://feeds.feedburner.com/bjjheroes" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/06'> June 2011 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2011/05'> May 2011 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2011/04'> April 2011 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2011/03'> March 2011 &nbsp;(13)</option>
+	<option value='http://www.bjjheroes.com/2011/02'> February 2011 &nbsp;(11)</option>
+	<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(24)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-dvd'>BJJ DVD</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gft-bjj'>GFT BJJ</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+		<li id="recent-posts-4" class="widget widget_recent_entries">		<h3 class="widgettitle">Recent Posts</h3>		<ul>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/sergio-babu" title="Sergio “Babu”">Sergio “Babu”</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/lloyd-irvin" title="Lloyd Irvin">Lloyd Irvin</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/fabio-pateta-prado" title="Fabio &#8220;Pateta&#8221; Prado">Fabio &#8220;Pateta&#8221; Prado</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/shane-rice" title="Shane Rice (Rickson Gracie)">Shane Rice (Rickson Gracie)</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/roger-coelho" title="Roger Coelho">Roger Coelho</a></li>
+				</ul>
+		</li>
+<li id="text-5" class="widget widget_text"><h3 class="widgettitle">Caio Terra Half Guard Instructional</h3>			<div class="textwidget"><a href="http://gan.doubleclick.net/gan_click?lid=41000000035438324&pubid=21000000000302733" target="_blank">
+<img src="http://www.bjjheroes.com/wp-content/uploads/2011/04/advert.jpg" width="300" height="250" alt="Caio Terra Half Guard DVD" border="0"/></a></div>
+		</li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-6" class="widget widget_text"><h3 class="widgettitle">Top Kimono Brands</h3>			<div class="textwidget"><a href="http://gan.doubleclick.net/gan_click?lid=41000000036134047&pubid=21000000000302733" target="_blank">
+<img src="http://www.bjjheroes.com/wp-content/uploads/2010/02/bjj-kimonos.jpg" width="120" height="240" alt="All major BJJ Kimono brands available here" border="0"/></a></div>
+		</li>
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (6)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (282)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (43)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (11)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (117)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (5)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var s = document.createElement("script"); s.type = "text/javascript"; s.src = "http://intensedebate.com/js/wordpressTemplateLinkWrapper2.php?acct=2fd021e7a72a99cbb9accff966860246"; document.getElementsByTagName("head")[0].appendChild(s);
+		/* ]]> */
+		</script>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+<script type='text/javascript' src='http://cdn.wibiya.com/Toolbars/dir_0855/Toolbar_855533/Loader_855533.js?ver=3.1.2'></script>
+
+</body>
+
+</html>
