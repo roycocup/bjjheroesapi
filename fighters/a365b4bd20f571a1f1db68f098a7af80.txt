@@ -1,0 +1,474 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>George Gracie | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.0.3" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; George Gracie Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/george-gracie-facts-and-bio/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Oswaldo Fadda' href='http://www.bjjheroes.com/bjj-fighters/oswaldo-fadda-facts-and-bio' />
+<link rel='next' title='Oswaldo Paqueta' href='http://www.bjjheroes.com/bjj-fighters/oswaldo-paqueta' />
+<meta name="generator" content="WordPress 3.0.3" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/george-gracie-facts-and-bio' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=528' />
+
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[280,317] -->
+<meta name="description" content="George Gracie was the most important Gracie fighter in the 1930's. The true family champion he held the Gracie Jiu Jitsu flag high for many years, competing throughout 3 decades." />
+<meta name="keywords" content="gracie jiu jitsu,bjj fighter database" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [1620063277,1838229567,1804482155,1822236200,2005610790,2027383086,596385853,1620455740,2074027028,853441643,986280307,902787965,1938383216,1721836067,685652266,852451702,868840828,953055097,2006659947,596652862,1620455740,2074027028,595812720,1620455740,1855005204,1720333371,600139875]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^66994507;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "3413234153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-home menu-item-837"><a title="BJJ Heroes" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-864"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-841" class="menu-item menu-item-type-taxonomy current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-842" class="menu-item menu-item-type-taxonomy menu-item-842"><a title="Fresh News on BJJ" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-844"><a title="Tips to help improve your Jiu Jitsu" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top 10 BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top 10 BJJ Fighters Today</a></li>
+<li id="menu-item-843" class="menu-item menu-item-type-taxonomy menu-item-843"><a title="MMA Fight Videos" href="http://www.bjjheroes.com/category/grappling-wars-in-mma">MMA Fights</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-528">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/george-gracie-facts-and-bio#comments">0</a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin/" title="Posts by admin">admin</a> on July 05th, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/george-gracie-facts-and-bio" rel="bookmark" title="Permanent Link to George Gracie">George Gracie</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+							<iframe
+								style="height:25px !important; border:none !important; overflow:hidden !important; width:400px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+								src="http://www.linksalpha.com/social?link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Fgeorge-gracie-facts-and-bio&title=George+Gracie&desc=%5Bcaption+id%3D%22attachment_530%22+align%3D%22alignright%22+width%3D%22224%22+caption%3D%22George+Gracie%22%5D%5B%2Fcaption%5DGeorge+Gracie+was+the+very+first+Gracie+family+champion+back+in+the+1920%E2%80%98s+and+1930%E2%80%98s.+He+was+taught+J&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fbsctr=1&twitterlang=en&twittermention=en&twitterrelated1=en&twitterrelated2=en&twctr=1&linkedinbutton=noshow">
+							</iframe>
+						</div><p><div id="attachment_530" class="wp-caption alignright" style="width: 234px"><a href="http://www.bjjheroes.com/wp-content/uploads/2010/07/George-Gracie.jpg"><img src="http://www.bjjheroes.com/wp-content/uploads/2010/07/George-Gracie-224x300.jpg" alt="George Gracie" title="George-Gracie" width="224" height="300" class="size-medium wp-image-530" /></a><p class="wp-caption-text">George Gracie</p></div>George Gracie was the very first Gracie family champion back in the 1920‘s and 1930‘s. He was taught Jiu Jitsu techniques by his older brother Carlos Gracie and carried the Gracie flag all over Brazil fighting in different styles such as Jiu Jitsu, Luta Livre, Wrestling and Vale Tudo (No-Holds-Barred) having had one of the best unbeaten runs of his time.<br />
+.<br />
+<strong>George Gracie&#8217;s Nickname:</strong> Gato Ruivo wich means red haired cat, a name given because of his tenacity when fighting and of course because of his hair colour.<br />
+.<br />
+<strong>George Gracie Lineage:</strong> Mitsuyo Maeda > <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie</a> > George Gracie<br />
+.<br />
+<strong>George Gracie&#8217;s Favourite Technique:</strong> Armlock<br />
+.<br />
+<strong>George Gracie&#8217;s Team:</strong> Gracie Jiu Jitsu</p>
+<h2>George Gracie Biography</h2>
+<p>George Gracie was born in 1911, Brazil, and together with <a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio</a> (who was 3 years younger) they were the youngest of the Gracie brothers.</p>
+<p>George came from a wealthy and respected family in his native Belem do Pará, but as the Gracies fell into decay, with his father losing the family business, the family moved to Rio de Janeiro to start a new life and his life of luxury ended.</p>
+<p>The Gracie&#8217;s were so poor at this point that they had to push the few influences they still had amongst the wealthy families to survive. One of the measurements they took was to enrol Helio and George in a Rowing club so they could be provided by the nautical association. George&#8217;s mother knew the president of the club (Clube Nautico do Botafogo) who agreed to have the pair there as part of their free boarding student scholarship. And so the younger brothers of the Gracie clan moved there where they were fed and bedded.</p>
+<p>George however stayed the least amount of time at the club for as soon as he could, <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos</a> (the eldest brother) took him out of the club to have him instructed in the art of Jiu Jitsu. Carlos was opening up his own Gracie Jiu Jitsu gym (the very first ever) and wanted his brothers help in this new project of his. The first brothers taken to the Gracie Academy were George and Oswaldo, Helio only joined them at a later stage.</p>
+<p>George and Oswaldo (who was 7 years older then George) soon became assistant coaches, but George proved to be a sponge when absorbing the knowledge Carlos was handing out becoming the &#8220;star pupil&#8221; at the gym.</p>
+<p>Carlos always enjoyed many different aspects of life being his spiritual beliefs or his obsession with dieting. As he developed his diet (today known as the Gracie Diet) George would frown upon these concepts, always eating what he very well pleased, not convinced of the benefits this could bring to his training.</p>
+<p>Carlos was very interested in boxing, and together with George he started training in the western fighting style, the pair even competed in the late 1920&#8242;s winning an amateur tournament.</p>
+<p>As Carlos tried to show how effective his Jiu Jitsu program was, several challenges were issued to the local martial artists. The &#8220;Capoeiristas&#8221; (Capoeira practitioners) were the first to accept.<br />
+The very first challenge intituled &#8220;Desafio Capoeira vs Jiu Jitsu&#8221; took place and George was faced with a typical &#8220;Malandro Carioca&#8221; (Rio de Janeiro Gangster). The fight was under what it is called today &#8220;Amateur MMA rules&#8221;, meaning, strikes were allowed on the feet, but not on the ground, so when the Capoeira fighter (called &#8220;Coronel&#8221;) hit George&#8217;s face repeatedly on the ground, the fight was stopped and the victory awarded to George.</p>
+<p>The next event caused controversy amongst the fighting community. George was faced against another capoeira guy called Jayme Martins Ferreira whom he beat with an armlock, but it was Oswaldo Gracie&#8217;s fight that caused turmoil. He was set to fight a giant greco-roman wrestler who was named Joao Baldi. Baldi weighed 135kg and was a mountail of a man. Everyone was waiting to see the Gracie be squashed by the big man, but instead Oswaldo disposed of Baldi in 58 seconds with a choke. No one in the stands had ever witnessed such a small man win against an adversary that big and immediately assumed the fight was a fix. The fighter (Baldi) didn&#8217;t help clear the air when (maybe trying to save face) he told the press that it was indeed a &#8220;marmelada&#8221; (fix) and that he would have never lost otherwise. When George read the interview in a newspaper, he was enraged, and being the hot head he was, he went out seeking for Baldi. When he found him, he beat him up in a public square. The beating was such that Baldi was hospitalized, and when he came out he pressed charges against the Gracie stating that he had been beaten with a brass knuckles, the police investigated the case, but as witnesses ditched the allegations stating that it was a fair fight, the case was closed.</p>
+<p>In December 1931 George Gracie was set again to fight a &#8220;Capoeirista&#8221;, this time Mario Aleixo. Mario was a champion, being regarded as Capoeira&#8217;s last hope against the Gracie Jiu Jitsu. The fight was a clean sweep for the Gracie once again who won with a quick armbar.</p>
+<p>The relationship between clan leader Carlos Gracie and George started deteriorating after the fight between Helio and Fred Ebert (one of Helio‘s first battles). This fight took place at the Sao Cristovao Atletico Clube and it lasted over 1 hour. Before any of the fighters gave up, the police intervened closing the show, stating that it was a gruesome spectacle. Ebert&#8217;s face was completely disfigured and he could barely stand but he hadn&#8217;t given up, so the fight was declared a draw. Carlos accepted the decision and moved on, but George was furious that the fight hadn&#8217;t been given to Helio and was extremely agitated towards Carlos for not sticking to Helio as the head of the family. Because of this the relationship between the two brothers started its collision path, but at the time they managed to patch up and continued training together.</p>
+<p>George&#8217;s golden period started around this time. He drew against a Japanese Jiu Jitsu fighter named Geo Omori but a succession of wins after the draw made his reputation reach an all time high. For that the fight against Tico Soledade certainly helped. Tico was somewhat of a celebrity in Rio de Janeiro, a power lifter and arm wrestling champion with a luta livre background who loved a brawl. At the time of the fight Tico weighed in at 80kg against the 63kg of George, but size didn&#8217;t matter for the Gracie as he finished the fight in the second round with a &#8220;Mata Leao&#8221; choke.</p>
+<p>After the fight with Tico the &#8220;Gato Ruivo&#8221; as George was called, opened up his own academy. Even though he was still managed by his older brother the distance between the two was evident.</p>
+<p>George was a wild man, always taking pleasure in the night life too much, but that didn&#8217;t seem to damage his unbeaten run as he continued winning fights. When he was called to fight Geo Omori once again, he got back into training mode and restarted his training with the brothers. He ended up beating Geo Omori when the Japanese fighter refused to come into the ring on the 10th round.</p>
+<p>George continued with his playboy behaviour after the fight with Omori, and when he fought another Japanese fighter called Shigeo he was almost caught. He was taken down and mounted but came back on the second round to finish Shigeo with a choke. This was the first warning that his life style was catching up with his fighting career but he didn’t slow down and continued fighting, competing everything he could (luta livre, Jiu Jitsu, Catch Wrestling and Vale Tudo).</p>
+<p>In 1934 George spent a week in Jail together with his brothers Helio and Carlos. The 3 Gracies had been acused of beating up a former challenger, Manuel Rufino, who had taken charges against the trio. The court set them free after the prosecution failed to present any sort of evidence.</p>
+<p>George started spending more time with the Luta Livre fighters (a form of grappling common in Brazil) and roaming further away from Carlos&#8217;s way of life. When George accepted another fight in luta livre rules, Carlos was very upset (as he believed George should stop fighing other styles and concentrate on BJJ) and told the press that George was no longer a representative of the Gracie way. George replied with some harsh words in a letter to the press, he wrote:</p>
+<p>&#8220;My brother Carlos is nothing when it comes to fighting. Carlos does not have the authority nor the competence to speak about Jiu Jitsu&#8230; Who created the sporting tradition of my family if not me, in all honesty, with my career?&#8221;</p>
+<p>But with the definite split between the brothers also came George&#8217;s first competitive loss. It happened on the 6th of October 1934 in Luta Livre rules against a polish fighter named Zbysco Waldek, George lost by armbar. This loss also marked a dark period in George&#8217;s sporting career as he drew on his following fight in Jiu Jitsu rules against Takeo Yano.</p>
+<p>This dark period was followed by a quiet 1935 were he fought lesser fights until in 1936 George rejoined the Gracie Academy and showed his true colours once again, replacing his brother Helio Gracie on short notice, he fought 3 opponents in one night winning against all of them. He went on to fight another made name in the wrestler and power lifting champion George Ruhmann also winning that fight. But he clashed against Carlos again when a fight promoter offered a great sum of money to put George against Helio on a ring. George accepted, but Carlos was completely against it and so the two brothers parted once again.</p>
+<p>George went on to fight all over the country, moving to were the fights were at, again fighting every style out there. He came back to Rio de Janeiro months later to fight a new Japanese fighter who had turned into a big name in the fight circuit, his name was Yassuiti Ono. George fought under Jiu Jitsu rules and lost again due to a strangle hold. George was angered at himself, but wasn&#8217;t convinced of the Japanese man&#8217;s technical abilities, he challenged Ono for a rematch, but Ono refused saying he wasn&#8217;t worthy of one, telling him he should fight his brother instead, an unknown fighter named Haditi Ono. This was a big step down for George and a risk to his reputation, but George accepted the challenge just so he could fight Yassuiti, he fought and won against Haditi but never received the rematch he wanted.</p>
+<p>In 1938 Helio retired from competition (at the age of 25), as Carlos and Oswaldo had done before him, leaving George as the only Gracie representative in the country. George fought for many years until he met the love of his life and moved to Sao Paulo to live the life of a business man. However he never stopped being the wild man he was, always spending more money then he had. Leaving him and his wife in dire straits on many occasions. </p>
+<p>George&#8217;s bond to Carlos was never the same although they re-established contact with eachother in the early 1950&#8242;s.</p>
+<p>George had a heated exchange of words with Helio when he (George) returned to Rio and opened an academy. The argument started because George decided to open his academy and used the Gracie name to advertise it. Helio did not want George to use the Gracie name as he felt it should be relating to his academy only (The fact that George was charging alot less then Helio was also part of the argument). In the end George stood his ground but hindured his relationship with his younger brother.</p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a>	</span>
+	<span class='tags'><a href="http://www.bjjheroes.com/tag/gracie-jiu-jitsu" rel="tag">gracie jiu jitsu</a></span></div>
+						</div>
+
+						
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are open, but there are no comments. -->
+
+	 
+
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/george-gracie-facts-and-bio#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='528' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="56e9ae6bc6" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-fighters/oswaldo-fadda-facts-and-bio" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/bjj-fighters/oswaldo-paqueta" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 300x250 */
+google_ad_slot = "2058166303";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://www.bjjheroes.com/feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://www.bjjheroes.com/feed" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(20)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+<li id="similar-posts" class="widget widget_rrm_similar_posts"><h3 class="widgettitle">Similar Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie" rel="bookmark" title="January 20, 2010">Helio Gracie</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile" rel="bookmark" title="January 19, 2010">Carlos Gracie Sr.</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-news/minotauro-working-hard-for-velazquez" rel="bookmark" title="February 17, 2010">Minotauro Working Hard for Velasquez</a></li>
+<li><a href="http://www.bjjheroes.com/grappling-wars-in-mma/jamil-silveira-vs-ivan-iberico" rel="bookmark" title="February 9, 2010">Jamil Silveira vs Ivan Iberico</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/huanderson-pavao" rel="bookmark" title="January 12, 2011">Huanderson Pavão (GFTeam)</a></li>
+</ul><!-- Similar Posts took 94.191 ms --></li>
+<li id="recent-posts" class="widget widget_rrm_recent_posts"><h3 class="widgettitle">Recent Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/yuki-nakai" rel="bookmark" title="January 23, 2011">Yuki Nakai (Paraestra)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/daniel-otero" rel="bookmark" title="January 23, 2011">Daniel Otero (Equipe Fabricio)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/raphael-chaves-catatau" rel="bookmark" title="January 19, 2011">Raphael Chaves “Catatau” (The Armoury)</a></li>
+<li><a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/ryan-hall-triangle-dvd-review" rel="bookmark" title="January 18, 2011">Ryan Hall Triangle DVD Set Review</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcus-almeida-buchecha" rel="bookmark" title="January 16, 2011">Marcus Almeida &#8220;Buchecha&#8221; (Checkmat)</a></li>
+</ul><!-- Recent Posts took 47.503 ms --></li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (4)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (216)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (34)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (8)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (39)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (1)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+
+</body>
+
+</html>

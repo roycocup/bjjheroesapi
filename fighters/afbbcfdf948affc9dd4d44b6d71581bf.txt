@@ -1,0 +1,807 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Carlson Gracie | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.0.3" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Carlson Gracie Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Sakuraba vs Newton Fight Video' href='http://www.bjjheroes.com/grappling-wars-in-mma/sakuraba-v-newton-fight-video' />
+<link rel='next' title='Waldemar Santana' href='http://www.bjjheroes.com/bjj-fighters/waldemar-santana-profile' />
+<meta name="generator" content="WordPress 3.0.3" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=22' />
+
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[280,318] -->
+<meta name="description" content="A true warrior of the Gracie Clan, son of Brazilian Jiu Jitsu’s founder Carlos Gracie, he was always one to speak his mind and somewhat of a Maverik. Get to know this warrior's story." />
+<meta name="keywords" content="carlson gracie academy,gracie jiu jitsu,bjj fighter database" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [939858456,889456138,857413726,872951837,790503187,541214491,2065239560,939728649,587860513,1766543966,1818189647,1868455246,723275589,1043598358,1883969311,1817399107,1767724617,2068864332,773786124,743112972,67634958,1611861531,743117406,67634958,721813533,1930304267,2068534359]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^1533767550;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "3413234153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-home menu-item-837"><a title="BJJ Heroes" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-864"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-841" class="menu-item menu-item-type-taxonomy current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-842" class="menu-item menu-item-type-taxonomy menu-item-842"><a title="Fresh News on BJJ" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-844"><a title="Tips to help improve your Jiu Jitsu" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top 10 BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top 10 BJJ Fighters Today</a></li>
+<li id="menu-item-843" class="menu-item menu-item-type-taxonomy menu-item-843"><a title="MMA Fight Videos" href="http://www.bjjheroes.com/category/grappling-wars-in-mma">MMA Fights</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-22">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile#comments">16</a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin/" title="Posts by admin">admin</a> on January 17th, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile" rel="bookmark" title="Permanent Link to Carlson Gracie">Carlson Gracie</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+							<iframe
+								style="height:25px !important; border:none !important; overflow:hidden !important; width:400px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+								src="http://www.linksalpha.com/social?link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Fcarlson-gracie-profile&title=Carlson+Gracie&desc=%5Bcaption+id%3D%22attachment_404%22+align%3D%22alignright%22+width%3D%22200%22+caption%3D%22Carlson+Gracie%22%5D%5B%2Fcaption%5DCarlson+Gracie+%28Born+13-08-1932%2C+deceased+01-02-2006+-+age+73%29+was+the+son+of+Gracie+Jiu+Jitsu+Founder+Ca&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fbsctr=1&twitterlang=en&twittermention=en&twitterrelated1=en&twitterrelated2=en&twctr=1&linkedinbutton=noshow">
+							</iframe>
+						</div><p><div id="attachment_404" class="wp-caption alignright" style="width: 210px"><a href="http://www.bjjheroes.com/wp-content/uploads/2010/01/carlson.jpg"><img src="http://www.bjjheroes.com/wp-content/uploads/2010/01/carlson.jpg" alt="Carlson Gracie" title="carlson" width="200" height="240" class="size-full wp-image-404" /></a><p class="wp-caption-text">Carlson Gracie</p></div>Carlson Gracie (Born 13-08-1932, deceased 01-02-2006 &#8211; age 73) was the son of Gracie Jiu Jitsu Founder <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie</a> and a top competitor in No Holds Barred matches during the 50’s and 60’s era. He was also one of the finest Jiu Jitsu coaches to have ever lived. His life was filled of turmoil with family feuds as well as scuffles with his own students, though he will always be remembered as a warm hearted person who made history in the sport and as one of the greatest BJJ masters to have ever lived, being directly linked to almost every major BJJ team in the world, such as Brazilian Top Team, Nova Uniao, American Top Team, Nova Geracao, BJJ Revolution team and many others.<br />
+.<br />
+Born in 1932, he started competing at the tender age of 5 at the “Campeonato Aberto de Jiu Jitsu e Luta Livre” and open championship between BJJ (plain Jiu Jitsu in those days) and wrestling. At the age of 17 he won the “Campeonato Carioca de Jiu Jitsu” Rio de Janeiro’s first State Jiu Jitsu Championship. He was never a avid student, though most of his academic failure came due to the long trips he and his uncles would make to different parts of the country looking for ways to display their family’s legacy (Gracie Jiu Jitsu). At the age of 15 he left school to dedicate himself fully to fighting.<br />
+.<br />
+His first professional fight came when he was 18 against the Judo wiz Sakai who weighed 92kg against Carlson’s 67kg. That fight was in grappling rules where no strikes were allowed and it ended in a draw as none of the two managed to submit each other during the arranged period. After this fight, Carlson Gracie released a press note challenging anyone in the country to come and fight him. This fight’s revenue would go to a charity fund towards the victims of the drought that was devastating the country’s Northwest region (in which his family had strong ties). Cirandinha, a 100kg Capoeira fighter took the challenge and Carlson defeated him after a verbal tapout due to strikes from the mount.<br />
+.<br />
+Carlson continued to compete always trying to improve his skillset, at the age of 23 he faced one of Brazil&#8217;s most renowned fighters, <a href="http://www.bjjheroes.com/bjj-fighters/waldemar-santana-profile">Waldemar Santana</a> was his name, and he had already on his resume a Knockout win over one of Carlson Gracie’s mentors, his uncle <a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio Gracie</a>. Carlson’s father Carlos Gracie went on record stating that he would give 300,000 real (a fortune in those days) if Waldemar managed to survive his son’s superior technique. Unfortunately for Carlos, Waldemar (according to the records) played a defensive fight and managed to keep at bay of Carlson’s attacks, the fight was labelled a draw and the money given to the happy Santana. Another fight was arranged soon after, and this time Carlson managed to get the fight win he so anxiously looked for in order to save his family’s honour. The fight was won at a sold out 40,000 seats at Maracanãzinho in Rio de Janeiro due to strikes from the mount. Both fighters met  again a couple of years later, although hype and expectation of the 1st two fights had passed away and the 3rd fight was a lacklustre draw once again.<br />
+.<br />
+Carlson was always a creative fighter and teacher, he used to go to the beach in Rio and ask for people to fight him, the challengers could use any methods at their disposal (punches, kicks, head butts, the works) while Carlson would only use his grappling although never submitting. He would wear them out until they gave up.<br />
+.<br />
+Carlson reigned supreme during almost 30 years. He broke up with Gracie Academy and Helio Gracie mainly due to the fact that he believed Helio and his teachers were only teaching basic techniques to the outsiders, keeping the fundamentals to themselves. Carlson believed the only way to move forward is to test yourself, and to do so you needed open your knowledge to the public. He opened the famous “Carlson Gracie Arrebentação team” and went on to teach and in the process he assembled one of the greates teams that ever competed, with fighters like <a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach">André Pederneiras “Dedé”</a> founder of Nova Uniao, <a href="http://www.bjjheroes.com/bjj-fighters/murilo-bustamante">Murilo Bustamante</a> a BJJ World Champion and UFC middleweight champion as well as founder of BTT (Brazilian Top Team), Former UFC Lightweight Champion Vitor Belfort “the Phenom”, <a href="http://www.bjjheroes.com/bjj-fighters/wallid-ismail-facts-and-bio">Walid Ismail</a> (another BJJ legend) amongst many, many others. This team would break up in the early 2000&#8242;s mainly because Carlson was spending most of his time in the United States leaving the Rio de Janeiro team relegated to a secondary stage. Most of the students from Brazil decided to open their own academy though some remained faithful to their master.<br />
+.<br />
+Always opinionated and charismatic, his loss in 2006 was one of the biggest in Jiu Jitsu and achievements will be remembered forever, he passed away in Chicago, USA .<br />
+.</p>
+<h2>List of Carlson Gracie&#8217;s Black Belts</h2>
+<p>Aaron Laponte<br />
+Alberto dos Santos<br />
+Alexandre Nascimento de Oliveira<br />
+Alexandre Macedo<br />
+Alexandre Derizans<br />
+Allan Goes<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/amaury-bitetti-facts-and-bio">Amaury Bitetti</a><br />
+André Mendes<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach">André Pederneiras</a><br />
+Anselmo Montenegro<br />
+Antônio Cláudio Correia Leite Buchaul<br />
+Antônio Gadelha &#8220;Tony Malone&#8221;<br />
+Antônio Ricardo Bittencourt Cavalcanti<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ricardo-liborio">Antonio Ricardo Jardim Liborio</a><br />
+Antônio &#8216;Tuninho&#8221; Rodrigues<br />
+Armando &#8220;Maninho&#8221; Alves Gonçalves Filho<br />
+André Mendes<br />
+Arthur Vírgilio Neto<br />
+Ary Galo<br />
+Bráulio Carsalade<br />
+Cassio Cardoso<br />
+Carley Gracie (Brother)<br />
+Carlos &#8220;Penão&#8221; Alexandre Conceição<br />
+Carlos Antônio Rosado<br />
+Carlos “Bagana”<br />
+Carlos Henrique &#8220;Caíque&#8221; Vieira Cavalcanti Gomes de Oliveira<br />
+Carlos Rollyson<br />
+Carlson Gracie Júnior<br />
+Carlson Guimaraes<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/cassio-cardoso">Cássio Cardoso</a><br />
+Christian Kennedy Grandi<br />
+Clayton de Souza<br />
+Clóvis de Souza<br />
+Crézio de Souza<br />
+Daniel Cristoph<br />
+Djalma José de Santana Filho<br />
+Edyr Moreira da Silva &#8220;Monge&#8221;<br />
+Edson Carvalho &#8220;Baiano&#8221;<br />
+Elair Gilberto da Silva Reis<br />
+Élcio Figueiredo<br />
+Fábio Macieira<br />
+Felipe Fígalo Barbosa<br />
+Fernando Carlos &#8220;Nutri-Baby&#8221; Carvalho da Silva<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/fernando-pinduka">Fernando &#8220;Pinduka&#8221; Melo Guimarães</a><br />
+Fernando Rosenthal<br />
+Francisco “Grego” Trivelas<br />
+Francisco &#8220;Toco&#8221; Albuquerque Neto<br />
+Gustavo Gussem<br />
+Gutenberg Mello<br />
+Henrique Chvaicer<br />
+Isaias De Souza<br />
+Francisco &#8220;Grego&#8221; Trivelas<br />
+Jerônimo Dix-Huit Rosado Ventura<br />
+João Antônio Fernandes Filho<br />
+José de Oliveira<br />
+José Eduardo Vieira Cavalcanti Gomes de Oliveira<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ze-mario-sperry-mma-and-bjj-fighter-wiki">José Mário Sperry</a><br />
+Júlio César &#8220;Foca&#8221; Nunes<br />
+Léo D&#8217;Ilha<br />
+Luis Fernando “Nando” Da Costa<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/luis-carlos-manimal">Luís Carlos &#8220;Manimal&#8221; Mateus</a><br />
+Luiz “Bebeo” Duarte<br />
+Luís Carlos Vallois<br />
+Luís Cláudio Isaías de Souza<br />
+Luís Fernando &#8220;Nando&#8221; Costa<br />
+Manoel Maria &#8220;Maneco&#8221; Cardoso Neto<br />
+Marcel Laguna Duque Estrada<br />
+Marcelo Allonso Duque Novais<br />
+Marcelo Alonso<br />
+Marcelo Pache<br />
+Marcelo Procópio<br />
+Marcelo &#8220;Bocão&#8221;<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcelo-saporito">Marcelo Saporito</a><br />
+Marcelo Tadeu Domigues de Oliveira<br />
+Marco Aurélio Kühner de Oliveira<br />
+Marco Aurélio Lisboa Valladares<br />
+Marcos “Parrumpinha” Da Matta<br />
+Marcus Vinícius de Macedo Soares<br />
+Marcus &#8220;Conan&#8221; Vinícius Figueiredo da Silveira Júnior<br />
+Mário Cupertino<br />
+Marvin Swhab<br />
+Mauricio “Saddam”<br />
+Miguel Kelner<br />
+Miguel Monteiro de Carvalho<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/murilo-bustamante">Murilo Bustamante</a><br />
+Orlando Saraiva<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/oswaldo-paqueta">Oswaldo &#8220;Paquetá&#8221; Gomes da Rosa</a><br />
+Oswaldo Viana<br />
+Otávio Augusto &#8220;Peixotinho&#8221; de Oliveira<br />
+Paulo &#8220;Mamão&#8221; de Albuquerque Martins Pereira Filho<br />
+Paulo Leite Filho &#8220;Paulão&#8221;<br />
+Pedro Paulo de Secco Freire<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/renato-tavares">Renato Tavares</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ricardo-de-la-riva-wiki-bio">Ricardo de La Riva Goded</a><br />
+Ricardo Jucá Santos<br />
+Ricardo Luís &#8220;Ray&#8221; Moraes Diogo<br />
+Ricardo Luiz Perrone<br />
+Ricardo &#8220;Kiko&#8221; Velloso<br />
+Rocyan Gracie (brother)<br />
+Rodrigo Medeiros<br />
+Sérgio Abimerhy<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/sergio-bolao-souza">Sérgio &#8220;Bolão&#8221; de Souza</a><br />
+Sérgio Íris de Almeida<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/wallid-ismail-facts-and-bio">Wallid Farid Ismail</a><br />
+Walter &#8220;Soldado&#8221; da Silva<br />
+Walter Guimarães<br />
+Wander de Souza<br />
+Vauvernargues Xavier Vicentini<br />
+Vitor Belfort</p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a>	</span>
+	<span class='tags'><a href="http://www.bjjheroes.com/tag/carlson-gracie" rel="tag">Carlson Gracie Academy</a>, <a href="http://www.bjjheroes.com/tag/gracie-jiu-jitsu" rel="tag">gracie jiu jitsu</a></span></div>
+						</div>
+
+						
+<!-- You can start editing here. -->
+
+
+	<div class="allcomments">
+
+		<h3 id="comments">Comments (16)</h3>
+
+		<p class="comments-number"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/trackback" title="Trackback URL">Trackback URL</a> | <a title="Comments RSS Feed for This Entry" href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profilefeed">Comments RSS Feed</a></p>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+		<ol class="commentlist">
+					<li class="pingback even thread-even depth-1" id="comment-20">
+				<div id="div-comment-20" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/uncategorized/andre-pederneiras-bjj-and-mma-coach' rel='external nofollow' class='url'>Andre Pederneiras BJJ and MMA Coach&nbsp;|&nbsp;BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-20">
+			January 23, 2010 at 6:47 pm</a>		</div>
+
+		<p>[...] is not much history about Andre Pederneiras’s childhood. He started his training under Carlson Gracie, whom later gave him his Black Belt. In the early 1990’s he split Carlson’s academy to start [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-79">
+				<div id="div-comment-79" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/ze-mario-sperry-mma-and-bjj-fighter-wiki' rel='external nofollow' class='url'>Ze Mario Sperry MMA and BJJ Fighter Wiki</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-79">
+			February 23, 2010 at 6:41 am</a>		</div>
+
+		<p>[...] so much he made it his life style, and within a month he received his Blue Belt from the hands of Master Carlson Gracie, the same person that would award him with the Black Belt years [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback even thread-even depth-1" id="comment-155">
+				<div id="div-comment-155" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/bruno-malfacine-bjj-wiki' rel='external nofollow' class='url'>Bruno Malfacine BJJ Bio | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-155">
+			March 18, 2010 at 6:37 am</a>		</div>
+
+		<p>[...] Malfacine&#8217;s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Helio Gracie &gt; Carlson Gracie &gt; Vinicios Amaral &gt; Bruno [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-182">
+				<div id="div-comment-182" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/jean-kleber-bjj-wiki' rel='external nofollow' class='url'>Jean Kleber BJJ Wiki | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-182">
+			March 19, 2010 at 5:37 am</a>		</div>
+
+		<p>[...] Kleber&#8217;s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Carlson Gracie &gt; André Pederneiras &gt; Jair Lourenco &gt; Jean [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback even thread-even depth-1" id="comment-209">
+				<div id="div-comment-209" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/robson-moura-bjj-fighter' rel='external nofollow' class='url'>Robson Moura BJJ Fighter | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-209">
+			March 20, 2010 at 11:19 am</a>		</div>
+
+		<p>[...] Moura&#8217;s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Carlson Gracie &gt; Andre Pederneiras &gt; Robson [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-227">
+				<div id="div-comment-227" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/alexandre-pulga-pimentel-wiki' rel='external nofollow' class='url'>Alexandre “Pulga” Pimentel Wiki | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-227">
+			March 20, 2010 at 4:00 pm</a>		</div>
+
+		<p>[...] Pimentel’s Lineage: Mitsuyo Maeda &gt;  Carlos Gracie &gt; Carlson Gracie &gt; Francisco “Toco” Albuquerque &gt; Alexandre [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback even thread-even depth-1" id="comment-255">
+				<div id="div-comment-255" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/ricardo-demente-abreu-wiki' rel='external nofollow' class='url'>Ricardo "Demente" Abreu Wiki | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-255">
+			March 24, 2010 at 7:32 am</a>		</div>
+
+		<p>[...] Demente&#8217;s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Carlson Gracie &gt; Andre Pederneiras &gt; Robson Moura &gt; Ricardo [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-267">
+				<div id="div-comment-267" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/shaolin-ribeiro-bjj-and-mma-fighter-bio' rel='external nofollow' class='url'>Vitor "Shaolin" Ribeiro Jiu Jitsu and MMA Wiki | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-267">
+			March 26, 2010 at 3:52 am</a>		</div>
+
+		<p>[...] Shaolin Ribeiro&#8217;s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Carlson Gracie &gt; Andre Pederneiras &gt; Vitor [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback even thread-even depth-1" id="comment-289">
+				<div id="div-comment-289" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/roberto-cyborg-abreu-bjj-fighter-wiki' rel='external nofollow' class='url'>Roberto Cyborg Abreu BJJ Fighter Wiki | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-289">
+			March 29, 2010 at 1:44 am</a>		</div>
+
+		<p>[...] Cyborg&#8217;s BJJ Lineage: Mitsuyo Maeda &gt;  Carlos Gracie &gt; Carlson Gracie &gt; Francisco Albuquerque &gt; Roberto [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-361">
+				<div id="div-comment-361" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-news/ricardo-de-la-riva-wiki-bio' rel='external nofollow' class='url'>Ricardo De La Riva Wiki (Bio) | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-361">
+			April 2, 2010 at 12:26 pm</a>		</div>
+
+		<p>[...] De La Riva’s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Carlson Gracie &gt; Ricardo De La [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback even thread-even depth-1" id="comment-391">
+				<div id="div-comment-391" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/marlon-sandro-wiki-bio' rel='external nofollow' class='url'>marlon Sandro Wiki (Bio) | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-391">
+			April 5, 2010 at 3:36 pm</a>		</div>
+
+		<p>[...] lot of natural talent. . Marlon Sandro’s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Helio Gracie &gt; Carlson Gracie &gt; André Pederneiras &gt; Marlon Sandro . Marlon Sandro’s Favourite Position (BJJ): Arm Triangle [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-569">
+				<div id="div-comment-569" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/bj-penn-wiki' rel='external nofollow' class='url'>BJ Penn Facts and Bio - BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-569">
+			April 19, 2010 at 1:29 am</a>		</div>
+
+		<p>[...] of training. .  BJ Penn&#8217;s Jiu Jitsu Lineage:  Mitsuyo Maeda &gt; Carlos Gracie &gt; Helio Gracie &gt; Carlson Gracie &gt; André Pederneiras &gt; BJ Penn . BJ Penn’s Weight Category (BJJ/MMA): BJ was a Featherweight in [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-1619">
+				<div id="div-comment-1619" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/b11c0b2e6494c9d93927ae3eb19b9cb5?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Kale Thompson</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-1619">
+			August 21, 2010 at 8:00 pm</a>		</div>
+
+		<p>Isnt Ricardo Liborio a Carlson Black belt? (Also adds ATT to Carlsons lineage!)</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-1623">
+				<div id="div-comment-1623" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d07ff2d7462e2062bf041e26066a70a9?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">admin</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-1623">
+			August 22, 2010 at 5:05 am</a>		</div>
+
+		<p>Hi Kale, </p>
+<p>Yes he is, and he is there on the list also. His name is Antonio Ricardo Jardim Liborio&#8230;</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-3725">
+				<div id="div-comment-3725" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/10412d72519520170fb1fe6f0a194f57?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">William</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-3725">
+			December 28, 2010 at 9:19 am</a>		</div>
+
+		<p>You forgot Rinaldo Santos 3rd degree black belt</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-3767">
+				<div id="div-comment-3767" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d07ff2d7462e2062bf041e26066a70a9?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">admin</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile/comment-page-1#comment-3767">
+			January 1, 2011 at 1:00 pm</a>		</div>
+
+		<p>Hi William,</p>
+<p>The 109 displayed here are the official ones released by Tatame. I do believe there are a few missing including Rinaldo and Jorge Popovitch, but this is the official list.</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		</ol>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+	</div>
+
+ 
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/carlson-gracie-profile#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='22' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="0be5939d17" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/grappling-wars-in-mma/sakuraba-v-newton-fight-video" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/bjj-fighters/waldemar-santana-profile" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 300x250 */
+google_ad_slot = "2058166303";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://www.bjjheroes.com/feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://www.bjjheroes.com/feed" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(20)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+<li id="similar-posts" class="widget widget_rrm_similar_posts"><h3 class="widgettitle">Similar Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/cassio-cardoso" rel="bookmark" title="December 12, 2010">Cássio Cardoso</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/alexandre-de-souza-facts-and-bio" rel="bookmark" title="May 2, 2010">Alexandre de Souza (Gracie Floripa)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcelo-saporito" rel="bookmark" title="January 3, 2011">Marcelo Saporito (Carlson Gracie)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/charles-do-bronx-oliveira" rel="bookmark" title="December 19, 2010">Charles &#8220;do Bronx&#8221; Oliveira</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/sergio-bolao-souza" rel="bookmark" title="December 23, 2010">Sergio Bolao Souza</a></li>
+</ul><!-- Similar Posts took 138.926 ms --></li>
+<li id="recent-posts" class="widget widget_rrm_recent_posts"><h3 class="widgettitle">Recent Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/yuki-nakai" rel="bookmark" title="January 23, 2011">Yuki Nakai (Paraestra)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/daniel-otero" rel="bookmark" title="January 23, 2011">Daniel Otero (Equipe Fabricio)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/raphael-chaves-catatau" rel="bookmark" title="January 19, 2011">Raphael Chaves “Catatau” (The Armoury)</a></li>
+<li><a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/ryan-hall-triangle-dvd-review" rel="bookmark" title="January 18, 2011">Ryan Hall Triangle DVD Set Review</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcus-almeida-buchecha" rel="bookmark" title="January 16, 2011">Marcus Almeida &#8220;Buchecha&#8221; (Checkmat)</a></li>
+</ul><!-- Recent Posts took 180.694 ms --></li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (4)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (216)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (34)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (8)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (39)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (1)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+
+</body>
+
+</html>
