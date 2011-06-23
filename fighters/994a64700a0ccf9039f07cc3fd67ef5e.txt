@@ -1,0 +1,527 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Marcelo Garcia | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.0.3" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Marcelo Garcia (Alliance) Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Nino Schembri (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/nino-schembri' />
+<link rel='next' title='Sakuraba vs Newton Fight Video' href='http://www.bjjheroes.com/grappling-wars-in-mma/sakuraba-v-newton-fight-video' />
+<meta name="generator" content="WordPress 3.0.3" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=16' />
+
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[280,329] -->
+<meta name="description" content="Marcelo Garcia Facts and Achievements as well as his life story. A true grappling prodigy since the very beginning, considered by most the best Pd 4 Pd BJJ'er." />
+<meta name="keywords" content="marcelo garcia wiki, marcelinho garcia wiki, macelinho jiu jitsu, marcelo garcia jiu jitsu,alliance bjj,bjj fighter database" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [259460717,41292415,73993259,58336360,409733990,389043054,426581625,1564022137,1546537276,1564037419,1546537276,1564037163,1512984120,1281645360,259066748,24516692,158142075,1277317667]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^1813609227;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "3413234153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-home menu-item-837"><a title="BJJ Heroes" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-864"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-841" class="menu-item menu-item-type-taxonomy current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-842" class="menu-item menu-item-type-taxonomy menu-item-842"><a title="Fresh News on BJJ" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-844"><a title="Tips to help improve your Jiu Jitsu" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top 10 BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top 10 BJJ Fighters Today</a></li>
+<li id="menu-item-843" class="menu-item menu-item-type-taxonomy menu-item-843"><a title="MMA Fight Videos" href="http://www.bjjheroes.com/category/grappling-wars-in-mma">MMA Fights</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-16">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile#comments">2</a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin/" title="Posts by admin">admin</a> on January 08th, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile" rel="bookmark" title="Permanent Link to Marcelo Garcia (Alliance)">Marcelo Garcia (Alliance)</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+							<iframe
+								style="height:25px !important; border:none !important; overflow:hidden !important; width:400px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+								src="http://www.linksalpha.com/social?link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Fmarcelo-garcia-fighter-profile&title=Marcelo+Garcia+%28Alliance%29&desc=%5Bcaption+id%3D%22attachment_309%22+align%3D%22alignright%22+width%3D%22200%22+caption%3D%22Marcelo+Garcia+BJJ%22%5D%5B%2Fcaption%5DMarcelo+Garcia+also+known+as+%E2%80%9CMarcelinho%E2%80%9C%2C+is+one+of+the+most+loved+fighters+in+the+BJJ+community&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fbsctr=1&twitterlang=en&twittermention=en&twitterrelated1=en&twitterrelated2=en&twctr=1&linkedinbutton=noshow">
+							</iframe>
+						</div><p><div id="attachment_309" class="wp-caption alignright" style="width: 210px"><a href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile/attachment/marcelinho-2" rel="attachment wp-att-309"><img src="http://www.bjjheroes.com/wp-content/uploads/2010/01/marcelinho1.jpg" alt="Marcinho Garcia" title="marcelinho" width="200" height="240" class="size-full wp-image-309" /></a><p class="wp-caption-text">Marcelo Garcia BJJ</p></div>Marcelo Garcia also known as “Marcelinho“, is one of the most loved fighters in the BJJ community. With an entourage of fans throughout the grappling circuit earned by his Jiu Jitsu prowess and his amicable demeanor. Marcelo Garcia is considered by many as one of the <a href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">All Time Best BJJ Fighters</a> to have ever entered a mat, including by <em>Rubber Guard</em> guru Eddie Bravo, who considered Marcelo to be the BJJ “messiah“, after watching him in action.<br />
+.</p>
+<h2>Marcelinho Garcia&#8217;s in Detail</h2>
+<p><strong>Nickname:</strong> Marcelinho is a friendly way of saying Marcelo, kind of like “little Marcelo”<br />
+.<br />
+<strong>Lineage:</strong> Mitsuyo Maeda &gt; <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/rolls-gracie-profile">Rolls Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/romero-jacare-cavalcanti-wiki">Romero Cavalcanti</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki">Fabio Gurgel</a> &gt; Marcelo Garcia.<br />
+.<br />
+<strong>Main Achievements (BJJ/Grappling):</strong></p>
+<ul>
+<li>3x ADCC champion (2003, 2005, 2007)</li>
+<li>4x  World champion at black belt (2004, 2006, 2009, 2010)</li>
+<li>Pan-Am Champion (2007)</li>
+<li>3x Brazilian National Champion (2004 and 2006 at Middleweight and 2006 in the Absolute division).</li>
+</ul>
+<p><strong>Favorite Position/Submission/Technique:</strong> X-Guard, Guilhotina and Mata Leao.<br />
+.<br />
+<strong>Weight Division:</strong> Peso Medio/Middleweight (82Kg-181lbs).<br />
+.<br />
+<strong>Team/Affiliation:</strong> Team Aliance</p>
+<h3>Marcelo Garcia Biography</h3>
+<p>Marcelo Garcia was born in a small town called Formiga (which means “Ant” in English) in the state of Minas Gerais, Brazil (1983).</p>
+<p>He realized he wanted to pursue Martial Arts at a very young age, by watching 1980’s blockbusters as a child, movies like the Karate Kid or older films like Enter the Dragon were amongst his favourites. Even though Marcelinho lived in a Brazilian town, Jiu Jitsu was not available as it was famous mainly in the big cities (in fact Marcelo didn’t hear about BJJ until years later).</p>
+<p>Hyped by the films he loved, he began practicing Karate at the age of 8. He spent years dedicating himself to the Japanese Martial Art, focusing on the Kata’s and rigid sequences of this fighting style and often competing in local tournaments. Although Garcia dedicated a lot of energy to succeed in Karate, He couldn’t see how those rigid movements could be applied in a proper struggle and grew disenchanted with his training. After 4 years he decided to stop training all together.</p>
+<p>After one year away from martial arts, a friend invited him to a Judo class. Marcelo did not like grappling and had perceived ideas that in a fight a striker would overwhelm a grappler. He still made it to the Judo session, taught by a Judoka, Fabiano de Souza. Marcelo enjoyed the aggressiveness of the Judo game, and decided to give Martial Arts another go.</p>
+<p>His love for Judo grew strong helped by some good tournament wins. Getting more familiar with his coach, Marcelo found that he was also a Jiu Jitsu enthusiast, training BJJ 3 times a week in a neighbouring city called Devinopolis. Eager to follow his master’s footsteps, Marcelinho asked him if he could also attend one of these Jiu Jitsu sessions to which Fabiano agreed, and so on the next opportunity Marcelo made it to his first class under <a href="http://www.bjjheroes.com/bjj-fighters/rickson-gracie-facts-and-bio">Rickson Gracie</a> black belt Iran Brasileiro accompanied by his Judo instructor de Souza.</p>
+<p>Soon Marcelo started adding Jiu Jitsu classes to his regular training routine, making 3 trips every week to Iran Brasileiro’s academy. His first BJJ competition didn’t go as planned as he lost on the first match, but that didn’t put out his fire to compete again. He began buying BJJ magazines to learn new techniques, practicing them with his training partners.</p>
+<p>At one point, he heard of a good Gracie Barra academy in Ribeirao Preto which was many miles away from his town, in the state of Sao Paulo. Marcelo took a trip down to R.P. and there he saw a much more evolved BJJ game, with guys making spider and half guard, techniques that Garcia had never seen before. He recognized that it would be hard for him to ever become a World Champion training in Devinopolis and started thinking of how he could move to a bigger town were he could train with a better team.</p>
+<p>Before he had time to conjure his plan, Marcelo went to compete in a state tournament, there he met Paulo Rezende who invited him to come and train full time at his academy. Paulo Rezende (aka Paulao) had a much bigger team in Poco de Caldas and offered him free training and a place to sleep at the gym in exchange for Marcelo to do day-to-day chores (cleaning the mats, errands, etc). Marcelo agreed, and after getting the nod from his parents he travelled the necessary 10 hours by bus  ride to Paulao’s academy, he was 16 at the time.</p>
+<p>In this new academy and under Paulao’s supervision Marcelo started training 4x a day, with his first training session at 6am, the second at 8am, the third at 3pm and finally the last one ay 7pm. During this period, Marcelo started working on his guard. Being a former Judoka, his top game was his strength, but his guard needed desperately to improve, and so for months he played on his back getting trashed in the beginning, but managing to successfully ad this new weapon to his BJJ arsenal.</p>
+<p>In one competition while he was still fighting in the Junior Division, his coach enlisted him in the adult absolute division, Marcelinho was very reluctant to accept such a tough challenge, but he agreed to be put on the list. Marcelo fought bravely in the tournament reaching the final against an adult fighter who weighed over 300 pounds. The rules were different from standard IBJJ rules, there were no points and no time limit. Garcia ended up winning the fight by choke after a gruelling 45 minute match. From that moment on Garcia started participating in every open weight category he could.</p>
+<p>Always trying to compete at the highest level, Marcelinho traveled up and down Brazil, on one of these travels, in Rio de Janeiro, he was barred from entering a tournament because of a problem with the entrance fees. At one point, a girl that belonged to the organization helped him out and convinced the rest of the crew to allow Marcelo in the competition, and so they did. After he finished competing, Marcelo introduced himself to the girl who had helped him previously. Her name was Tatiana, and the two started dating shortly after… She would later become his wife.</p>
+<p>With his intense training program, Marcelo started winning championships, first the State championships and later his first Mundials (World Championships) victory. After his first Mundial victory he realised all his potential and really started believing in his potential. His (now) girlfriend, Tatiana, convinced him that his career would benefit a lot from a move to a bigger team in Sao Paulo, and so after an invitation by Alliance’s <a href="http://www.bjjheroes.com/bjj-fighters/fernando-augusto-terere-bio">Fernando Augusto “Terere”</a> to be an assistant coach at his academy, he left to Sao Paulo one of the biggest Jiu Jitsu centres in the World.</p>
+<p>Life was hard teaching at Terere and <a href="http://www.bjjheroes.com/bjj-fighters/leo-vieira-facts-and-bio">Leo Vieira’s</a> place, the money was scarce and all he could afford was a place hours away from the gym, so when <a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki">Fabio Gurgel</a> offered him an assistant coach place at his gym in the Alliance Team’s Headquarters, he gladly accepted.</p>
+<p>With this new partnership with Gurgel (who is one of the World’s top BJJ instructors) Garcia’s BJJ gave a huge step forward once again. It was also a period in which he started making a little bit more money allowing him to stabilize his finances. During this period, Marcelo picked up on training without the kimono for the first time, he was a Brown Belt then and had never trained or competed in nogi.</p>
+<p>Always willing to compete as often as possible, when the Brazilian ADCC trials came up, Marcelo decided to sign up for the famous competition. He fought well and made it to the final, losing it by -1 point (guard pull) against <a href="http://www.bjjheroes.com/bjj-fighters/daniel-moraes-facts-and-bio">Daniel Moraes</a>. By ADCC rules, he would not make it to the final stage because he did not win the trials, but as Denis Hallman pulled out, he was called in at the last minute as a replacement. Being a huge underdog in the World’s most prestigious tournament he also ended in one of the toughest brackets in the competition, pairing up against Renzo Gracie and Vitor Ribeiro. He defeated both and won the final reaching the pinnacle of Submission Wrestling, with the competition’s earnings Marcelinho offered his father a 2000 Ford Focus to replace his ancient 1984 Volkswagen.</p>
+<p>His successful run at both BJJ and Submission Wrestling continued as he won both the World Championships, Submission de Campos and ADCC once again. Having won every major title in submission grappling and Brazilian Jiu Jitsu, Marcelinho engajed in a new challenge, trying his chance on a career as a fighter in the world of mixed martial arts (MMA) joining the Florida MMA academy, American Top Team. Even though Garcia had set his eyes on this new venture, he was still an avid competitor on the major grappling tournaments and always under the Alliance banner.</p>
+<p>In 2009 Marcelo opened an academy in New York, starting to distance himself from his MMA Career, dedicating full time to his new academy and his students. Having lost its spark for MMA, he stated openly in an interview on March 2010, that he would no longer compete in MMA, also announcing his decision to return to BJJ, with a comeback expected for the World Championships later in 2010.</p>
+<p><a href="http://gan.doubleclick.net/gan_click?lid=41000000031174305&amp;pubid=21000000000302733"><img title="BJJ DVDs and Merchandise" src="http://gan.doubleclick.net/gan_impression?lid=41000000031174305&amp;pubid=21000000000302733" alt="" width="468" height="60" /></a></p>
+<p>Marcelo Garcia vs Diego &#8220;The Nightmare&#8221; Sanchez, ADCC 2005<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/mXF8U2xEDvk&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/mXF8U2xEDvk&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Marcelo Garcia Highlight<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/AY8JlJZBgCk?fs=1&amp;hl=en_GB" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/AY8JlJZBgCk?fs=1&amp;hl=en_GB" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a>	</span>
+	<span class='tags'><a href="http://www.bjjheroes.com/tag/alliance-bjj" rel="tag">Alliance BJJ</a></span></div>
+						</div>
+
+						
+<!-- You can start editing here. -->
+
+
+	<div class="allcomments">
+
+		<h3 id="comments">Comments (2)</h3>
+
+		<p class="comments-number"><a href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile/trackback" title="Trackback URL">Trackback URL</a> | <a title="Comments RSS Feed for This Entry" href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profilefeed">Comments RSS Feed</a></p>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+		<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="comment-1592">
+				<div id="div-comment-1592" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/625ced9370ad6810a87c62939e71c640?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Robert</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile/comment-page-1#comment-1592">
+			August 12, 2010 at 1:12 pm</a>		</div>
+
+		<p>Amazing bio!</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-3048">
+				<div id="div-comment-3048" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/fa3121d8745ba014fd6d93330ef3501a?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Iran Brasileiro</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile/comment-page-1#comment-3048">
+			November 5, 2010 at 1:35 pm</a>		</div>
+
+		<p>Valeu guerreiro</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		</ol>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+	</div>
+
+ 
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/marcelo-garcia-fighter-profile#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='16' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="23e5929464" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-fighters/nino-schembri" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/grappling-wars-in-mma/sakuraba-v-newton-fight-video" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 300x250 */
+google_ad_slot = "2058166303";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://www.bjjheroes.com/feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://www.bjjheroes.com/feed" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(20)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+<li id="similar-posts" class="widget widget_rrm_similar_posts"><h3 class="widgettitle">Similar Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-news/marcelo-garcia-vs-andrei-arlovski" rel="bookmark" title="January 21, 2010">Marcelo Garcia vs Andrei Arlovski</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/gabrielle-garcia-bjj" rel="bookmark" title="August 10, 2010">Gabrielle Garcia (Alliance)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcelo-saporito" rel="bookmark" title="January 3, 2011">Marcelo Saporito (Carlson Gracie)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/sergio-moraes-bjj-fighter-wiki" rel="bookmark" title="February 6, 2010">Sergio Moraes (Alliance)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/rolles-gracie-ufc-fighter-bio" rel="bookmark" title="January 23, 2010">Rolles Gracie (Gracie Barra)</a></li>
+</ul><!-- Similar Posts took 75.425 ms --></li>
+<li id="recent-posts" class="widget widget_rrm_recent_posts"><h3 class="widgettitle">Recent Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/yuki-nakai" rel="bookmark" title="January 23, 2011">Yuki Nakai (Paraestra)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/daniel-otero" rel="bookmark" title="January 23, 2011">Daniel Otero (Equipe Fabricio)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/raphael-chaves-catatau" rel="bookmark" title="January 19, 2011">Raphael Chaves “Catatau” (The Armoury)</a></li>
+<li><a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/ryan-hall-triangle-dvd-review" rel="bookmark" title="January 18, 2011">Ryan Hall Triangle DVD Set Review</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcus-almeida-buchecha" rel="bookmark" title="January 16, 2011">Marcus Almeida &#8220;Buchecha&#8221; (Checkmat)</a></li>
+</ul><!-- Recent Posts took 123.091 ms --></li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (4)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (216)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (34)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (8)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (39)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (1)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+
+</body>
+
+</html>

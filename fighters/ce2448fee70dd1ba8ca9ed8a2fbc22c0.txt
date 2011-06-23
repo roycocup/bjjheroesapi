@@ -1,0 +1,470 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Rubens Charles Cobrinha | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.0.3" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Rubens Charles &#8220;Cobrinha&#8221; (Alliance) Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Andre Galvao (Atos)' href='http://www.bjjheroes.com/bjj-fighters/andre-galvao-bjj-and-mma-fighter-wiki' />
+<link rel='next' title='Ricardo Arona vs Murilo Ninja Rua Great MMA Fight' href='http://www.bjjheroes.com/grappling-wars-in-mma/ricardo-arona-vs-murilo-ninja-rua-great-mma-fight' />
+<meta name="generator" content="WordPress 3.0.3" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=147' />
+
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[280,352] -->
+<meta name="description" content="The best BJJ Feather weight fighter of all time, some say, Rubens Charles story and list of achievements can be found here." />
+<meta name="keywords" content="rubens charles wiki, cobrinha bjj wiki, rubens charles cobrinha bio, ,alliance bjj,bjj fighter database" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [1505637993,1421814395,1386230831,1437801580,1319449442,1106865002,446833273,1505244024,1118905936,418414127,199324479,182547007,199324222,182481471,182547006,199324479,182481726,451633470,446833273,1505244024,1118971472,183533103,1537631028,1252483965,1603215463,133184364,451638063,1454975864,1252485994,1603215463,116407148,1386230831,1538595948,1606184311,1386488929,1408251942,1252485993,1603215463,1509833582,2074223207,1252486011,1603215463,452541292,418414130,452550974,1252483956,1603215463,300956525,1537041202,1258171259,150484064,1252483875,1603215463,33110892,1307590191,1706240895,296231018,1206941732,1320497455,448672122,1505244024,1118971472,1307590196,1706240895,1253911660,313866106,451967014]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^986727183;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "3413234153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-home menu-item-837"><a title="BJJ Heroes" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-864"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-841" class="menu-item menu-item-type-taxonomy current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-842" class="menu-item menu-item-type-taxonomy menu-item-842"><a title="Fresh News on BJJ" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-844"><a title="Tips to help improve your Jiu Jitsu" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top 10 BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top 10 BJJ Fighters Today</a></li>
+<li id="menu-item-843" class="menu-item menu-item-type-taxonomy menu-item-843"><a title="MMA Fight Videos" href="http://www.bjjheroes.com/category/grappling-wars-in-mma">MMA Fights</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-147">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki#comments">1</a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin/" title="Posts by admin">admin</a> on February 07th, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki" rel="bookmark" title="Permanent Link to Rubens Charles &#8220;Cobrinha&#8221; (Alliance)">Rubens Charles &#8220;Cobrinha&#8221; (Alliance)</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+							<iframe
+								style="height:25px !important; border:none !important; overflow:hidden !important; width:400px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+								src="http://www.linksalpha.com/social?link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Frubens-charles-cobrinha-bjj-fighter-wiki&title=Rubens+Charles+%22Cobrinha%22+%28Alliance%29&desc=%5Bcaption+id%3D%22attachment_800%22+align%3D%22alignright%22+width%3D%22226%22+caption%3D%22Rubens+Charles%22%5D%5B%2Fcaption%5D%0D%0A%0D%0ARubens+Charles%2C+also+known+as+%E2%80%9CCobrinha%E2%80%9D+-+Little+Snake+-+is+a+5+time+World+Jiu+Jitsu+Champion+wi&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fbsctr=1&twitterlang=en&twittermention=en&twitterrelated1=en&twitterrelated2=en&twctr=1&linkedinbutton=noshow">
+							</iframe>
+						</div><div id="attachment_800" class="wp-caption alignright" style="width: 236px"><a href="http://www.bjjheroes.com/wp-content/uploads/2010/02/Cobrinha.jpg"><img class="size-full wp-image-800" title="Cobrinha" src="http://www.bjjheroes.com/wp-content/uploads/2010/02/Cobrinha.jpg" alt="Cobrinha BJJ" width="226" height="281" /></a><p class="wp-caption-text">Rubens Charles</p></div>
+<p>Rubens Charles, also known as “Cobrinha” &#8211; Little Snake &#8211; is a 5 time World Jiu Jitsu Champion with the longuest reign in the featherweigh division&#8217;s history. This Brazilian competitor from the town of Londrina, is famed for his agressive game inside the matted arena, but he is also an acomplished instructor as he has shown teaching at Team Alliance’s HQ in Atlanta.<br />
+.</p>
+<h2>Rubens Charles in Detail</h2>
+<p><strong>Full Name:</strong> Rubens Charles Maciel<br />
+.<br />
+<strong>Nickname:</strong> Cobrinha was a name given to Rubens in his Capoeira days. It means “Little Snake”, and it was given to him because he was so agile and flexible.<br />
+.<br />
+<strong>Lineage:</strong> Mitsuyo Maeda &gt; <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/rolls-gracie-profile">Rolls Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/romero-jacare-cavalcanti-wiki">Romero Cavalcanti</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/alexandre-paiva">Alexandre Paiva</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/fernando-augusto-terere-bio">Fernando Augusto Tereré</a> &gt; Rubens Charles<br />
+.<br />
+<strong>Main Achievements (BJJ):</strong></p>
+<ul>
+<li>5x BJJ World Champion (2005, 2006, 2007, 2008, 2009);</li>
+<li>3x Pan American Champion (2007, 2008, 2009):</li>
+<li>ADCC Silver Medallist (2009)</li>
+</ul>
+<p><strong>Weight Division:</strong>peso Pena (Featherweight) &#8211; 70kg /154lbs<br />
+.<br />
+<strong>Favourite technique:</strong> Sweep from “De La Riva” Guard and Brabo Choke.<br />
+.<br />
+<strong>Association/Team:</strong> Alliance.</p>
+<h3>Rubens Charles Cobrinha Biography</h3>
+<p>Rubens Charles “Cobrinha” was born on December 24th of 1979 in Londrina, Brazil. He moved to Sao Carlos when he was still a child. Being a normal Brazilian child, the first sport he practiced was Football (soccer), but that love for soccer was ruled out when he got his first taste of “Capoeira”, the Brazilian Martial Art of fancy kicking and dancing moves. He joined the “Grupo dos Jangadeiros” a club that was run my Capoeira Master Antonio Zacaria and practiced 2 times per day all 7 days of the week, a habit he followed for the most of 14 years, the time it took him to become a Master himself.</p>
+<p>He only found Jiu Jitsu at a later stage, when a friend that was launching a Martial Arts gym asked him to pass by to see the new place. Cobrinha was 21 and as he came in he saw a class of Brazilian Jiu Jitsu, he was curious and took the class. After being “schooled” by a purple belt that was taking the class, Cobrinha decided Jiu Jitsu was the art he wanted to dedicate himself to, and on the next day he joined a BJJ school close to him, led by BJJ Black Belt Mauro Pacífico.</p>
+<p>He stayed with professor Mauro for a long time, changing his Capoeira schedule to dedicate himself fully to BJJ (the same schedule of 2x per day, 7 days per week). It was at a state championship in Sao Paulo that Cobrinha’s future would turn. After getting to the final and losing to a student of legendary <a href="http://www.bjjheroes.com/bjj-fighters/fernando-augusto-terere-bio">Fernando Terere</a>, Rubens Charles was invited to move to Sao Paulo and train with Terere. With the approval of his Master, he moved to Sao Paulo to train with the World famous “TT” Team. He spent 4 months living in the Academy, jobless but training 2x a day and with rights to private lessons from the man Terere himself, every single day. Sharpening every tool he already had and adding a few more to the arsenal. His team was also substantially more competitive with monsters like Terere, <a href="http://www.bjjheroes.com/bjj-fighters/eduardo-telles">Eduardo Telles</a> and <a href="http://www.bjjheroes.com/bjj-fighters/andre-galvao-bjj-and-mma-fighter-wiki">Andre Galvao</a> every day on the mat’s.</p>
+<p>The black belt came shortly after, in 2005, by the hands of Terere. It had taken him 5 years to achieve.<br />
+He went to the Mundial (World Championships) and finished 3 out of 5 opponents on his way to glory. After the gold medal he was invited to compete in Japan at the Pro Jiu Jitsu X, a tournament that he won.</p>
+<p>2006 followed and although his team “TT” had dissolved while he was in Japan, his master, Terere helped him with his training preparing him for 2006. The Mundial came that year and Cobrinha was once again victorious, finishing all of his opponents by way of submission.</p>
+<p>Fernando Terere, the man that had been so important to Rubens Charles BJJ career had to leave to the Northeast of Brazil, a town called Natal, so he advised Cobrinha to join Terere’s first instructor <a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki">Fabio Gurgel</a>, and thus another joyful BJJ partnership had begun!</p>
+<p>In 2007 Cobrinha went to the United States to fight at the Brazilian Jiu Jitsu Pan American Championship. While he was there he gave a seminar in Atlanta at <a href="http://www.bjjheroes.com/bjj-fighters/romero-jacare-cavalcanti-wiki">Jacare Romero</a>’s gym (Jacare is Fabio Gurgel’s Master). Jacare was so impressed with Cobrinha’s skills that he decided to give him a job at his academy, a job which he took.</p>
+<p>While training at his new place in Atlanta, US, Cobrinha continued like a juggernaut, destroying everyone in every competition he attended. Another World Championship in 2007, 2008 and 2009, while still finding strength to challenge the best in no gi (Submission Wrestling) wining the No Gi World Championships in 2008 and 2007, and securing a Runner Up spot at the ADCC 2009 in Barcelona.</p>
+<p>Cobrinha is regarded by many as the best Lightweight Fighter of all time and was awarded “Best BJJ Fighter of 2009” by the Brazilian Press. Cobrinha is also an amazing teacher having taught BJj World Champions <a href="http://www.bjjheroes.com/bjj-fighters/michael-langhi-bjj-fighter-bio">Michael Langhi</a> and <a href="http://www.bjjheroes.com/bjj-fighters/sergio-moraes-bjj-fighter-wiki">Sergio Moraes</a>, and a lot more are on the way.</p>
+<p>Rubens Charles vs Marcio Feitosa (Final of the 2006 Mundial)<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/RuFtXZJ5Ndw&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/RuFtXZJ5Ndw&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Rubens Charles vs Ryan Hall (no gi Tournament)<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/JlO__FnYsuc&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/JlO__FnYsuc&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Rubens Charles Cobrinha, Sao Paulo State Championships<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="340" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/cNDtKW1p9FQ&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/cNDtKW1p9FQ&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a>	</span>
+	<span class='tags'><a href="http://www.bjjheroes.com/tag/alliance-bjj" rel="tag">Alliance BJJ</a></span></div>
+						</div>
+
+						
+<!-- You can start editing here. -->
+
+
+	<div class="allcomments">
+
+		<h3 id="comments">Comments (1)</h3>
+
+		<p class="comments-number"><a href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki/trackback" title="Trackback URL">Trackback URL</a> | <a title="Comments RSS Feed for This Entry" href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wikifeed">Comments RSS Feed</a></p>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+		<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="comment-234">
+				<div id="div-comment-234" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/e204e7b8a1ac4ac6d2e36f08bff9e7ca?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Reef</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki/comment-page-1#comment-234">
+			March 21, 2010 at 8:42 am</a>		</div>
+
+		<p>This blog has so much good information in it that i could spend all week reading it.</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		</ol>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+	</div>
+
+ 
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-fighters/andre-galvao-bjj-and-mma-fighter-wiki" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/grappling-wars-in-mma/ricardo-arona-vs-murilo-ninja-rua-great-mma-fight" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 300x250 */
+google_ad_slot = "2058166303";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://www.bjjheroes.com/feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://www.bjjheroes.com/feed" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(20)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+<li id="similar-posts" class="widget widget_rrm_similar_posts"><h3 class="widgettitle">Similar Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/michael-langhi-bjj-fighter-bio" rel="bookmark" title="February 3, 2010">Michael Langhi (Alliance)</a></li>
+<li><a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/rubens-charles-cobrinha-bjj-set-instructional-review" rel="bookmark" title="December 1, 2010">Rubens Charles Cobrinha BJJ Set Instructional Review</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/rafael-mendes-bjj-fighter-wiki" rel="bookmark" title="February 14, 2010">Rafael Mendes (Atos)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/charles-do-bronx-oliveira" rel="bookmark" title="December 19, 2010">Charles &#8220;do Bronx&#8221; Oliveira</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/fernando-augusto-terere-bio" rel="bookmark" title="April 29, 2010">Fernando Augusto &#8220;Terere&#8221;</a></li>
+</ul><!-- Similar Posts took 99.612 ms --></li>
+<li id="recent-posts" class="widget widget_rrm_recent_posts"><h3 class="widgettitle">Recent Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/yuki-nakai" rel="bookmark" title="January 23, 2011">Yuki Nakai (Paraestra)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/daniel-otero" rel="bookmark" title="January 23, 2011">Daniel Otero (Equipe Fabricio)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/raphael-chaves-catatau" rel="bookmark" title="January 19, 2011">Raphael Chaves “Catatau” (The Armoury)</a></li>
+<li><a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/ryan-hall-triangle-dvd-review" rel="bookmark" title="January 18, 2011">Ryan Hall Triangle DVD Set Review</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcus-almeida-buchecha" rel="bookmark" title="January 16, 2011">Marcus Almeida &#8220;Buchecha&#8221; (Checkmat)</a></li>
+</ul><!-- Recent Posts took 21.717 ms --></li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (4)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (216)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (34)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (8)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (39)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (1)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+
+</body>
+
+</html>

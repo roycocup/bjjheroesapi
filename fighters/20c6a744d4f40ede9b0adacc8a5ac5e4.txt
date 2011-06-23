@@ -1,0 +1,511 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Rani Yahya | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.0.3" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Rani Yahya Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wiki/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Bruno Frazatto (Atos)' href='http://www.bjjheroes.com/bjj-fighters/bruno-frazatto-bjj-fighter-wiki' />
+<link rel='next' title='Rafael Mendes (Atos)' href='http://www.bjjheroes.com/bjj-fighters/rafael-mendes-bjj-fighter-wiki' />
+<meta name="generator" content="WordPress 3.0.3" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wiki' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=177' />
+
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[280,314] -->
+<meta name="description" content="An ADCC World Champion and BJJ fighter, now competing in MMA, with fights in the WEC and other prestigeous orgs. Get to know Rany through this fighter Bio" />
+<meta name="keywords" content="bjj fighter database" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [367350839,417613861,519788145,434667058,50221372,228722996,67060771,1202409251,1119491425,1203378273,1119817850,1119818857,1117788008,1203573092,1572737380,1136334181,1151341922,1119425128,1134564708,1153307749,1337461352,1134563431,1572476008,1186077031,1169820260,1086001248,1086068858,1136265832,1572672871,1186470245,1186597479,1102645858,1168118632,1572410727,1572016738,1572016229,1201672552,1572473445,1572473443,1304037984,117178668,366232121,66800702,1604535333,1454047594]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^1988829521;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "3413234153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-home menu-item-837"><a title="BJJ Heroes" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-864"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-841" class="menu-item menu-item-type-taxonomy current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-842" class="menu-item menu-item-type-taxonomy menu-item-842"><a title="Fresh News on BJJ" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-844"><a title="Tips to help improve your Jiu Jitsu" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top 10 BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top 10 BJJ Fighters Today</a></li>
+<li id="menu-item-843" class="menu-item menu-item-type-taxonomy menu-item-843"><a title="MMA Fight Videos" href="http://www.bjjheroes.com/category/grappling-wars-in-mma">MMA Fights</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-177">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wiki#comments">2</a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin/" title="Posts by admin">admin</a> on February 14th, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wiki" rel="bookmark" title="Permanent Link to Rani Yahya">Rani Yahya</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+							<iframe
+								style="height:25px !important; border:none !important; overflow:hidden !important; width:400px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+								src="http://www.linksalpha.com/social?link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Frani-yahya-bjj-and-mma-fighter-wiki&title=Rani+Yahya&desc=%5Bcaption+id%3D%22attachment_178%22+align%3D%22alignright%22+width%3D%22200%22+caption%3D%22Rani+Yahya%22%5D%5B%2Fcaption%5D%0D%0A%0D%0ARani+Yahya+is+a+Mixed+Martial+Arts+%28MMA%29+fighter+who+specializes+in+Brazilian+Jiu+Jitsu.+The+famous+BJJ%27e&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fbsctr=1&twitterlang=en&twittermention=en&twitterrelated1=en&twitterrelated2=en&twctr=1&linkedinbutton=noshow">
+							</iframe>
+						</div><div id="attachment_178" class="wp-caption alignright" style="width: 210px"><a href="http://www.bjjheroes.com/wp-content/uploads/2010/02/rani-yahya.jpg"><img class="size-full wp-image-178" title="rani-yahya" src="http://www.bjjheroes.com/wp-content/uploads/2010/02/rani-yahya.jpg" alt="Rani Yahya" width="200" height="240" /></a><p class="wp-caption-text">Rani Yahya</p></div>
+<p>Rani Yahya is a Mixed Martial Arts (MMA) fighter who specializes in Brazilian Jiu Jitsu. The famous BJJ&#8217;er who is also a former champion in one of the most prestigious competitions in Grappling, the ADCC (2007) has fought in the biggest MMA shows of our times such as the now extinct WEC, Jungle Fight and the UFC.</p>
+<h2>Rani Yahya in Detail</h2>
+<p><strong>Lineage:</strong> Mitsuyo Maeda &gt; <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie &gt; </a><a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/armando-wridt-wiki-bio">Armando Wridt </a>&gt; Athaide Junior &gt; Rany Yahya</p>
+<p><strong>Main Grappling Achievements (in BJJ/Grappling):</strong></p>
+<ul>
+<li>ADCC Champion (2007);</li>
+<li>World Jiu Jitsu Champion (Purple Belt 2002);</li>
+<li>ADCC Silver Medalist (2005)</li>
+</ul>
+<p><strong>Weight Division:</strong> Peso Pena (70kg) &#8211; Banta weight in MMA.</p>
+<p><strong>Favorite technique:</strong> Mata Leao (RNC).</p>
+<p><strong>Affiliation/Team in BJJ:</strong> Athaide Jiu Jitsu.</p>
+<h3>Rani Yahya Biography</h3>
+<p>Rani was born in September 12th 1984 in Brazilia, the Capital of Brazil. His first approach to Martial Arts came from Judo, a discipline his parents wanted him to take. When he was 11 years old, because of all the hype envolving Brazilian Jiu Jitsu at the time, he asked his parents to enrol him in BJJ. His parent’s agreed, and so started Rani’s career with BJJ.</p>
+<p>Rani was the world’s youngest world champion ever when he won the Mundial (juvenile category, Blue Belt) at the age of 14. This is according to his interview to Tatame Magazine in 29ht May 2007. When Rani was 17 he won the World Championships again, in the “Roxa” division (Purple belt) and the following year he received the brown belt from his master, Athaide Junior, the man who stood beside Rani for most of his career.</p>
+<p>By the time Yahya won his brown belt, all his focus was already on MMA and No Gi competition, having won his first fight in MMA 2 days after turning 18 years of age. In 2003, Rani made it to the big stage of Grappling tournaments, the ADCC finals. He achieved lost in the Quarter Finals of the event to Leonardo Vieira, and the battles between Leo Vieira and Rany would be one of the tournament’s high points in years to follow, as in 2005 and 2007 the two Brazilians clashed again, with split results, the 2005 bout going to <a href="http://www.bjjheroes.com/bjj-fighters/leo-vieira-facts-and-bio">Leozinho Vieira</a> in a very tough fight which had to be decided in the overtime, and the 2007 fight going to Rany Yahya.</p>
+<p>In an interview to the Brazilian Press at the end of 2007 (after his submission victory over Leo Vieira at the ADCC), Rany stated that much of his strangle hold’s techniques came from the teachings of his Master Athaide and his study of the snakes. Athaide is a Biologist specialized in snake behaviour and he bases alot of his techniques on the way he sees snakes acting when straggling their preys.</p>
+<p>After being introduced in 2004 to Rickson Gracie by a friend in common, the Gracie invited Rani to go and train at his academy in California. Accepting the invitation Yahya spent most of a year with the Jiu Jitsu legend polishing his techniques. In an interview to &#8220;Terramagazine&#8221; in 2009 he also stated that in his time with Rickson he learned some good nutrition tips that helped his overall life quality.</p>
+<p>In trying to improve his overall game for MMA, Rani has travelled around the world looking for the best people to train with him. Amongst those people UFC Champion Randi Couture, Pride Champ Dan Henderson, Jiu Jitsu Legend <a href="http://www.bjjheroes.com/bjj-fighters/rickson-gracie-facts-and-bio">Rickson Gracie</a>, BJJ World Champions Champion Saulo and <a href="http://www.bjjheroes.com/bjj-fighters/xande-ribeiro-fighter-wiki">Xande Ribeir</a>o and many others.</p>
+<p><strong>Kazua Yasuhiro vs Rani Yahya</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/ScKQZKLKEZI&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/ScKQZKLKEZI&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><strong>Joel Tudor vs Rani Yahya 2009 BJJ US Nationals</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="560" height="340" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/QXOQ4fB7biU&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="560" height="340" src="http://www.youtube.com/v/QXOQ4fB7biU&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><strong>Rani Yahya vs Carlos Vieira </strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/ms_Cee-tcBY&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/ms_Cee-tcBY&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a>	</span>
+	</div>
+						</div>
+
+						
+<!-- You can start editing here. -->
+
+
+	<div class="allcomments">
+
+		<h3 id="comments">Comments (2)</h3>
+
+		<p class="comments-number"><a href="http://www.bjjheroes.com/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wiki/trackback" title="Trackback URL">Trackback URL</a> | <a title="Comments RSS Feed for This Entry" href="http://www.bjjheroes.com/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wikifeed">Comments RSS Feed</a></p>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+		<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="comment-641">
+				<div id="div-comment-641" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/c2cf81560886e30feb173997c7a21470?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">wal</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wiki/comment-page-1#comment-641">
+			April 26, 2010 at 6:36 am</a>		</div>
+
+		<p>i thought rani trained a lot with rickson?</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment byuser comment-author-admin bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-642">
+				<div id="div-comment-642" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d07ff2d7462e2062bf041e26066a70a9?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">admin</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wiki/comment-page-1#comment-642">
+			April 26, 2010 at 7:31 am</a>		</div>
+
+		<p>Hi Wal, they spent a year training together, but Rickson is not his master&#8230;</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		</ol>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+	</div>
+
+ 
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wiki#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='177' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="b705fe0977" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-fighters/bruno-frazatto-bjj-fighter-wiki" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/bjj-fighters/rafael-mendes-bjj-fighter-wiki" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 300x250 */
+google_ad_slot = "2058166303";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://www.bjjheroes.com/feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://www.bjjheroes.com/feed" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(20)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+<li id="similar-posts" class="widget widget_rrm_similar_posts"><h3 class="widgettitle">Similar Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/carlos-portugues-vieira-wiki-bio" rel="bookmark" title="April 12, 2010">Carlos “Portugues” Vieira (Cia Paulista)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-news/kyra-gracie-is-back-in-2010" rel="bookmark" title="February 9, 2010">Kyra Gracie is Back in 2010</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/abmar-barbosa-wiki-bio" rel="bookmark" title="April 11, 2010">Abmar Barbosa</a></li>
+<li><a href="http://www.bjjheroes.com/grappling-wars-in-mma/milton-vieira-vs-nobuhiro-obiya-fight-video" rel="bookmark" title="January 19, 2010">Milton Vieira vs Nobuhiro Obiya Fight Video</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile" rel="bookmark" title="January 8, 2010">Marcelo Garcia (Alliance)</a></li>
+</ul><!-- Similar Posts took 99.328 ms --></li>
+<li id="recent-posts" class="widget widget_rrm_recent_posts"><h3 class="widgettitle">Recent Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/yuki-nakai" rel="bookmark" title="January 23, 2011">Yuki Nakai (Paraestra)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/daniel-otero" rel="bookmark" title="January 23, 2011">Daniel Otero (Equipe Fabricio)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/raphael-chaves-catatau" rel="bookmark" title="January 19, 2011">Raphael Chaves “Catatau” (The Armoury)</a></li>
+<li><a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/ryan-hall-triangle-dvd-review" rel="bookmark" title="January 18, 2011">Ryan Hall Triangle DVD Set Review</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcus-almeida-buchecha" rel="bookmark" title="January 16, 2011">Marcus Almeida &#8220;Buchecha&#8221; (Checkmat)</a></li>
+</ul><!-- Recent Posts took 107.752 ms --></li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (4)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (216)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (34)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (8)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (39)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (1)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+
+</body>
+
+</html>

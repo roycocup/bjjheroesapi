@@ -1,0 +1,530 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Eduardo Telles | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.0.3" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Eduardo Telles (Nine Nine) Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/eduardo-telles/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Rodrigo &#8220;Comprido&#8221; Medeiros (Brasa)' href='http://www.bjjheroes.com/bjj-fighters/rodrigo-comprido-medeiros' />
+<link rel='next' title='Joe Moreira' href='http://www.bjjheroes.com/bjj-fighters/joe-moreira' />
+<meta name="generator" content="WordPress 3.0.3" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/eduardo-telles' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=562' />
+
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[280,330] -->
+<meta name="description" content="Famous for his technical criativity, Eduardo Telles is one of the best BJJ black belts in the World, a true master of the guard game." />
+<meta name="keywords" content="alliance bjj,bjj fighter database" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [373304735,457257357,492711897,441255834,22751380,235368604,5913995,1141782155,1159621070,1193238976,1075603922,1192718016,1107651273,1293643724,1109357514,1091988430,1075605458,1191538639,1092185544,1092383691,1578723530,1108961992,1293448138,1075670482,1159359698,1109160896,1175876553,1176070610,1174759630,1579117004,1578724045,1578918091,1074096589,1141205970,135621074,492711897,441255834,22751380,1309110428]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^1965971705;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "3413234153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-home menu-item-837"><a title="BJJ Heroes" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-864"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-841" class="menu-item menu-item-type-taxonomy current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-842" class="menu-item menu-item-type-taxonomy menu-item-842"><a title="Fresh News on BJJ" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-844"><a title="Tips to help improve your Jiu Jitsu" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top 10 BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top 10 BJJ Fighters Today</a></li>
+<li id="menu-item-843" class="menu-item menu-item-type-taxonomy menu-item-843"><a title="MMA Fight Videos" href="http://www.bjjheroes.com/category/grappling-wars-in-mma">MMA Fights</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-562">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/eduardo-telles#comments">2</a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin/" title="Posts by admin">admin</a> on July 25th, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/eduardo-telles" rel="bookmark" title="Permanent Link to Eduardo Telles (Nine Nine)">Eduardo Telles (Nine Nine)</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+							<iframe
+								style="height:25px !important; border:none !important; overflow:hidden !important; width:400px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+								src="http://www.linksalpha.com/social?link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Feduardo-telles&title=Eduardo+Telles+%28Nine+Nine%29&desc=%5Bcaption+id%3D%22attachment_564%22+align%3D%22alignright%22+width%3D%22217%22+caption%3D%22Eduardo+Telles%22%5D%5B%2Fcaption%5DEduardo+Telles+is+a+Brazilian+Jiu+Jitsu+black+belt+under+Fabio+Gurgel+and+one+of+the+most+criative+grappl&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fbsctr=1&twitterlang=en&twittermention=en&twitterrelated1=en&twitterrelated2=en&twctr=1&linkedinbutton=noshow">
+							</iframe>
+						</div><p><div id="attachment_564" class="wp-caption alignright" style="width: 227px"><a href="http://www.bjjheroes.com/bjj-fighters/eduardo-telles/attachment/telles" rel="attachment wp-att-564"><img src="http://www.bjjheroes.com/wp-content/uploads/2010/07/telles-217x300.jpg" alt="Eduardo Telles" title="telles" width="217" height="300" class="size-medium wp-image-564" /></a><p class="wp-caption-text">Eduardo Telles</p></div>Eduardo Telles is a Brazilian Jiu Jitsu black belt under <a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki">Fabio Gurgel</a> and one of the most criative grapplers in the World. Famed for being a fan of the &#8220;Esquijitsu&#8221; (weird Jiu Jitsu) he created several atacks from the turtle guard, revolutionizing what once was defensive position. He also created several trademark setups from a position that became famous as the &#8220;Octupus Guard&#8221;.<br />
+.</p>
+<h2>Eduardo Telles in Detail</h2>
+<p><strong>Full Name:</strong> Eduardo Telles Moreira<br />
+.<br />
+<strong>Lineage:</strong> Mitsuyo Maeda &gt; <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/rolls-gracie-profile">Rolls Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/romero-jacare-cavalcanti-wiki">Romero Cavalcanti</a> &gt; Eduardo Telles<br />
+.<br />
+<strong>Mains Achievements (BJJ):</strong></p>
+<ul>
+<li>Pan American Champion (2007);</li>
+<li>Brazilian National Champion &#8211; CBJJE (2008);</li>
+<li>World Silver Medallist (1999 &#8211; Purple Belt);</li>
+<li>3x World Bronze Medallist (2000 &#8211; Brown Belt, 2008 and 2010 Black Belt);</li>
+<li>2x Pan American Silver Medallist (2005, 2006);</li>
+<li>3x Brazilian National Silver Medallist (2001, 2005, 2006);</li>
+<li>3x Pan American Bronze Medallist (2002 &#8211; Pesado and Absolute, 2004 Pesado)</li>
+</ul>
+<p><strong>Favourite Position:</strong> Turtle Guard, Octopus Guard.<br />
+.<br />
+<strong>Weight Category:</strong> Pesado, Super Pesado and Pesadissimo<br />
+.<br />
+<strong>Team/Association:</strong> Nine Nine.</p>
+<h3>Eduardo Telles Biography</h3>
+<p>Eduardo Telles Moreira was born in 1976 in Sao Paulo, Brazil. Telles entered the martial arts world through Karate when he was a teenager, Jiu Jitsu already existed in Sao Paulo at the time, but the academies were scarse and the only contact Telles had with Jiu Jitsu was when he spent time in Rio de Janeiro, his father&#8217;s home town. Telles&#8217;s family held a house there, in famous surfing and BJJ spot of Tijuca where Eduardo would hear about Jiu Jitsu for the first time.</p>
+<p>After the UFC premiered and Royce Gracie won the first championship, Jiu Jitsu boomed in Sao Paulo and Telles&#8217;s Karate gym opened a schedule for BJJ. That was when Telles met his first instructor, Fernando Yamasaki, with whom he stayed until he received his blue belt. At this time Eduardo had to stop his tuition under Yamasaki as he moved to the United States (San Diego) to learn English, in the process he met Carlos Valente and trained with him for the duration of his term in the US.</p>
+<p>Telles received his purple belt from Mr Valente and then moved back to Sao Paulo to train under <a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki">Fabio Gurgel</a>. At Gurgel&#8217;s academy he met <a href="http://www.bjjheroes.com/bjj-fighters/fernando-augusto-terere-bio">Fernando Augusto &#8220;Tereré&#8221;</a> with whom he became good friends, as well as <a href="http://www.bjjheroes.com/bjj-fighters/demian-maia-fighter-wiki">Demian Maia</a> and other Jiu Jitsu personalities who were all training under Mr Gurgel. At the Alliance Head Quarters gym, Telles technique grew heaps and bounds and the close contact with Augusto (who was already rapidly turning into a legend of the sport) was one of the reasons for this surge. The Alliance gym also served as a laboratory for Eduardo Telles&#8217;s experiments with Jiu Jitsu technique that he would develop to adapt to his &#8220;scrambly&#8221; grappling style.</p>
+<p>He went on to get a Silver Medal in 1999 at the Mundial (World Championship) as a purple belt and a Bronze Medal the following year as a brown belt, and so it came as no surprise when he received his Black Belt the following year. By then Eduardo Telles&#8217;s style of fighting started standing out, and many in the BJJ community started branding it &#8220;Esquijitsu&#8221;, which means something along the lines of &#8220;Weird Jiu Jitsu&#8221;. This was due to the award positions in which Telles would put himself.</p>
+<p>In 2002 the Alliance Team split and Eduardo Telles followed the path of the dissidents and helped open the Master Team and later the Brasa Team. The Brasa Team also had complications and so joining forces with his friend Fernando Augusto (whom Eduardo also considered his master) Telles opened the TT team (TT standing for Telles and &#8220;Terere&#8221;).</p>
+<p>TT was successful from the start with some students showing that the team had tremendous potential, unfortunately by the end of 2004 Fernando Augusto entered his personal struggle with drug dependance and depression, and so the team was terminated. Telles decided to open another academy, this time presided by himself which he called Nine Nine, the meaning behind that name was that 99 is a reference in proximity to the number 100 which means perfection, the goal of Telles.</p>
+<p>After setting up his academy Telles started his Mixed Martial Arts career (MMA) a quick submission of Rubens Xavier eaned him another call to the rings, this time against the experienced and heavy favourite, Gracie Barra&#8217;s Rafael &#8220;Sapo&#8221;. Telles won again in the first round by massive head kick. His first defeat would come from the hands of another fellow jiu jitsu practitioner, the experienced Landro Silva &#8220;Batata&#8221; from Nova Uniao, this defeat made Telles understand the necessity of joining a professional MMA team, and so he joined the famous X-Gym in Rio de Janeiro, headquarters to the Black House MMA team were some of the best UFC fighters train, people like Anderson Silva, Machida the Nogueira Brothers and many others.</p>
+<p>In Rio de Janeiro he met his girlfriend to whom he would marry in January 2010.</p>
+<p><script type="text/javascript">// <![CDATA[
+ google_ad_client = "ca-pub-3756782291294481"; /* 468x60, created 2/5/10 */ google_ad_slot = "5528084450"; google_ad_width = 468; google_ad_height = 60;
+// ]]&gt;</script><br />
+<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script></p>
+<p><a href="http://gan.doubleclick.net/gan_click?lid=41000000031174305&amp;pubid=21000000000302733"><img title="BJJ DVDs and Merchandise" src="http://gan.doubleclick.net/gan_impression?lid=41000000031174305&amp;pubid=21000000000302733" alt="" width="468" height="60" /></a><br />
+Eduardo Telles vs Bruno Bastos<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/9qxZkt3hgn8&amp;hl=en_GB&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/9qxZkt3hgn8&amp;hl=en_GB&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Eduardo Telles vs Rafael Lovato Junior<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/ogVB9XTQtBY&amp;hl=en_GB&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/ogVB9XTQtBY&amp;hl=en_GB&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Eduardo Telles vs Murilo Santana<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/Lt7coZ1nQck&amp;hl=en_GB&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/Lt7coZ1nQck&amp;hl=en_GB&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p>Eduardo Telles vs Roberto Godoi<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/bCBA1mAQvlo&amp;hl=en_GB&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/bCBA1mAQvlo&amp;hl=en_GB&amp;fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a>	</span>
+	<span class='tags'><a href="http://www.bjjheroes.com/tag/alliance-bjj" rel="tag">Alliance BJJ</a></span></div>
+						</div>
+
+						
+<!-- You can start editing here. -->
+
+
+	<div class="allcomments">
+
+		<h3 id="comments">Comments (2)</h3>
+
+		<p class="comments-number"><a href="http://www.bjjheroes.com/bjj-fighters/eduardo-telles/trackback" title="Trackback URL">Trackback URL</a> | <a title="Comments RSS Feed for This Entry" href="http://www.bjjheroes.com/bjj-fighters/eduardo-tellesfeed">Comments RSS Feed</a></p>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+		<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="comment-3659">
+				<div id="div-comment-3659" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d94009071e030cded1fd019bebb90ac1?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">brettt snyder</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/eduardo-telles/comment-page-1#comment-3659">
+			December 18, 2010 at 3:59 pm</a>		</div>
+
+		<p>I have finally ound someone that rolls the same way i do. Just ordered your DVD. Cant wait</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-3673">
+				<div id="div-comment-3673" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/ad31e7750bb32ec7719f2b81c16d3d19?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Danny Hathiramani</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/eduardo-telles/comment-page-1#comment-3673">
+			December 20, 2010 at 10:08 pm</a>		</div>
+
+		<p>Telles is a great teacher!</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		</ol>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+	</div>
+
+ 
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/eduardo-telles#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='562' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="f8042324cb" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-fighters/rodrigo-comprido-medeiros" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/bjj-fighters/joe-moreira" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 300x250 */
+google_ad_slot = "2058166303";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://www.bjjheroes.com/feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://www.bjjheroes.com/feed" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(20)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+<li id="similar-posts" class="widget widget_rrm_similar_posts"><h3 class="widgettitle">Similar Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki" rel="bookmark" title="February 7, 2010">Rubens Charles &#8220;Cobrinha&#8221; (Alliance)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/eduardo-azevedo-facts-and-bio" rel="bookmark" title="July 19, 2010">Eduardo Azevedo (Checkmat)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/fernando-augusto-terere-bio" rel="bookmark" title="April 29, 2010">Fernando Augusto &#8220;Terere&#8221;</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/eduardo-dudu-barros" rel="bookmark" title="February 17, 2010">Eduardo Barros</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/sergio-moraes-bjj-fighter-wiki" rel="bookmark" title="February 6, 2010">Sergio Moraes (Alliance)</a></li>
+</ul><!-- Similar Posts took 112.862 ms --></li>
+<li id="recent-posts" class="widget widget_rrm_recent_posts"><h3 class="widgettitle">Recent Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/yuki-nakai" rel="bookmark" title="January 23, 2011">Yuki Nakai (Paraestra)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/daniel-otero" rel="bookmark" title="January 23, 2011">Daniel Otero (Equipe Fabricio)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/raphael-chaves-catatau" rel="bookmark" title="January 19, 2011">Raphael Chaves “Catatau” (The Armoury)</a></li>
+<li><a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/ryan-hall-triangle-dvd-review" rel="bookmark" title="January 18, 2011">Ryan Hall Triangle DVD Set Review</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcus-almeida-buchecha" rel="bookmark" title="January 16, 2011">Marcus Almeida &#8220;Buchecha&#8221; (Checkmat)</a></li>
+</ul><!-- Recent Posts took 50.937 ms --></li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (4)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (216)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (34)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (8)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (39)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (1)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+
+</body>
+
+</html>

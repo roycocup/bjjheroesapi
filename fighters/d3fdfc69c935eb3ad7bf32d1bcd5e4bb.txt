@@ -1,0 +1,744 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Andre Pederneiras (Nova Uniao) | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.0.3" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Andre Pederneiras (Nova Uniao) Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Neck Strength Exercises for Grapplers' href='http://www.bjjheroes.com/bjj-tips-for-fighters/neck-strength-exercises-for-grapplers' />
+<link rel='next' title='Vitor &#8220;Shaolin&#8221; Ribeiro' href='http://www.bjjheroes.com/bjj-fighters/shaolin-ribeiro-bjj-and-mma-fighter-bio' />
+<meta name="generator" content="WordPress 3.0.3" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=78' />
+
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[280,334] -->
+<meta name="description" content="Andre Pederneiras is the head teacher and co-founder of Nova Uniao, one of the most successfull MMA and BJJ teams in the world" />
+<meta name="keywords" content="nova uniao,bjj fighter database" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [443356379,392956105,292755101,375406302,225841616,36325848,209126607,1260589007,1312183436,1261787012,1329288342,1227903109,1094404747,1245075084,1077365384,1261786245,1328827013,1311987597,1328961174,1245335689,1076973718,1312184712,1228625046,1379030158,1379030927,1379225995,1379293327,1378898060,1210602126,1311918732,70799510,292755101,375406302,225841616,1110067672]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^2030264765;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "3413234153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-home menu-item-837"><a title="BJJ Heroes" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-864"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-841" class="menu-item menu-item-type-taxonomy current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-842" class="menu-item menu-item-type-taxonomy menu-item-842"><a title="Fresh News on BJJ" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-844"><a title="Tips to help improve your Jiu Jitsu" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top 10 BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top 10 BJJ Fighters Today</a></li>
+<li id="menu-item-843" class="menu-item menu-item-type-taxonomy menu-item-843"><a title="MMA Fight Videos" href="http://www.bjjheroes.com/category/grappling-wars-in-mma">MMA Fights</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-78">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach#comments">16</a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin/" title="Posts by admin">admin</a> on January 23rd, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach" rel="bookmark" title="Permanent Link to Andre Pederneiras (Nova Uniao)">Andre Pederneiras (Nova Uniao)</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+							<iframe
+								style="height:25px !important; border:none !important; overflow:hidden !important; width:400px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+								src="http://www.linksalpha.com/social?link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Fandre-pederneiras-bjj-and-mma-coach&title=Andre+Pederneiras+%28Nova+Uniao%29&desc=%5Bcaption+id%3D%22attachment_348%22+align%3D%22alignright%22+width%3D%22200%22+caption%3D%22Andre+Pederneiras%22%5D%5B%2Fcaption%5DAndre+Pederneiras+also+known+as+Dede+is+one+of+the+best+Jiu+Jitsu+and+MMA+%28Mixed+Martial+Arts%29+coaches&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fbsctr=1&twitterlang=en&twittermention=en&twitterrelated1=en&twitterrelated2=en&twctr=1&linkedinbutton=noshow">
+							</iframe>
+						</div><p><div id="attachment_348" class="wp-caption alignright" style="width: 210px"><a href="http://www.bjjheroes.com/wp-content/uploads/2010/01/dede-pederneiras.jpg"><img src="http://www.bjjheroes.com/wp-content/uploads/2010/01/dede-pederneiras.jpg" alt="Andre Pederneiras" title="dede-pederneiras" width="200" height="240" class="size-full wp-image-348" /></a><p class="wp-caption-text">Andre Pederneiras</p></div>Andre Pederneiras also known as Dede is one of the best Jiu Jitsu and MMA (Mixed Martial Arts) coaches in the World, the leader and co-founder of the Nova Uniao team was voted Best MMA coach in the World in October 2010 by the renowned <a href="http://www.portaldovt.com.br/pvt_mag_pt_11/">PVT magazine</a> (Portal do Vale Tudo) in a referendum made between fighters, coaches and journalists of the sport.<br />
+.<br />
+<strong>Meaning of Andre Pederneiras’s Nickname:</strong>, Dedé is a friendly way of saying André, in Portuguese.<br />
+.<br />
+<strong>Andre Pederneiras Lineage:</strong> Mitsuyo Maeda > <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie </a>> <a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile">Carlson Gracie</a> > André Pederneiras<br />
+.<br />
+<strong>André Pederneiras’s Favorite Technique:</strong> there is a reason why Nova Uniao is famous for their lapel techniques (chokes and sweeps) Dede&#8217;s creative lapel work, from half and butterfly guard is the driving force behind this<br />
+.<br />
+<strong>Andre Pederneiras Weight Class:</strong> Fought at Lightweight when he was an active competitor<br />
+.<br />
+<strong>Andre Pederneiras most Famous Fight</strong> was against the Japanese MMA star Rumina Sato (check the fight on the video at the bottom of this page)<br />
+.<br />
+<strong>Andre Pederneiras Main Achievements (BJJ/MMA/Grappling)</strong> He won 6 National Championships in BJJ as an athlete, although he achieved fame through a teacher’s stand point. His team, Nova Uniao has won 2 world titles in BJJ and is one of the most prolific teams in MMA today. They were considered the best lightweight team in the world for the most part of the 1990’s and early 2000´s<br />
+.<br />
+<strong>Andre Pederneiras Association/Team:</strong> Nova Uniao</p>
+<p><script type="text/javascript"><!--
+google_ad_client = "pub-3756782291294481";
+/* 468x60, created 1/31/10 */
+google_ad_slot = "2446193820";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script><br />
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+<h2>Andre Pederneiras Biography</h2>
+<p>Not much is known about Andre Pederneiras’s childhood. He started his training under <a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile">Carlson Gracie</a>, whom later gave him his Black Belt. In the early 1990’s he split Carlson’s academy to start his own. Although his team reached success relatively fast, he found it hard to compete against the bigger teams, teams like Gracie Barra, Carlson Gracie Team who won most of the tournaments due to the sheer number of their athletes. He met <a href="http://www.bjjheroes.com/bjj-fighters/wendell-alexander">Wendel Alexander</a> at one of those championships in Rio de Janeiro, he (Wendel) was in the same situation.</p>
+<p>They arranged to organize training sessions between both teams and competed as one team in the following tournament with great success. To this strong new team they decided to call “Nova União” – which in Portuguese means “New Union”, a team who holds strong to this day.</p>
+<p>André Pederneiras also made the headlines in the 1990’s for being one of the first Brazilians to open the doors of his dojo to foreigners, namely Joe Charles and <a href="http://www.bjjheroes.com/bjj-fighters/bj-penn-wiki">BJ Penn</a>. The gesture was frowned upon by the Brazilian media and most of the coaches and fighters at the time. His old master, Carlson called him a “Creonte” a less then amicable way of calling someone you believe is a traitor. The fact that Joe Charles fought Carlson Gracie’s son Junior did not help Pederneiras’s cause. Fortunately with time, this animosity towards the foreign fighters faded away and today it is totally accepted.</p>
+<p>In the late 90’s early 2000’s Dede ventured into the early stages of MMA winning his first fight against heavy favourite Rumina Sato, losing later against the MMA legend Pat Miletich in America, drawing his other two fights in Japan, finishing his career in MMA and dedicating himself fully on his coaching.</p>
+<p>In 2003 Andre Pederneiras decided to pull his team out off the CBJJ (Brazilian Jiu Jitsu Confederation) tournaments because he believed (and believes still) that if BJJ wants to achieve a professional level, fighters should be paid when fighting in major tournaments. For this he organized his own federation CBJJO “Olympic Brazilian Jiu Jitsu Federation”, this was built with the help of “KF” Kimono’s president (and Nova Uniao sponcer) Luis Herminio &#8211; Luizinho. The arm wrestling contest between Nova Uniao and CBJJ (presided by arch rival team leader <a href="http://www.bjjheroes.com/bjj-fighters/carlos-carlinhos-gracie-jr">&#8220;Carlinhos&#8221; Gracie</a> – Gracie Barra) lasted for four years until finally Nova Uniao fighters returned to the Mundial and CBJJO was dissolved with several internal problems. </p>
+<p>Andre Pederneiras has also opened Upper Sports Club a very successful health club in Rio de Janeiro. Which he uses to help the local community in the Favela’s (Brazilian slums), in fact Mr Pederneiras is an activist in improving the life style of the people in the poorer areas of Rio de Janeiro.</p>
+<p>Besides his BJJ team he is also in charge of their MMA team with fighters like Jose Aldo, <a href="http://www.bjjheroes.com/bjj-fighters/shaolin-ribeiro-bjj-and-mma-fighter-bio">Vitor “Shaolin” Ribeiro</a>, Thales Leite, <a href="http://www.bjjheroes.com/bjj-fighters/robson-moura-bjj-fighter">Robson Moura</a>, <a href="http://www.bjjheroes.com/bjj-fighters/marlon-sandro-wiki-bio">Marlon Sandro</a>, Wagney Fabianno among many others. He also presides Shooto Brazil, an MMA organization with the intent of finding new starts in the sport of MMA in Brazil.</p>
+<p><script type="text/javascript"><!--
+google_ad_client = "pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "3413234153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script><br />
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+<p><strong>Andre Pederneiras vs Rumina Sato</strong></p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/2B2BKsEsG04&#038;hl=en_GB&#038;fs=1&#038;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2B2BKsEsG04&#038;hl=en_GB&#038;fs=1&#038;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><script type="text/javascript"><!--
+google_ad_client = "pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "5528084450";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script><br />
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a>	</span>
+	<span class='tags'><a href="http://www.bjjheroes.com/tag/nova-uniao" rel="tag">Nova Uniao</a></span></div>
+						</div>
+
+						
+<!-- You can start editing here. -->
+
+
+	<div class="allcomments">
+
+		<h3 id="comments">Comments (16)</h3>
+
+		<p class="comments-number"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/trackback" title="Trackback URL">Trackback URL</a> | <a title="Comments RSS Feed for This Entry" href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coachfeed">Comments RSS Feed</a></p>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+		<ol class="commentlist">
+					<li class="pingback even thread-even depth-1" id="comment-36">
+				<div id="div-comment-36" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-news/mixed-bag-for-bjj%e2%80%99ers-in-ufc-109' rel='external nofollow' class='url'>Mixed bag for BJJ’ers in UFC 109 | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-36">
+			February 7, 2010 at 9:48 am</a>		</div>
+
+		<p>[...] other Brazilian newcomer, Ronys Torres – a black belt under André Pederneiras had an auspicious first round against UFC veteran Melvin Guillard. In a back and forth fight, the [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-49">
+				<div id="div-comment-49" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/grappling-wars-in-mma/chris-brennan-vs-vitor-ribeiro-mma-fight-video' rel='external nofollow' class='url'>Chris Brennan vs Vitor Ribeiro MMA Fight Video | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-49">
+			February 11, 2010 at 5:22 am</a>		</div>
+
+		<p>[...] in MMA agaist the Jiu Jitsu ace, Vitor Ribeiro. A 3 time BJJ World Champion and a Black Belt under Andre Pederneiras. A fast paced fight between two of the most entertaining lightweights in the world. The fight [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback even thread-even depth-1" id="comment-50">
+				<div id="div-comment-50" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-news/leo-santos-to-fight-kiuma-kunioku' rel='external nofollow' class='url'>Leo Santos to fight Kiuma Kunioku | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-50">
+			February 11, 2010 at 5:56 am</a>		</div>
+
+		<p>[...] Leonardo is also the brother of WEC fighter Wagney Fabiano, also a Black Belt under the illustrious BJJ Instructor Dede Pederneiras. [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-146">
+				<div id="div-comment-146" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/leonardo-santos-leo-bjj-fighter-wiki' rel='external nofollow' class='url'>Leonardo Santos &#8211; Leo BJJ Fighter Wiki | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-146">
+			March 17, 2010 at 6:37 am</a>		</div>
+
+		<p>[...] 1995 Mr Alexander (Leo’s Coach) joined arms with Dedé Pederneiras to make one of the strongest teams in Brazilian Jiu Jitsu the world had seen, Nova Uniao, and Leo [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback even thread-even depth-1" id="comment-170">
+				<div id="div-comment-170" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/bj-penn-wiki' rel='external nofollow' class='url'>BJ Penn Wiki | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-170">
+			March 18, 2010 at 2:27 pm</a>		</div>
+
+		<p>[...] BJ Penn&#8217;s Jiu Jitsu Lineage:  Mitsuyo Maeda &gt; Carlos Gracie &gt; Helio Gracie &gt; Carlson Gracie &gt; André Pederneiras &gt; BJ [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-211">
+				<div id="div-comment-211" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/robson-moura-bjj-fighter' rel='external nofollow' class='url'>Robson Moura BJJ Fighter | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-211">
+			March 20, 2010 at 11:25 am</a>		</div>
+
+		<p>[...] Moura&#8217;s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Carlson Gracie &gt; Andre Pederneiras &gt; Robson [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback even thread-even depth-1" id="comment-268">
+				<div id="div-comment-268" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/shaolin-ribeiro-bjj-and-mma-fighter-bio' rel='external nofollow' class='url'>Vitor "Shaolin" Ribeiro Jiu Jitsu and MMA Wiki | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-268">
+			March 26, 2010 at 3:54 am</a>		</div>
+
+		<p>[...] Shaolin Ribeiro&#8217;s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Carlson Gracie &gt; Andre Pederneiras &gt; Vitor [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-389">
+				<div id="div-comment-389" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.bjjheroes.com/bjj-fighters/marlon-sandro-wiki-bio' rel='external nofollow' class='url'>marlon Sandro Wiki (Bio) | BJJ Heroes</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-389">
+			April 5, 2010 at 3:10 pm</a>		</div>
+
+		<p>[...] Sandro’s Lineage: Mitsuyo Maeda &gt; Carlos Gracie &gt; Helio Gracie &gt; Carlson Gracie &gt; André Pederneiras &gt; Marlon [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-568">
+				<div id="div-comment-568" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/ac380e0c3947c758fb14ad0b74225ac4?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Terence Felkel</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-568">
+			April 18, 2010 at 1:32 pm</a>		</div>
+
+		<p>Brilliant</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-818">
+				<div id="div-comment-818" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/bdd5cf8972f25f01f464b24d00002918?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn"><a href='http://www.artisticphases.blogspot.com' rel='external nofollow' class='url'>romeo</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-818">
+			May 27, 2010 at 9:01 pm</a>		</div>
+
+		<p>thank you for posting this. Andre is my teacher&#8217;s teacher and I didn&#8217;t know a lot about him. This filled in a lot. Hopefully I can go to Rio and train with him someday. The whole site is great but this one is special because of my connection to him. Thanks again</p>
+<p>Keep up the good work.</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1" id="comment-821">
+				<div id="div-comment-821" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d07ff2d7462e2062bf041e26066a70a9?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">admin</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-821">
+			May 28, 2010 at 1:44 am</a>		</div>
+
+		<p>Thanks Romeo, he is one of my favorites also <img src='http://www.bjjheroes.com/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
+<p>Andre</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-1614">
+				<div id="div-comment-1614" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f8ace4585f47bfe69d2000aa03d8a895?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Roy</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-1614">
+			August 20, 2010 at 3:57 pm</a>		</div>
+
+		<p>My friend once went to Rio to train with Andre for a month or so. He said it was one of the greatest experiences of his life. I want to also train with Andre Pederneiras one day. How do I contact him to ask for permission?</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1" id="comment-1617">
+				<div id="div-comment-1617" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d07ff2d7462e2062bf041e26066a70a9?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">admin</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-1617">
+			August 21, 2010 at 11:16 am</a>		</div>
+
+		<p>Hi Roy,</p>
+<p>I think that you dont need to ask for permission, just go to Rio and train at his academy. If you want privates, you will probably be able to arrange that there also. You can also get in contact with them on their website.</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-2007">
+				<div id="div-comment-2007" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.novauniao.com/2010/09/16/wendell-alexander-bio/' rel='external nofollow' class='url'>Wendell Alexander Bio | Nova Uniao</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-2007">
+			September 16, 2010 at 8:46 pm</a>		</div>
+
+		<p>[...] was around this point that Wendell Alexander met André Pederneiras, the pair had strong teams in the junior’s divisions, but never seemed to match the mighty Gracie [...]</p>
+<p>[WORDPRESS HASHCASH] The comment&#8217;s server IP (69.163.229.111) doesn&#8217;t match the comment&#8217;s URL host IP (69.163.229.227) and so is spam.</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment even thread-even depth-1" id="comment-2009">
+				<div id="div-comment-2009" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/654e9db7473aa0850bba96e4108988f8?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Kyle Clark</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-2009">
+			September 16, 2010 at 8:56 pm</a>		</div>
+
+		<p>I spent 5 months in Rio training with team Nova Uniao.  These guys were all amazing, but seeing this video of Andre when he was in fighting form, WOW. What a machine.  I watched him roll on several occasions with his black belt students and was always amazed at how easy he made it look.  Roy go for it, it is amazingly inexpensive to train with these guys, and they are all so helpful.</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2021">
+				<div id="div-comment-2021" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/f8ace4585f47bfe69d2000aa03d8a895?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Roy Duquette</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach/comment-page-1#comment-2021">
+			September 17, 2010 at 2:22 pm</a>		</div>
+
+		<p>Hey Kyle,</p>
+<p>Thanks so much for your post. I will for sure train there. However, I can&#8217;t seem to find Andre&#8217;s website or contact info anywhere. I would really like to e-mail him before I arrive &#8211; just to be respectful. What did you do for accommodations while you were there? What about food, laundry and stuff like that? Thanks for all of your input guys. I&#8217;m really excited about this!</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		</ol>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+	</div>
+
+ 
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/andre-pederneiras-bjj-and-mma-coach#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='78' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="046c27f2fd" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-tips-for-fighters/neck-strength-exercises-for-grapplers" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/bjj-fighters/shaolin-ribeiro-bjj-and-mma-fighter-bio" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 300x250 */
+google_ad_slot = "2058166303";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://www.bjjheroes.com/feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://www.bjjheroes.com/feed" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(20)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+<li id="similar-posts" class="widget widget_rrm_similar_posts"><h3 class="widgettitle">Similar Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/eduardo-dudu-barros" rel="bookmark" title="February 17, 2010">Eduardo Barros</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marlon-sandro-wiki-bio" rel="bookmark" title="April 5, 2010">Marlon Sandro (Nova Uniao)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-news/nova-uniao-helps-local-community" rel="bookmark" title="January 19, 2010">Nova Uniao Helps Local Community</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcelino-freitas" rel="bookmark" title="July 31, 2010">Marcelino Freitas (Nova Uniao)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/arlisson-kiki-melo" rel="bookmark" title="August 7, 2010">Arlisson &#8220;Kiki&#8221; Melo (Nova Uniao)</a></li>
+</ul><!-- Similar Posts took 110.599 ms --></li>
+<li id="recent-posts" class="widget widget_rrm_recent_posts"><h3 class="widgettitle">Recent Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/yuki-nakai" rel="bookmark" title="January 23, 2011">Yuki Nakai (Paraestra)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/daniel-otero" rel="bookmark" title="January 23, 2011">Daniel Otero (Equipe Fabricio)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/raphael-chaves-catatau" rel="bookmark" title="January 19, 2011">Raphael Chaves “Catatau” (The Armoury)</a></li>
+<li><a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/ryan-hall-triangle-dvd-review" rel="bookmark" title="January 18, 2011">Ryan Hall Triangle DVD Set Review</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcus-almeida-buchecha" rel="bookmark" title="January 16, 2011">Marcus Almeida &#8220;Buchecha&#8221; (Checkmat)</a></li>
+</ul><!-- Recent Posts took 51.666 ms --></li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (4)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (216)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (34)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (8)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (39)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (1)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+
+</body>
+
+</html>

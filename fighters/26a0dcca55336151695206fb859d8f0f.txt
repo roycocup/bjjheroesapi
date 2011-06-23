@@ -1,0 +1,549 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Fabio Gurgel | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.0.3" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; Fabio Gurgel (Alliance) Comments Feed" href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='start' title='Marcio Cruz &#8220;Pe de Pano&#8221; (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/marcio-cruz' />
+<link rel='prev' title='Romulo Barral (Gracie Barra)' href='http://www.bjjheroes.com/bjj-fighters/romulo-barral-wiki' />
+<link rel='next' title='The Science of Tapping your Fingers for Jiu Jitsu' href='http://www.bjjheroes.com/bjj-tips-for-fighters/the-science-of-tapping-your-fingers-for-jiu-jitsu' />
+<meta name="generator" content="WordPress 3.0.3" />
+<link rel='canonical' href='http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki' />
+<link rel='shortlink' href='http://www.bjjheroes.com/?p=322' />
+
+<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[280,327] -->
+<meta name="description" content="One of the Alliance founders and a avid competitor even at the age of 40, this true legend of Jiu Jitsu has also fought MMA. Find out more about Fabio Gurgel" />
+<meta name="keywords" content="fabio gurgel, fabio gurgel wiki, fabio gurgel jiu jitsu, fabio gurgel alliance, ,alliance bjj,bjj fighter database" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [74844456,158799162,258476910,142287661,325913635,472994859,309074236,1429738044,1445676153,1362054783,1596474469,1344883831,1428179301,1595952510,1428245861,1278100861,1345080703,1277185655,1411927165,1580420217,1462389371,1596673893,1411927935,1462718309,1278037119,1462718079,1429425270,1378698621,1395218299,1394625655,1412124261,1446202747,1344883582,1345276517,1428772735,1429423228,1446200441,1429423224,1277187964,1277908858,1546344319,393174067,71769894,308810017,1311775034,1194876021]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^1729657934;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "3413234153";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-home menu-item-837"><a title="BJJ Heroes" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-864"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-841" class="menu-item menu-item-type-taxonomy current-post-ancestor current-menu-parent current-post-parent menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-842" class="menu-item menu-item-type-taxonomy menu-item-842"><a title="Fresh News on BJJ" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-844"><a title="Tips to help improve your Jiu Jitsu" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top 10 BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top 10 BJJ Fighters Today</a></li>
+<li id="menu-item-843" class="menu-item menu-item-type-taxonomy menu-item-843"><a title="MMA Fight Videos" href="http://www.bjjheroes.com/category/grappling-wars-in-mma">MMA Fights</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+			
+				<div class="maincontent">
+
+					
+
+					<div class="singlepost">
+
+						<div class="post clearfix" id="post-main-322">
+							<div class="entry">
+								<div class="comments">
+									<a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki#comments">4</a>
+								</div>
+								<div class="postdate">
+	By <a href="http://www.bjjheroes.com/author/admin/" title="Posts by admin">admin</a> on March 21st, 2010  
+</div>								<h1 class="post-title"><a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki" rel="bookmark" title="Permanent Link to Fabio Gurgel (Alliance)">Fabio Gurgel (Alliance)</a></h1>
+								<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+							<iframe
+								style="height:25px !important; border:none !important; overflow:hidden !important; width:400px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+								src="http://www.linksalpha.com/social?link=http%253A%252F%252Fwww.bjjheroes.com%252Fbjj-fighters%252Ffabio-gurgel-wiki&title=Fabio+Gurgel+%28Alliance%29&desc=%5Bcaption+id%3D%22attachment_323%22+align%3D%22alignright%22+width%3D%22200%22+caption%3D%22Fabio+Gurgel%22%5D%5B%2Fcaption%5D%0D%0AFabio+Gurgel+is+one+of+the+best+coaches+in+Brazilian+Jiu+Jitsu.+The+head+instructor+and+leader+of+Team+Al&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fbsctr=1&twitterlang=en&twittermention=en&twitterrelated1=en&twitterrelated2=en&twctr=1&linkedinbutton=noshow">
+							</iframe>
+						</div><p><div id="attachment_323" class="wp-caption alignright" style="width: 210px"><a href="http://www.bjjheroes.com/wp-content/uploads/2010/03/fabio-gurgel.jpg"><img class="size-full wp-image-323" title="fabio-gurgel" src="http://www.bjjheroes.com/wp-content/uploads/2010/03/fabio-gurgel.jpg" alt="Fabio Gurgel" width="200" height="240" /></a><p class="wp-caption-text">Fabio Gurgel</p></div><br />
+Fabio Gurgel is one of the best coaches in Brazilian Jiu Jitsu. The head instructor and leader of Team Alliance Sao Paulo, Fabio Gurgel has also been a top competitor in the BJJ scene with many important titles such as World and European Open champion. In 2010 he competed once again at the European Open at the age of 40 and managed to pull the win, just a few months after he made his 20th black belt anniversary.<br />
+.</p>
+<h2>Fabio Gurgel in Detail</h2>
+<p><strong>Nickname:</strong> General – because he is the general of Alliance team, a true leader of a team he has always led with a strong hold.<br />
+.<br />
+<strong>Lineage: </strong> Mitsuyo Maeda &gt; <a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/rolls-gracie-profile">Rolls Gracie</a> &gt; <a href="http://www.bjjheroes.com/bjj-fighters/romero-jacare-cavalcanti-wiki">Romero Cavalcanti</a> &gt; Fábio Gurgel<br />
+.<br />
+<strong>Main Competitive Achievements:</strong></p>
+<ul>
+<li>4x World Champion (1996, 1997, 2000, 2001)</li>
+<li>3x European Champion (2007 and 2009 in senior 1 Division, 2010 in Adult Division)</li>
+<li>Brazilian National Champion (1996)</li>
+</ul>
+<p><strong>Favourite Position/Technique:</strong> Passing the guard.<br />
+.<br />
+<strong>Weight Category (BJJ):</strong> Pesado – Heavyweight (93kg &#8211; 207lbs).<br />
+.<br />
+<strong>Association/Team:</strong> Alliance</p>
+<h2>Fabio Gurgel Biography</h2>
+<p>Fábio Gurgel was born on the 18th of January 1970 in Rio de Janeiro, Brazil. His first Jiu Jitsu class was in 1983 when he was 13 years old, he graduated as a Yellow Belt (for under 16 year olds) when he was 14 and ran through the orange belt to achieve his blue belt at 15 years of age from the hands of Romero Cavalcanti.</p>
+<p>Gurgel achieved his first title of “Campeão Carioca” – Rio de Janeiro State Champion, as a blue belt, and got his purple when he was 16 years old (in 1986). He then began his career as an assistant coach at his teacher&#8217;s academy (then named “Jacaré Jiu Jitsu”). In 1988 when he got his brown belt, Fábio Gurgel opened his very own academy in the “Clube Federal do Rio de Janeiro”. Having won all the major titles there were in the Brown Belt Division, such as the “Lightning Bolt Cup” and “Copa Company” and being widely considered one of the best Brown Belts in Brazil at the time, he was rightfully promoted to Black Belt on the 23rd of October 1989, by the hands of Romero “Jacare” Cavalcanti which was the very first black belt awarded by the legendary jiu jitsu trainer.</p>
+<p>Fabio was also part of famous Jiu Jitsu vs Luta Livre challenge in 1991, he fought against the Luta Livre challenger Denilson Maia, and won in the 1st Round with strikes from the mount. In 1993, Fabio Gurgel together with his Master Romero “Jacaré” Cavalcanti and Black Belts <a href="http://www.bjjheroes.com/bjj-fighters/alexandre-paiva">Alexandre Paiva</a> and Fernando Gurgel founded “Alliance Jiu Jitsu” a team that would become one of the best in the World in the forthcoming years.</p>
+<p>In 1994 Fabio Gurgel moves to Sao Paulo and opens an Alliance branch in this important Brazilian City, he also manages to win another championship, the very first Brazilian National Championship under the new CBJJ and he repeats the deed in 1995 and in 1996 winning also the very first “Mundial” – World Championship – that year. In 1996 Fabio Gurgel dips his toes in the UFC with an unsuccessful fight which he lost by decision against a more experienced Jerry Bohlander.</p>
+<p>In 1997 another Mundial title, and a second place in the “World Vale Tudo Challenge III”, after a successful two fights which Gurgel finished, the final was fought against a huge Mark Kerr. The bloody battle that lasted 30 minutes was won by Kerr, however the American broke both his hands “ground and pounding” the Alliance Black Belt to a decision win. This was a no holds barred tournament were stomps and headbuts were allowed and were no gloves were allowed.</p>
+<p>Fabio Gurgel won another Mundial in 2000 and 2001, in the same year (2001) at the Pan American Jiu Jitsu Championships he got tapped by one of his former students, <a href="http://www.bjjheroes.com/bjj-fighters/fernando-pontes-margarida-fighter-profile">Fernando Pontes </a>also known as “Margarida” (a nickname given by Gurgel himself). Gurgel had never been tapped in a competition before and this was a major feather in Fernando Pontes’s cap as he went on to win the 2001 World Championships (in a different weight category).</p>
+<p>In 2002 Gurgel was at the centre of a great polemic that almost ended Alliance Jiu Jitsu. As a new federation was created (CBJJO) that went against the all mighty CBJJ, some of the bigger names in the Alliance team wanted to fight in the new CBJJO as it offered a prize money to it’s competitors, while Gurgel was adamant in not allowing his fighters to fight for this organization favouring CBJJ instead. The arm wrestle stood between the two until the fighters decided to split from Alliance forming “Brasa” team, and leaving Alliance without 90% of it’s Black Belt team.</p>
+<p>The years went by, and Alliance picked itself up and started over, managing to create a second wave of amazing competitors like <a href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki">Cobrinha</a>, the Langhi brothers, <a href="http://www.bjjheroes.com/bjj-fighters/lucas-lepri-wiki-bio">Lepri</a>, <a href="http://www.bjjheroes.com/bjj-fighters/bernardo-faria-facts-and-bio">Faria</a>, <a href="http://www.bjjheroes.com/bjj-fighters/gabrielle-garcia-bjj">Gabi</a> and <a href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile">Marcelo Garcia</a>, Peinaldo amongst many others, and although Fabio Gurgel was excelling as a coach with over 50 World Champions under his tutelage, the competitive animal inside him never seized to want more. With his young days long gone, the titles kept piling up, wining the European Championships (2007, 2009 and 2010 – at the age of 40) the Pan American’s (2008), while also getting the 3rd and 4th World Team Title in 2008 and 2010.</p>
+<p>In 2009 Gurgel made his 20th anniversary as a black belt.</p>
+<p><strong>Fabio Gurgel vs Ricardo Arona (Mundial 2000 Final)</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/58YHBilDGTQ&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/58YHBilDGTQ&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><strong>Comprido vs Gurgel (Mundial 2001 Final)</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/jZEjdDNCBkI&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/jZEjdDNCBkI&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><strong>Amauri Bitteti vs Fabio Gurgel (Mundial Final Open Weight Division 1997)</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/cM_op792jWo&amp;hl=en_GB&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/cM_op792jWo&amp;hl=en_GB&amp;fs=1&amp;" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+							</div>
+																			<div class="postinfo">
+	<span class="cats">
+		<a href="http://www.bjjheroes.com/category/bjj-fighters" title="View all posts in BJJ Fighter Database" rel="category tag">BJJ Fighter Database</a>	</span>
+	<span class='tags'><a href="http://www.bjjheroes.com/tag/alliance-bjj" rel="tag">Alliance BJJ</a></span></div>
+						</div>
+
+						
+<!-- You can start editing here. -->
+
+
+	<div class="allcomments">
+
+		<h3 id="comments">Comments (4)</h3>
+
+		<p class="comments-number"><a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki/trackback" title="Trackback URL">Trackback URL</a> | <a title="Comments RSS Feed for This Entry" href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wikifeed">Comments RSS Feed</a></p>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+		<ol class="commentlist">
+					<li class="pingback even thread-even depth-1" id="comment-2131">
+				<div id="div-comment-2131" class="comment-body">
+				<div class="comment-author vcard">
+				<cite class="fn"><a href='http://www.insidebjj.com/2010/09/25/fabio-gurgel-interview/' rel='external nofollow' class='url'>Fabio Gurgel Interview : Inside BJJ</a></cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki/comment-page-1#comment-2131">
+			September 24, 2010 at 11:03 pm</a>		</div>
+
+		<p>[...] Read more about Fabio Gurgel on BJJ Heroes [...]</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2960">
+				<div id="div-comment-2960" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/6b72cf0b28a1ec1da48ffff4fcc79aa1?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">Olof</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki/comment-page-1#comment-2960">
+			November 4, 2010 at 9:48 am</a>		</div>
+
+		<p>Mate, please update as teh story doesnt end there! His top students left and then the Alliance team was rebuilt and became the best team in the world, just check last mundials results!</p>
+<p>See you on the mats Portuga!</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1" id="comment-3028">
+				<div id="div-comment-3028" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://1.gravatar.com/avatar/d07ff2d7462e2062bf041e26066a70a9?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">admin</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki/comment-page-1#comment-3028">
+			November 5, 2010 at 5:11 am</a>		</div>
+
+		<p>Cheers Sweede! See you when I come back <img src='http://www.bjjheroes.com/wp-includes/images/smilies/icon_wink.gif' alt=';)' class='wp-smiley' /> </p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-3833">
+				<div id="div-comment-3833" class="comment-body">
+				<div class="comment-author vcard">
+		<img alt='' src='http://0.gravatar.com/avatar/6e4250c92b38e0370e3f5169738621f3?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />		<cite class="fn">brandon</cite> <span class="says">says:</span>		</div>
+
+		<div class="comment-meta commentmetadata"><a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki/comment-page-1#comment-3833">
+			January 9, 2011 at 7:10 am</a>		</div>
+
+		<p>can we get a list of all the black belts he&#8217;s awarded, including those that went to team brasa? i&#8217;m sure it would read as a who&#8217;s who of top jj competitors thru the last 10 years or more&#8230;</p>
+
+		<div class="reply">
+				</div>
+				</div>
+		</li>
+		</ol>
+
+		<div class="comments-navigation clearfix">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+
+	</div>
+
+ 
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/bjj-fighters/fabio-gurgel-wiki#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div>
+
+
+<form action="http://www.bjjheroes.com/wp-comments-post.php" method="post" id="commentform">
+
+
+<p><label for="author">Name (required)</label><br />
+<input type="text" name="author" id="author" value="" size="40" tabindex="1" aria-required='true' /></p>
+
+<p><label for="email">Email (required) (will not be published)</label><br />
+<input type="text" name="email" id="email" value="" size="40" tabindex="2" aria-required='true' /></p>
+
+<p><label for="url">Website</label><br />
+<input type="text" name="url" id="url" value="" size="40" tabindex="3" /></p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><strong>If you want a picture to show with your comment, go get a <a href="http://en.gravatar.com/">Gravatar</a></strong>.</p>
+
+<p><textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea></p>
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='322' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="ff86c80064" /></p><div><input type="hidden" id="wphc_value" name="wphc_value" value=""/></div><p>Powered by <a href="http://wordpress-plugins.feifei.us/hashcash/">WP Hashcash</a></p><noscript><div><small>Wordpress Hashcash needs javascript to work, but your browser has javascript disabled. Your comment will be queued in Akismet!</small></div></noscript>
+</form>
+
+</div>
+
+
+							<div class="navigation" style="border-top:0;">
+		<div class="alignleft"><a href="http://www.bjjheroes.com/bjj-fighters/romulo-barral-wiki" rel="prev">&laquo; Previous Post</a></div>
+		<div class="alignright"><a href="http://www.bjjheroes.com/bjj-tips-for-fighters/the-science-of-tapping-your-fingers-for-jiu-jitsu" rel="next">Next Post &raquo;</a></div>
+		<div style="clear:both;"></div>
+	</div>
+
+					</div>
+
+				</div>
+
+				</div>
+
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 300x250 */
+google_ad_slot = "2058166303";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://www.bjjheroes.com/feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://www.bjjheroes.com/feed" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(20)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+<li id="similar-posts" class="widget widget_rrm_similar_posts"><h3 class="widgettitle">Similar Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/bruno-de-paula" rel="bookmark" title="October 1, 2010">Bruno de Paula (Alliance)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/leo-vieira-facts-and-bio" rel="bookmark" title="April 21, 2010">Leo Vieira (Checkmat)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/gabrielle-garcia-bjj" rel="bookmark" title="August 10, 2010">Gabrielle Garcia (Alliance)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/alexandre-paiva" rel="bookmark" title="September 21, 2010">Alexandre Paiva</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki" rel="bookmark" title="February 7, 2010">Rubens Charles &#8220;Cobrinha&#8221; (Alliance)</a></li>
+</ul><!-- Similar Posts took 54.834 ms --></li>
+<li id="recent-posts" class="widget widget_rrm_recent_posts"><h3 class="widgettitle">Recent Articles</h3><ul><li><a href="http://www.bjjheroes.com/bjj-fighters/yuki-nakai" rel="bookmark" title="January 23, 2011">Yuki Nakai (Paraestra)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/daniel-otero" rel="bookmark" title="January 23, 2011">Daniel Otero (Equipe Fabricio)</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/raphael-chaves-catatau" rel="bookmark" title="January 19, 2011">Raphael Chaves “Catatau” (The Armoury)</a></li>
+<li><a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/ryan-hall-triangle-dvd-review" rel="bookmark" title="January 18, 2011">Ryan Hall Triangle DVD Set Review</a></li>
+<li><a href="http://www.bjjheroes.com/bjj-fighters/marcus-almeida-buchecha" rel="bookmark" title="January 16, 2011">Marcus Almeida &#8220;Buchecha&#8221; (Checkmat)</a></li>
+</ul><!-- Recent Posts took 45.989 ms --></li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (4)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (216)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (34)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (8)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (39)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (1)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+
+</body>
+
+</html>

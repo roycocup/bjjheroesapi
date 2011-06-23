@@ -1,0 +1,751 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>BJJ Fighters | BJJ Heroes</title>
+
+<meta name="generator" content="WordPress 3.1.2" />
+<meta name="description" content="Brazilian Jiu Jitsu" />
+
+<link rel="stylesheet" href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.css" type="text/css" media="screen" />
+
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes RSS Feed" href="http://www.bjjheroes.com/feed" />
+
+<link rel="pingback" href="http://www.bjjheroes.com/xmlrpc.php" />
+
+
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.1 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-12525497-1']);
+	_gaq.push(['_trackPageview'],['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="BJJ Heroes &raquo; A-Z BJJ Fighters List Comments Feed" href="http://www.bjjheroes.com/a-z-bjj-fighters-list/feed" />
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/comment-reply.js?ver=20090102'></script>
+<script type='text/javascript' src='http://www.bjjheroes.com/wp-includes/js/jquery/jquery.js?ver=1.4.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bjjheroes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bjjheroes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='BJJ Heroes' href='http://www.bjjheroes.com' />
+<link rel='prev' title='BJJ Vocabulary' href='http://www.bjjheroes.com/bjj-vocabulary' />
+<link rel='next' title='How do I Join the BJJ Heroes?' href='http://www.bjjheroes.com/joining-bjj-heroes' />
+<meta name="generator" content="WordPress 3.1.2" />
+<link rel='canonical' href='http://www.bjjheroes.com/a-z-bjj-fighters-list' />
+
+<!-- Facebook Open Graph metatags added by WordPress plugin. Get it at: http://www.linksalpha.com/widgets/clickngo -->
+<meta property="og:site_name" content="BJJ Heroes" />
+<meta property="og:title" content="A-Z BJJ Fighters List" />
+<meta property="og:url" content="http://www.bjjheroes.com/a-z-bjj-fighters-list" />
+<meta property="og:image" content="http://www.bjjheroes.com/wp-content/uploads/2010/02/jits.jpg" />
+<meta property="og:description" content="If you are a new visitor, welcome and thank you for having dropped by. BJJ heroes is a website fully dedicated to Brazilian Jiu Jitsu (BJJ) and all the buzz surrounding our sport (yes, our sport is louder then a Slipknot concert). On this page you will find a list of all the fighters included on our..." />
+<meta property="og:type" content="article" />
+<!-- End Facebook Open Graph metatags-->
+
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[280,325] -->
+<meta name="description" content="All about the top Brazilian Jiu Jitsu fighters and instructors. Detailed Biographies, main achievements, nickname meanings and alot more." />
+<meta name="keywords" content="brazilian jiu jitsu, fighters, bjj, top jiu jitsu fighters" />
+<!-- /all in one seo pack -->
+<script type="text/javascript"><!--
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != 'function') {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      if (oldonload) {
+        oldonload();
+      }
+      func();
+    }
+  }
+}
+function wphc(){
+	var wphc_data = [1874826813,1656654383,1688310907,1672657976,2024051510,2012793662,2040890921,955354409,1021825903,955369851,1021825903,1072810107,1072289378,749519712,1874432812,1639874564,1772459563,753584755]; 
+
+	for (var i=0; i<wphc_data.length; i++){
+		wphc_data[i]=wphc_data[i]^215081819;
+	}
+
+	var a = new Array(wphc_data.length); 
+	for (var i=0; i<wphc_data.length; i++) { 
+		a[i] = String.fromCharCode(wphc_data[i] & 0xFF, wphc_data[i]>>>8 & 0xFF, wphc_data[i]>>>16 & 0xFF, wphc_data[i]>>>24 & 0xFF);
+	}
+
+	return eval(a.join('')); 
+}
+addLoadEvent(function(){document.getElementById('wphc_value').value=wphc();});
+//--></script>
+<link href="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/style.php" rel="stylesheet" type="text/css" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/suckerfish.js"></script>
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/superfish.js"></script>
+
+<script type="text/javascript">  
+$(document).ready(function() { 
+	$('#topnav ul, #nav ul').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'slow',                          // faster animation speed 
+            autoArrows:  false,                           // disable generation of arrow mark-up 
+            dropShadows: false                            // disable drop shadows 
+	});  
+});  
+</script>
+
+
+</head>
+
+<body>
+
+
+<div id="header" class="clearfix">
+
+	<div id="head-content" class="clearfix">
+		<div id="sitetitle">
+			 
+			<div class="title">BJJ Heroes</div> 
+						<div class="description">Brazilian Jiu Jitsu</div>
+		</div>
+
+				<div id="head-banner468">
+			<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* 468x60, created 2/5/10 */
+google_ad_slot = "5528084450";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		</div>
+			</div>
+
+</div>
+
+<div id="topnav" class="clearfix">
+	<div class="limit">
+				<div class="menu-topnav-container"><ul id="menu-topnav" class="menu"><li id="menu-item-837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-837"><a title="Jiu Jitsu" href="http://www.bjjheroes.com/">Home</a></li>
+<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-835 current_page_item menu-item-838"><a title="BJJ Fighters" href="http://www.bjjheroes.com/a-z-bjj-fighters-list">A-Z BJJ Fighters List</a></li>
+<li id="menu-item-1244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1244"><a title="BJJ Tournament Results and News" href="http://www.bjjheroes.com/category/bjj-news">BJJ News</a></li>
+<li id="menu-item-864" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-864"><a title="bjj instructionals" href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews">BJJ DVD Reviews</a></li>
+<li id="menu-item-1245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245"><a title="BJJ Workout Tips" href="http://www.bjjheroes.com/category/bjj-tips-for-fighters">BJJ Tips</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-981"><a href="http://www.bjjheroes.com/category/interview">Interviews</a></li>
+</ul></div>							<div id="topsearch" class="clearfix">
+				<form id="searchform" method="get" action="http://www.bjjheroes.com/" ><input type="text" value="enter search terms" onfocus="if (this.value == 'enter search terms') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter search terms';}" size="18" maxlength="50" name="s" id="searchfield" /><input type="image" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/blank.gif" id="submitbutton" alt="go" /></form>
+			</div>
+
+		<div id="rssbutton">
+			<a href="http://www.bjjheroes.com/feed"><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/FeedIcon-24.gif" alt="rss" title="RSS Feed" /></a>
+		</div>
+	</div>
+</div>
+
+<div id="nav" class="clearfix">
+		<div class="menu-categoriesnav-container"><ul id="menu-categoriesnav" class="menu"><li id="menu-item-1246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1246"><a title="Mundials BJJ Tournament History" href="http://www.bjjheroes.com/bjj-news/worlds-bjj">Worlds BJJ</a></li>
+<li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-848"><a title="All Time Top 10 BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/top-10-bjj-fighters-of-all-time">Top BJJ Fighters of All Time</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-849"><a title="Present Top BJJ Fighters" href="http://www.bjjheroes.com/bjj-news/who-is-the-best-bjj-fighter-in-the-world">Top BJJ Fighters Today</a></li>
+<li id="menu-item-1054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1054"><a href="http://www.bjjheroes.com/bjj-news/best-jiu-jitsu-fighter-in-mma-today">Top BJJ Fighters in MMA</a></li>
+<li id="menu-item-865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-865"><a title="Important Words in BJJ" href="http://www.bjjheroes.com/bjj-vocabulary">BJJ Vocabulary</a></li>
+<li id="menu-item-841" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-841"><a title="List of our BJJ Fighters" href="http://www.bjjheroes.com/category/bjj-fighters">BJJ Fighter Database</a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a title="About Us Page" href="http://www.bjjheroes.com/about">About BJJ Heroes</a></li>
+<li id="menu-item-1289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1289"><a title="Want to join our BB Database?" href="http://www.bjjheroes.com/joining-bjj-heroes">Joining BJJ Heroes</a></li>
+</ul></div>	</div>
+
+
+<div id="wrap">
+
+	<div id="page" class="clearfix">
+
+		<div id="contentleft">
+
+			<div id="content">
+
+						<div class="col-3">
+			
+				<div class="maincontent">
+
+				<div class="banner468">
+	<a title="MMA Deals" href="http://mmadeals.com/" target="_blank"><img src="http://www.bjjheroes.com/wp-content/uploads/2010/02/mma-deals.gif" border="0" alt="MMA Deals" width="468" height="60" /></a></div>
+
+
+				<div class="singlepost">
+
+				<div class="post clearfix" style="margin:0;" id="post-835">
+
+					<div class="entry clearfix">
+
+						<h1>A-Z BJJ Fighters List</h1>
+
+						<div style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;;">
+											<iframe
+												style="height:25px !important; border:0px solid gray !important; overflow:hidden !important; width:550px !important;" frameborder="0" scrolling="no" allowTransparency="true"
+												src="http://www.linksalpha.com/social?blog=BJJ+Heroes&link=http%253A%252F%252Fwww.bjjheroes.com%252Fa-z-bjj-fighters-list&title=A-Z+BJJ+Fighters+List&desc=If+you+are+a+new+visitor%2C+welcome+and+thank+you+for+having+dropped+by.+BJJ+heroes+is+a+website+fully+dedicated+to+Brazilian+Jiu+Jitsu+%28BJJ%29+and+all+the+buzz+surrounding+our+sport+%28yes%2C+our+sport+is+lo&fc=333333&fs=arial&fblname=like&fblref=facebook&fbllang=en_US&fblshow=1&fbsbutton=1&fbsctr=1&fbslang=en&fbsendbutton=0&twbutton=1&twlang=en&twmention=bjjheroes&twrelated1=&twrelated2=&twctr=1&lnkdshow=noshow&lnkdctr=1&buzzbutton=0&buzzlang=en&buzzctr=1&diggbutton=1&diggctr=1&stblbutton=1&stblctr=1&g1button=1&g1ctr=1&g1lang=en-US">
+											</iframe>
+										</div><p>If you are a new visitor, welcome and thank you for having dropped by. BJJ heroes is a website fully dedicated to Brazilian Jiu Jitsu (BJJ) and all the buzz surrounding our sport (yes, our sport is louder then a Slipknot concert). On this page you will find a list of all the fighters included on our fighter database in alphabetical order. Click on the names to enter the fighter’s biography (nowadays more commonly called <a href="http://www.bjjheroes.com/category/bjj-fighters">fighter wiki</a>) with all the relevant information we could find regarding the fighters in question.</p>
+<p><strong>A</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/abmar-barbosa-wiki-bio">Abmar Barbosa</a> (Drysdale Jiu Jitsu)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/adam-shahir-kayoom">Adam Kayoom</a> (BKK BJJ)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/adriana-pinto">Adriana Martins</a> (Akxe)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/adriano-martins">Adriano Martins</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/adriano-silva-barbosa-jj">Adriano Silva</a> (Barbosa JJ)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/alan-finfou-do-nascimento-wiki">Alan do Nascimento &#8220;Finfou&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/beto-carmona">Alberto Carmona &#8220;Beto&#8221;</a> (Akxe)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/alexandre-de-souza-facts-and-bio">Alexandre de Souza &#8220;Pop&#8221;</a> (Gracie Floripa)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/alexandre-ceconi-facts-and-bio">Alexandre Ceconi</a> (Rilion Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/alexandre-soca-freitas">Alexandre de Freitas &#8220;Soca&#8221;</a> (Soca BJJ)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/alexandre-paiva">Alexandre Paiva &#8220;Gigi&#8221;</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/alexandre-pulga-pimentel-wiki">Alexandre Pimentel &#8220;Pulga&#8221;</a> (Nova Geracao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/xande-ribeiro-fighter-wiki">Alexandre Ribeiro &#8220;Xande&#8221;</a> (Gracie Humaita)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/alexsandro-leke-machado">Alexsandro Machado &#8220;Leke&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/allan-goes">Allan Goes</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/amaury-bitetti-facts-and-bio">Amaury Bitetti</a> (Carlson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ana-maria-india-bjj-fighter">Ana Maria &#8220;India&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/anderson-pereira-bjj-wiki">Anderson Pereira &#8220;Deton&#8221;</a> (Brazilian Top Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/andrea-baggio">Andrea Baggio</a> (Milanimal)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/andre-galvao-bjj-and-mma-fighter-wiki">André Galvao</a> (Atos)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/andre-pederneiras-bjj-and-mma-coach">André Pederneiras &#8220;Dedé&#8221;</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/andre-negao-wiki">André Terencio &#8220;Negao&#8221;</a> (Brasil 021)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/tony-pacenski-facts-and-bio">Anthony Pacenski &#8220;Little Tony&#8221;</a> (BJJ Revolution Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/anthony-perosh">Anthony Perosh &#8220;The Hippo&#8221;</a> (Machado JJ)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/aj-scales">Anthony Scales &#8220;AJ&#8221;</a> (Nova Uniao)<br />
+<a title="Antonio Carlos" href="http://www.bjjheroes.com/bjj-fighters/antonio-carlos-junior"> Antonio Carlos Junior &#8220;Cara de Sapato&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/antonio-peinado">Antonio Peinado &#8220;Batista&#8221;</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/nino-schembri">Antonio Schembri &#8220;Nino&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/antonio-braga-neto-wiki-bio">Antonio Braga Neto</a> (Gordo Jiu Jitsu/Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/arlisson-kiki-melo">Arlisson Melo &#8220;Kiki&#8221;</a> (Kimura-Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ari-farias-bjj-wiki">Ary Farias</a> (Atos)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/armando-wridt-wiki-bio">Armando Wridt</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/augusto-ferrari">Augusto Ferrari</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/augusto-mendes-tanquinho-bjj-fighter-wiki">Augusto Mendes &#8220;Tanquinho&#8221;</a> (Soul Fighters)</p>
+<p><strong>B</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/baret-yoshida">Baret Yoshida</a> (Undisputed)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/beatriz-mesquita">Beatriz Mesquita</a> (Gracie Humaita)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bernardo-faria-facts-and-bio">Bernardo Faria</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bianca-andrade">Bianca Andrade</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bibiano-fernandes-facts-and-bio">Bibiano Fernandes &#8220;Flash&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/jiu-jitsu-dvd-reviews/bill-the-grill-cooper-paragon">Bill Cooper &#8220;The Grill&#8221;</a> (Paragon BJJ)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bj-penn-wiki">BJ Penn</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/braulio-estima-facts-and-bio">Braulio Estima &#8220;Carcará&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bruno-amorim-bjj-fighter-wiki">Bruno Amorim &#8220;Robinho&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bruno-bastos">Bruno Bastos</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bruno-de-paula">Bruno de Paula &#8220;Bruninho&#8221;</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bruno-frazatto-bjj-fighter-wiki">Bruno Frazatto</a> (Atos)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bruno-malfacine-bjj-wiki">Bruno Malfacine &#8220;Bad Boy&#8221;</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/bruno-matias">Bruno Matias</a> (Checkmat)</p>
+<p><strong>C</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/caio-terra">Caio Terra</a> (Cesar Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/carlos-gracie-sr-profile">Carlos Gracie Senior</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/carlos-carlinhos-gracie-jr">Carlos Gracie Junior &#8220;Carlinhos&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/carlos-machado">Carlos Machado</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/carlos-portugues-vieira-wiki-bio">Carlos Vieira &#8220;Portugues&#8221;</a> (CIA Paulista)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/caroline-de-lazzer">Caroline de Lazzer</a> (Emirates Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/carlos-vieira-holanda-esquisito">Carlos Vieira Holanda &#8220;Esquisito&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/carlson-gracie-profile">Carlson Gracie</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/cassio-cardoso">Cassio Cardoso</a> (Carlson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/cassio-werneck">Cassio Werneck</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/celso-celsinho-vinicius-facts-and-bio">Celso Vinicius &#8220;Celsinho&#8221;</a> (Ryan Gracie/Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/cesar-gracie">Cesar Gracie</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/charles-do-bronx-oliveira">Charles Oliveira &#8220;do Bronx&#8221;</a> (Macaco Gold Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/chico-mendes">Chico Mendes</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/cicero-costha">Cicero Costha</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/claudio-calasans-facts-and-bio">Claudio Calasans</a> (Atos)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/claudio-henrique-facts-and-bio">Claudio Henrique &#8220;Banheira&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/claudio-mattos-caloquinha-facts-and-bio">Claudio Mattos &#8220;Caloquinha&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/cristiano-carioca">Cristiano Carioca</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/cristiano-marcello-fighter-wiki">Cristiano Marcello</a> (Chute-Boxe/CM System)</p>
+<p><strong>D</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/daniel-azevedo">Daniel Azevedo</a> (Cia Paulista)<br />
+<a title="Daniel Garcia" href="http://www.bjjheroes.com/bjj-fighters/daniel-garcia">Daniel Garcia Dias</a> (Nova União)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/daniel-beleza">Daniel Beleza</a> (SAS)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/daniel-moraes-facts-and-bio">Daniel Moraes</a> (Relson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/daniel-otero">Daniel Otero</a> (Equipe Fabricio)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/daniel-valverde">Daniel Valverde</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/dave-camarillo">Dave Camarillo</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/david-hertzog-bjj">David Hertzog &#8220;Juggernaut&#8221;</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/demian-maia-fighter-wiki">Demian Maia</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/denilson-pimenta-bjj-fighter-wiki">Denilson Pimenta</a> (GFTeam)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/denys-darzi-brasil-021">Denys Darzi</a> (Brazil 021)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/diogo-moreno-sampaio">Diogo Sampaio Araujo &#8220;Moreno&#8221;</a> (Soul Fighters)</p>
+<p><strong>E</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/eduardo-azevedo-facts-and-bio">Eduardo Azevedo</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/eduardo-dudu-barros">Eduardo Barros &#8220;Dudu&#8221;</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/eduardo-jamelao">Eduardo Conceição &#8220;Jamelao&#8221;</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/eduardo-telles">Eduardo Telles</a> (Nine Nine)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/erik-wanderley">Erik Wanderley</a> (Gracie Barra)</p>
+<p><strong>F</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/fabiana-borges">Fabiana Borges</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/fabio-gurgel-wiki">Fabio Gurgel &#8220;General&#8221;</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/fabio-leopoldo">Fabio Leopoldo</a> (Gracie Morumbi)<br />
+<a title="Fabio Prado" href="http://www.bjjheroes.com/bjj-fighters/fabio-pateta-prado">Fabio Prado &#8220;Pateta&#8221;</a> (FP Jiu Jitsu)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/fabricio-werdum">Fabricio Werdum &#8220;Vai Cavalo&#8221;</a> (Winner-Behring)<br />
+<a title="Felipe Cavalcante" href="http://www.bjjheroes.com/bjj-fighters/felipe-cavalcante">Felipe Cavalcante</a> (Gracie Humaita)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/felipe-costa-facts-and-bio">Felipe Costa &#8220;Magrinho&#8221;</a> (Brasa)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/fernando-augusto-terere-bio">Fernando Augusto &#8220;Terere&#8221;</a> (Alliance/Brasa/TT)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/fernando-pinduka">Fernando Guimaraes &#8220;Pinduka&#8221;</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/fernando-pontes-margarida-fighter-profile">Fernando Pontes &#8220;Margarida&#8221;</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/flavio-almeida">Flavio Almeida &#8220;Cachorrinho&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/francisco-toco-albuquerque">Francisco Albuquerque &#8220;Toco&#8221;</a> (Nova Geracao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/fredson-paixao">Fredson Paixao</a> (Osvaldo Alves/Gracie Barra)</p>
+<p><strong>G</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/gabriel-goulart">Gabriel Goulart</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/gabriel-vella">Gabriel Vella</a> (Gracie Elite)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/gabrielle-garcia-bjj">Gabrielle Garcia</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/george-gracie-facts-and-bio">George Gracie &#8220;Gato Ruivo&#8221;</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/gilbert-burns-durinho-facts-and-bio">Gilbert Burns &#8220;Durinho&#8221;</a> (Atos)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/guilherme-mendes-facts-and-bio">Guilherme Mendes</a> (Atos)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/gustavo-campos-guto-fighter-wiki">Gustavo Campos &#8220;Guto&#8221;</a> (Atos/Getho)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/gustavo-dantas">Gustavo Dantas</a> (Nova Uniao)</p>
+<p><strong>H</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/hannette-staack-bjj-wiki">Hanette Staack</a> (Brazil 021)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/helio-gracie">Helio Gracie</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/helio-soneca-moreira">Helio Moreira &#8220;Soneca&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/helvecio-penna">Helvecio Penna</a> (De La Riva)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/henrique-machado-wiki-bio">Henrique Machado</a> (ASLE)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/hillary-williams-bjj-fighter-wiki">Hillary Williams &#8220;Paquita&#8221;</a> (West Side MMA)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/huanderson-pavao">Huanderson Pavao</a> (GFTeam)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/humberto-silveira-academia-shiozawa">Humberto Silveira</a> (Academia Shiozawa)</p>
+<p><strong>I</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/igor-silva">Igor Silva</a> (GFTeam/Brasa)</p>
+<p><strong>J</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jake-mackenzie">Jake Mackenzie</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jefferson-moura">Jefferson Moura</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jake-shields">Jake Shields</a> (Cesar Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jean-jacques-machado-bjj-fighter-wiki">Jean Jacques Machado</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jean-kleber-bjj-wiki">Jean Kleber</a> (Kimura/Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jeff-glover">Jeff Glover &#8220;The Pipelayer&#8221;</a> (Paragon)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jeff-joslin-wiki-bio">Jeff Joslin</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/joao-roque">Joao Roque</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/joe-moreira">Joe Moreira</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jorge-patino-macaco-gold-team">Jorge Patino &#8220;Macaco&#8221;</a> (Macaco Gold Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/john-danaher">John Danaher</a> (Renzo Gracie Academy)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/john-will">John Will</a><br />
+<a title="Jonatas Gurgel Profile" href="http://www.bjjheroes.com/bjj-fighters/jonatas-gurgel-tagarela">Jonatas Gurgel &#8220;Tagarela&#8221;</a> (ATT)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jose-aldo">Jose Aldo &#8220;Junior&#8221;</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ze-mario-sperry-mma-and-bjj-fighter-wiki">José Mario Sperry</a> (Carlson Gracie/Brazilian Top Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/josef-manuel">Josef Manuel</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/mestre-julio-cezar-pereira">Julio Cesar</a> (GFTeam)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/joao-assis">Joao Assis</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/joao-zeferino-facts-and-bio">Joao Zeferino</a> (Gracie Floripa)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/jt-torres">JT Torres</a> (Lloyd Irvin)</p>
+<p><strong>K</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/keith-mckenzie">Keith McKenzie</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/kyra-gracie">Kyra Gracie</a> (Gracie Elite Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/kron-gracie">Kron Gracie</a> (Rickson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/kayron-gracie">Kayron Gracie</a> (Gracie Barra)</p>
+<p><strong>L</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/laercio-fernandes">Laercio Fernandes</a> (Team Oyama)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/leandro-lo-pereira">Leandro Lo</a> (Cicero Costha)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/leka-vieira">Leka Vieira</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/leonardo-castello-branco">Leonardo Castello Branco</a> (Brasa)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/leo-leite">Leonardo Leite</a> (Alliance)<br />
+<a title="Leo Nogueira" href="http://www.bjjheroes.com/bjj-fighters/leonardo-nogueira">Leonardo Nogueira</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/leonardo-santos-leo-bjj-fighter-wiki">Leonardo Santos</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/leo-vieira-facts-and-bio">Leonardo Vieira &#8220;Leozinho&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/leticia-ribeiro">Leticia Ribeiro</a> (Gracie Humaita)<br />
+<a title="Lloyd Irvin" href="http://www.bjjheroes.com/bjj-fighters/lloyd-irvin">Lloyd Irvin</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/luanna-alzeguir-facts-and-bio">Luana Alzuguir</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/lucas-lepri-wiki-bio">Lucas Lepri</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/lucas-leite">Lucas Leite</a> (Checkmat)<br />
+<a title="Lucio Rodrigues" href="http://www.bjjheroes.com/bjj-fighters/lucio-rodrigues-lagarto">Lucio Rodrigues &#8220;Lagarto&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/luis-carlos-manimal">Luis Carlos &#8220;Manimal&#8221;</a> (Carlson Gracie/Manimal Fight Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/luiz-guilherme-guigo">Luiz Guilherme &#8220;Guigo&#8221;</a></p>
+<p><strong>M</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcelino-freitas">Marcelino Freitas &#8220;Telino&#8221;</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcelo-behring">Marcelo Behring</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcelo-garcia-fighter-profile">Marcelo Garcia &#8220;Marcelinho&#8221;</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcelo-machado">Marcelo Machado</a> (Gracie Tijuca/Humaita)<br />
+<a title="Marcelo Ribeiro Jiu Jitsu" href="http://www.bjjheroes.com/bjj-fighters/marcelo-ribeiro">Marcelo Ribeiro</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcello-salazar-bjj-and-mma">Marcelo Salazar &#8220;The Barbarian&#8221;</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcelo-saporito">Marcelo Saporito</a> (Carlson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcio-cruz">Marcio Cruz &#8220;Pé de Pano&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcio-feitosa">Marcio Feitosa</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marco-barbosa-facts-and-bio">Marco Barbosa &#8220;Barbosinha&#8221;</a> (Barbosa)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marco-canha-facts-and-bio">Marco Canha</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marco-vilella-gigante">Marco Vilella &#8220;Gigante&#8221;</a> (Gracie Oceania)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcos-barreto">Marcos Barreto</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcos-matta-parrumpinha">Marcos da Matta &#8220;Parrumpinha&#8221;</a> (ATT)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcos-escobar">Marcos Escobar</a> (Checkmat)<br />
+<a title="Marcus Buchecha" href="http://www.bjjheroes.com/bjj-fighters/marcus-almeida-buchecha">Marcus Almeida &#8220;Buchecha&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marcos-cerqueira">Marcos Cerqueira</a> (Heights BJJ)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/mario-reis-gracie-barra">Mario Reis</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/mario-yokoyama">Mario Sergio Yokoyama</a> (Ryan Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/marlon-sandro-wiki-bio">Marlon Sandro</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/mauricio-gomes">Mauricio Gomes</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/mauricio-tinguinha-mariano">Mauricio Mariano &#8220;Tinguinha&#8221;</a><br />
+<a title="Mauro Chueng" href="http://www.bjjheroes.com/bjj-fighters/mauro-chueng" target="_self">Mauro Chueng</a> (Rio Grappling Club)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/mauricio-tinguinha-mariano"></a> <a href="http://www.bjjheroes.com/bjj-fighters/max-trombini-cia-paulista">Maximiliano Trombini</a> (Cia Paulista)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/michael-langhi-bjj-fighter-bio">Michael Langhi</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/michelle-nicolini">Michelle Nicolini</a> (Checkmat)<br />
+<a title="Moises Murab Profile" href="http://www.bjjheroes.com/bjj-fighters/moises-murad">Moises Murad</a> (Lótus JJ)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/monte-egbert-montanha-wiki">Monte Egbert &#8220;Montanha&#8221;</a> (Cesar Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/murilo-bustamante">Murilo Bustamante</a> (BTT)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/murilo-santana-facts-and-bio">Murilo Santana</a> (Barbosa)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/muzio-de-angelis-brasa">Muzio De Angelis</a> (Brasa)</p>
+<p><strong>N</strong></p>
+<p><strong>O</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/octavio-couto-ratinho">Octavio Couto &#8220;Ratinho&#8221;</a> (Brasa)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/oliver-geddes-wiki">Oliver Geddes</a> (Roger Gracie Academy)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/omar-salum">Omar Salum</a> (Gracie Humaita)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/otavio-peixotinho">Otavio de Almeida &#8220;Peixotinho&#8221;</a> (Carlson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/osvaldo-alves-facts-and-bio">Osvaldo Alves</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/oswaldo-fadda-facts-and-bio">Oswaldo Fadda</a> (Fadda)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/oswaldo-paqueta">Oswaldo Paqueta</a></p>
+<p><strong>P<br />
+</strong><a title="Patricia Lage" href="http://www.bjjheroes.com/bjj-fighters/patricia-lage">Patricia Lage</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/pablo-popovitch">Pablo Popovitch<br />
+</a><a title="Pablo Silva Bio" href="http://www.bjjheroes.com/bjj-fighters/pablo-silva" target="_self">Pablo Silva </a>(Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/pedro-pacheco-fernandes">Pedro Pacheco Fernandes</a> (Tu Kaha JJ)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/pedro-sauer">Pedro Sauer</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/penny-thomas">Penny Thomas</a> (Gracie Humaita)</p>
+<p><strong>Q</strong></p>
+<p><strong>R</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rafael-formiga-barbosa">Rafael Barbosa &#8220;Formiga&#8221;</a> (Soul Fighters)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rafael-mendes-bjj-fighter-wiki">Rafael Mendes</a> (Atos)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rafinha-dallinha">Rafael Dallinha &#8220;Rafinha&#8221;</a> (Revolution Team/Carlson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rafael-dos-anjos-wiki">Rafael dos Anjos</a> (Gracie Barra/Gracie Fusion)<a href="http://www.bjjheroes.com/bjj-fighters/rafael-lovato-jr"><br />
+Rafael Lovato Jr</a> (Gracie Humaitá)<a href="http://www.bjjheroes.com/bjj-fighters/ramon-lemos-atos"><br />
+Ramon Lemos</a> (Atos)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rani-yahya-bjj-and-mma-fighter-wiki">Rany Yahya</a> (Athaíde Jiu Jitsu)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/raphael-abi-rihan">Raphael Abi-Rihan</a> (Carlson Gracie)<a href="http://www.bjjheroes.com/bjj-fighters/renato-migliaccio"><br />
+</a><a title="Raphael Chaves Profile" href="http://www.bjjheroes.com/bjj-fighters/raphael-chaves-catatau">Raphael Chaves &#8220;Catatau&#8221;</a> (The Armoury)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/reinaldo-ribeiro">Reinaldo Ribeiro</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/renato-migliaccio">Renato Migliaccio</a> (Gracie Barra/Ryan Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/renato-tavares">Renato Tavares</a> (American Top Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/renzo-gracie-bjj-fighter">Renzo Gracie</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ricardo-demente-abreu-wiki">Ricardo Abreu &#8220;Demente&#8221;</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ricardo-almeida-cachorrao-wiki">Ricardo Almeida &#8220;Cachorrao&#8221;</a> (Renzo Gracie Jiu Jitsu)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ricardo-aronas-fighter-profile">Ricardo Arona &#8220;Brazilian Tiger&#8221;</a> (Carlson Gracie/Brazilian Top Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ricardo-de-la-riva-wiki-bio">Ricardo De La Riva</a> (Carlson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ricardo-liborio">Ricardo Liborio</a> (American Top Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ricardo-franjinha-miller">Ricardo Miller &#8220;Franjinha&#8221;</a> (Paragon)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ricardo-ricardinho-vieira">Ricardo Vieira &#8220;Ricardinho&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/dickie-martin">Richard Martin &#8220;Dickie&#8221;</a> (Carlson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rickson-gracie-facts-and-bio">Rickson Gracie</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/robert-drysdale-wiki-bio">Robert Drysdale</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/roberto-tussa-alencar">Roberto Alencar &#8220;Tussa&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/roberto-cyborg-abreu-bjj-fighter-wiki">Roberto Abreu &#8220;Cyborg&#8221;</a> (Nova Geracao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/roberto-atalla">Roberto Atalla &#8220;Risada&#8221;</a> (Rio Grappling Club)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/roberto-gordo-correa">Roberto Correa &#8220;Gordo&#8221;</a> (Gracie Barra/Gordo Jiu Jitsu Evolve)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/roberto-godoi">Roberto Godoi</a> (Godoi JJ)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/roberto-roleta-magalhaes">Roberto Magalhaes &#8220;Roleta&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/roberto-tozi-wiki-bio">Roberto Tozi</a> (Godoi Jiu Jitsu)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/roberto-traven">Roberto Traven</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/robson-moura-bjj-fighter">Robson Moura &#8220;Robinho&#8221;</a> (Nova Uniao)<a href="http://www.bjjheroes.com/bjj-fighters/rodolfo-vieira-bjj-wiki"></a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rodney-ellis">Rodney Ellis</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rodolfo-vieira-bjj-wiki">Rodolfo Vieira &#8220;Cacador de Faixas Pretas&#8221;</a> (GFTeam)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rodrigo-cabral">Rodrigo Cabral &#8220;Brucutu&#8221;</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rodrigo-cavaca-facts-and-bio">Rodrigo Cavaca</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rodrigo-caporal">Rodrigo Caporal</a> (Atos)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rodrigo-comprido-medeiros">Rodrigo Medeiros &#8220;Comprido&#8221;</a> (Brasa)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rodrigo-medeiros-revolution-team">Rodrigo Medeiros</a> (Revolution BJJ)<br />
+<a title="Roger Coelho" href="http://www.bjjheroes.com/bjj-fighters/roger-coelho">Roger Coelho</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/roger-gracie-bio">Roger Gracie</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rogerio-taborda-tatu-bjj">Rogerio Taborda &#8220;Tatu&#8221;</a> (Nova Uniao)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rolls-gracie-profile">Rolls Gracie</a> (Father)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rolles-gracie-ufc-fighter-bio">Rolles Gracie</a> (Son)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/romero-jacare-cavalcanti-wiki">Romero Cavalcanti &#8220;Jacaré&#8221;</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/romulo-barral-wiki">Romulo Barral &#8220;Rominho&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ronaldo-souza-jacare-fighter-wiki">Ronaldo Souza &#8220;Jacaré&#8221;</a> (ASLE)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rousimar-palhares-facts-and-bio">Rousimar Palhares &#8220;Toquinho&#8221;</a> (Brazilian Top Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/royce-gracie">Royce Gracie</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/royler-gracie-facts-and-bio">Royler Gracie</a> (Gracie Humaita)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rubens-charles-cobrinha-bjj-fighter-wiki">Rubens Charles &#8220;Cobrinha&#8221;</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/rufino-gomes-morcego">Rufino Gomes &#8220;Morcego&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/ryan-hall">Ryan Hall</a> (50/50 BJJ &#8211; Brasa)<br />
+<a title="Ryan Murphy" href="http://www.bjjheroes.com/bjj-fighters/ryan-murphy" target="_blank"> Ryan Murphy</a> (Crosley Gracie)</p>
+<p><strong>S</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/saulo-ribeiro-facts-and-bio">Saulo Ribeiro</a> (Gracie Humaitá)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/sergio-moraes-bjj-fighter-wiki">Sergio Moraes &#8220;O Orgulho da Cohab&#8221;</a> (Alliance)<br />
+<a title="Sergio Babu" href="http://www.bjjheroes.com/bjj-fighters/sergio-babu">Sergio Gasparelli &#8220;Babu&#8221;</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/sergio-penha">Sergio Penha</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/sergio-bolao-souza">Sergio Souza &#8220;Bolao&#8221;<br />
+</a><a title="Shane Rice" href="http://www.bjjheroes.com/bjj-fighters/shane-rice">Shane Rice</a> (Rickson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/shawn-williams">Shawn Williams</a> (Renzo Gracie Academy)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/silvana-abreu">Silvana Abreu</a> (Brasil 021)<br />
+<a title="Stuart Marks" href="http://www.bjjheroes.com/bjj-fighters/stuart-marks">Stuart Marks</a> (Gracie Oceania)</p>
+<p><strong>T<br />
+</strong><a title="Tarcisio Jardim" href="http://www.bjjheroes.com/bjj-fighters/tarcisio-jardim">Tarcisio Jardim</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/tarsis-humphreys-facts-and-bio">Tarsis Humpreys</a> (Alliance)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/theodoro-canal">Theodoro Canal</a> (GF Team)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/thiago-monstro-borges-facts-and-bio">Thiago Borges &#8220;Monstro&#8221;</a> (Checkmat)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/tiago-alves">Tiago Alves</a> (Barbosa JJ)</p>
+<p><strong>U</strong></p>
+<p><strong>V<br />
+</strong><a title="Vinicius Corrales" href="http://www.bjjheroes.com/bjj-fighters/vinicius-corrales">Vinicius Corrales</a> (Sul Jiu Jitsu)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/vinicius-draculino-magalhaes-wiki-bio">Vinicius Magalhaes &#8220;Draculino&#8221;</a> (Gracie Barra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/vinicius-aieta">Vinicius Aieta</a> (Gracie Humaita)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/vinny-magalhaes">Vinny Magalhaes</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/shaolin-ribeiro-bjj-and-mma-fighter-bio">Vitor Ribeiro &#8220;Shaolin&#8221;</a> (Nova Uniao)</p>
+<p><strong>W</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/wagner-galeto-campos-bjj">Wagner Campos &#8220;Galeto&#8221;</a> (Gile Ribeiro Brothers)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/waldemar-santana-profile">Waldemar Santana</a><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/waldomiro-perez-jr">Waldomiro Perez</a> (Cia Paulista)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/wallid-ismail-facts-and-bio">Walid Ismail</a> (Carlson Gracie)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/wellington-megaton-dias">Wellington Dias &#8220;Megaton&#8221;</a> (Gracie Humaitá)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/wendell-alexander">Wendell Alexander &#8220;Del&#8221;</a> (Nova Uniao)</p>
+<p><strong>X</strong></p>
+<p><strong>Y</strong><br />
+<a title="Yuki Nakai Profile" href="http://www.bjjheroes.com/bjj-fighters/yuki-nakai" target="_blank">Yuki Nakai</a> (Paraestra)<br />
+<a href="http://www.bjjheroes.com/bjj-fighters/yusuke-honma">Yusuke Honma</a> (Paraestra)</p>
+<p><strong>Z</strong><br />
+<a href="http://www.bjjheroes.com/bjj-fighters/zak-maxwell">Zak Maxwell</a> (Gracie Humaita)</p>
+<p><a href="http://jitsmagazine.com/"><img title="Sponsor" src="http://www.bjjheroes.com/wp-content/uploads/2010/02/jits.jpg" alt="" width="428" height="60" /></a></p>
+
+					</div>
+
+				</div>
+
+				</div>
+
+
+				</div>
+
+			</div>
+
+							<div id="sidebarleft">
+
+					<ul>
+
+<li id="recent-comments-4" class="widget widget_recent_comments"><h3 class="widgettitle">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments">tyson on <a href="http://www.bjjheroes.com/bjj-fighters/octavio-couto-ratinho/comment-page-1#comment-5166">Octavio Couto &#8220;Ratinho&#8221; (Brasa)</a></li><li class="recentcomments">Alan on <a href="http://www.bjjheroes.com/bjj-fighters/baret-yoshida/comment-page-1#comment-5164">Baret Yoshida</a></li><li class="recentcomments">riccardoriccio on <a href="http://www.bjjheroes.com/bjj-fighters/raphael-abi-rihan/comment-page-1#comment-5161">Raphael Abi-Rihan</a></li><li class="recentcomments">Jeffro on <a href="http://www.bjjheroes.com/bjj-fighters/lloyd-irvin/comment-page-1#comment-5160">Lloyd Irvin</a></li><li class="recentcomments"><a href='http://www.facebook.com/people/James-Soetebeer/1826906389' rel='external nofollow' class='url'>James Soetebeer</a> on <a href="http://www.bjjheroes.com/bjj-fighters/oswaldo-fadda-facts-and-bio/comment-page-1#comment-5156">Oswaldo Fadda</a></li></ul></li>
+<li id="text-3" class="widget widget_text"><h3 class="widgettitle">Sponsor</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+<li id="archives-4" class="widget widget_archive"><h3 class="widgettitle">Archives</h3>		<ul>
+			<li><a href='http://www.bjjheroes.com/2011/06' title='June 2011'>June 2011</a></li>
+	<li><a href='http://www.bjjheroes.com/2011/05' title='May 2011'>May 2011</a></li>
+	<li><a href='http://www.bjjheroes.com/2011/04' title='April 2011'>April 2011</a></li>
+	<li><a href='http://www.bjjheroes.com/2011/03' title='March 2011'>March 2011</a></li>
+	<li><a href='http://www.bjjheroes.com/2011/02' title='February 2011'>February 2011</a></li>
+	<li><a href='http://www.bjjheroes.com/2011/01' title='January 2011'>January 2011</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/12' title='December 2010'>December 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/11' title='November 2010'>November 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/10' title='October 2010'>October 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/09' title='September 2010'>September 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/08' title='August 2010'>August 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/07' title='July 2010'>July 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/06' title='June 2010'>June 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/05' title='May 2010'>May 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/04' title='April 2010'>April 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/03' title='March 2010'>March 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/02' title='February 2010'>February 2010</a></li>
+	<li><a href='http://www.bjjheroes.com/2010/01' title='January 2010'>January 2010</a></li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+			</div>
+			
+		</div>
+
+
+		<div id="contentright">
+
+			<div id="sidebar" class="clearfix">
+
+				<ul>
+
+										<li id="banner300-top-right">
+						<div class="textwidget"><a title="M Kimonos - proved and tested by Jiu Jitsu legends" href="http://www.mkimonos.com/" target="_blank"><img src="http://www.bjjheroes.com/MachadoKimonos-xande-caps.jpg" border="0" alt="M Kimonos - Jiu Jitsu Tradition" width="300" height="250" /></a></div>
+					</li>
+					
+					<li id="side-tabs">
+						
+<script type="text/javascript" src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/js/tabs.js"></script>
+
+	<ul class="tabs clearfix">  
+		<li><a href="javascript:tabSwitch_2(1, 4, 'tab_', 'content_');" id="tab_1" class="on">Subscribe</a></li>
+		<li><a href="javascript:tabSwitch_2(2, 4, 'tab_', 'content_');" id="tab_2">Archives</a></li>  
+		<li><a href="javascript:tabSwitch_2(3, 4, 'tab_', 'content_');" id="tab_3">Tags</a></li>
+		<li><a href="javascript:tabSwitch_2(4, 4, 'tab_', 'content_');" id="tab_4">Popular</a></li>
+	</ul>
+
+	<div style="clear:both;"></div>
+
+	<div id="content_1" class="cat_content">
+		<ul>
+			<li class="email">
+				<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://feeds.feedburner.com/bjjheroes', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<input type="hidden" value="http://feeds.feedburner.com/bjjheroes" name="uri"/>
+					<input type="hidden" name="loc" value="en_US"/>
+					<p><img src="http://www.bjjheroes.com/wp-content/themes/wp-prolific_basic/images/email.gif" alt="email" style="float:left;margin: 4px 5px 0 0;" />Subscribe Via Email<br />
+					<input type="text" id="sub" name="email" value="" /> <input id="subbutton" type="submit" value="submit" /><br />
+					<small>Privacy guaranteed. We will not share your information.</small></p>
+				</form>
+			</li>
+			<li class="feeds">
+				<a href="http://www.bjjheroes.com/feed">Subscribe via RSS Feed</a>
+			</li>
+			<li class="twitter">
+				<a href="http://twitter.com/bjjheroes">Follow Me on Twitter</a>
+			</li>
+			<li class="facebook">
+				<a href="http://www.facebook.com/pages/BJJ-Heroes/116759108348873">Connect With Me on Facebook</a>
+			</li>
+		</ul> 
+	</div>
+
+	<div id="content_2" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+				<option value="">Select Month</option> 
+					<option value='http://www.bjjheroes.com/2011/06'> June 2011 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2011/05'> May 2011 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2011/04'> April 2011 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2011/03'> March 2011 &nbsp;(13)</option>
+	<option value='http://www.bjjheroes.com/2011/02'> February 2011 &nbsp;(11)</option>
+	<option value='http://www.bjjheroes.com/2011/01'> January 2011 &nbsp;(24)</option>
+	<option value='http://www.bjjheroes.com/2010/12'> December 2010 &nbsp;(26)</option>
+	<option value='http://www.bjjheroes.com/2010/11'> November 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/10'> October 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/09'> September 2010 &nbsp;(21)</option>
+	<option value='http://www.bjjheroes.com/2010/08'> August 2010 &nbsp;(10)</option>
+	<option value='http://www.bjjheroes.com/2010/07'> July 2010 &nbsp;(16)</option>
+	<option value='http://www.bjjheroes.com/2010/06'> June 2010 &nbsp;(12)</option>
+	<option value='http://www.bjjheroes.com/2010/05'> May 2010 &nbsp;(14)</option>
+	<option value='http://www.bjjheroes.com/2010/04'> April 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/03'> March 2010 &nbsp;(23)</option>
+	<option value='http://www.bjjheroes.com/2010/02'> February 2010 &nbsp;(61)</option>
+	<option value='http://www.bjjheroes.com/2010/01'> January 2010 &nbsp;(30)</option>
+			</select>
+		</div> 
+	</div>
+                     
+	<div id="content_3" class="cat_content" style="display:none">
+		<div class="sidebox">
+			<select name="tag-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> 
+			<option value="">Select a Tag</option>
+						<option value='http://www.bjjheroes.com/tag/alliance-bjj'>Alliance BJJ</option><option value='http://www.bjjheroes.com/tag/atos-jiu-jitsu'>Atos Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/barbosinha-jiu-jitsu'>barbosinha jiu jitsu</option><option value='http://www.bjjheroes.com/tag/bjj-drills'>bjj drills</option><option value='http://www.bjjheroes.com/tag/bjj-dvd'>BJJ DVD</option><option value='http://www.bjjheroes.com/tag/bjj-exercises'>bjj exercises</option><option value='http://www.bjjheroes.com/tag/bjj-strength-and-conditioning'>bjj strength and conditioning</option><option value='http://www.bjjheroes.com/tag/bjj-workout'>bjj workout</option><option value='http://www.bjjheroes.com/tag/brasa-jiu-jitsu'>Brasa Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/brazilian-top-team'>Brazilian Top Team</option><option value='http://www.bjjheroes.com/tag/btt'>BTT</option><option value='http://www.bjjheroes.com/tag/carlson-gracie'>Carlson Gracie Academy</option><option value='http://www.bjjheroes.com/tag/checkmat-bjj'>Checkmat BJJ</option><option value='http://www.bjjheroes.com/tag/functional-strength-for-bjj'>functional strength for bjj</option><option value='http://www.bjjheroes.com/tag/gama-filho-bjj'>gama filho bjj</option><option value='http://www.bjjheroes.com/tag/gft-bjj'>GFT BJJ</option><option value='http://www.bjjheroes.com/tag/gracie-barra'>Gracie Barra</option><option value='http://www.bjjheroes.com/tag/gracie-humaita'>Gracie Humaita</option><option value='http://www.bjjheroes.com/tag/gracie-jiu-jitsu'>gracie jiu jitsu</option><option value='http://www.bjjheroes.com/tag/kimura-nova-uniao'>Kimura Nova Uniao</option><option value='http://www.bjjheroes.com/tag/mendes-bros-bjj'>Mendes Bros BJJ</option><option value='http://www.bjjheroes.com/tag/neck-exercises-bjj'>neck exercises BJJ</option><option value='http://www.bjjheroes.com/tag/nova-geracao-bjj'>Nova Geracao Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/nova-uniao'>Nova Uniao</option><option value='http://www.bjjheroes.com/tag/paragon-jiu-jitsu'>Paragon Jiu Jitsu</option><option value='http://www.bjjheroes.com/tag/ribeiro-brothers-bjj'>ribeiro brothers bjj</option><option value='http://www.bjjheroes.com/tag/ryan-gracie'>Ryan Gracie</option>			</select>
+		</div>
+	</div>
+
+	<div id="content_4" class="cat_content" style="display:none">
+				<div class="sidebox"><p>This feature has not been activated yet.</p></div>
+
+	</div>					</li>
+
+		<li id="recent-posts-4" class="widget widget_recent_entries">		<h3 class="widgettitle">Recent Posts</h3>		<ul>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/sergio-babu" title="Sergio “Babu”">Sergio “Babu”</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/lloyd-irvin" title="Lloyd Irvin">Lloyd Irvin</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/fabio-pateta-prado" title="Fabio &#8220;Pateta&#8221; Prado">Fabio &#8220;Pateta&#8221; Prado</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/shane-rice" title="Shane Rice (Rickson Gracie)">Shane Rice (Rickson Gracie)</a></li>
+				<li><a href="http://www.bjjheroes.com/bjj-fighters/roger-coelho" title="Roger Coelho">Roger Coelho</a></li>
+				</ul>
+		</li>
+<li id="text-5" class="widget widget_text"><h3 class="widgettitle">Caio Terra Half Guard Instructional</h3>			<div class="textwidget"><a href="http://gan.doubleclick.net/gan_click?lid=41000000035438324&pubid=21000000000302733" target="_blank">
+<img src="http://www.bjjheroes.com/wp-content/uploads/2011/04/advert.jpg" width="300" height="250" alt="Caio Terra Half Guard DVD" border="0"/></a></div>
+		</li>
+	
+
+				</ul>
+
+			</div>
+
+			<div id="sidebar-bottom" class="clearfix">
+
+				<div id="sidebar-bottom-left">
+
+					<ul>
+
+<li id="text-6" class="widget widget_text"><h3 class="widgettitle">Top Kimono Brands</h3>			<div class="textwidget"><a href="http://gan.doubleclick.net/gan_click?lid=41000000036134047&pubid=21000000000302733" target="_blank">
+<img src="http://www.bjjheroes.com/wp-content/uploads/2010/02/bjj-kimonos.jpg" width="120" height="240" alt="All major BJJ Kimono brands available here" border="0"/></a></div>
+		</li>
+<li id="text-2" class="widget widget_text"><h3 class="widgettitle">Our Sponsors</h3>			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3756782291294481";
+/* mma clothing */
+google_ad_slot = "4710210187";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+	
+
+					</ul>
+
+				</div>
+
+				<div id="sidebar-bottom-right">
+
+					<ul>
+
+<li id="categories-5" class="widget widget_categories"><h3 class="widgettitle">Categories</h3>		<ul>
+	<li class="cat-item cat-item-688"><a href="http://www.bjjheroes.com/category/jiu-jitsu-dvd-reviews" title="Get to know more about the BJJ instructionals you want to buy, with acurate and unbiased reviews made by BJJ Heroes">BJJ DVD Reviews</a> (6)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.bjjheroes.com/category/bjj-fighters" title="Brazilian Jiu Jitsu Fighter Wiki, All their history from their favorite technique to the meaning behind their Portuguese nicknames and also their biggest Fight Videos. Learn more about your favorite BJJ fighters here">BJJ Fighter Database</a> (282)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.bjjheroes.com/category/bjj-news" title="All relevant news from the most important championships, teams and fighters">BJJ News</a> (43)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.bjjheroes.com/category/bjj-tips-for-fighters" title="BJJ &amp; Grappling tips For the newcomer and the experienced fighter, from learning how to tie up your belt, to learning how to prevent injuries, all here.">BJJ Tips</a> (11)
+</li>
+	<li class="cat-item cat-item-692"><a href="http://www.bjjheroes.com/category/featured" title="Featured articled from BJJ Heroes">Featured</a> (117)
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.bjjheroes.com/category/interview" title="A set of exclusive BJJ related interviews to some of the top figures of Jiu Jitsu. With relevant information for the fans of the sport.">Interviews</a> (5)
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.bjjheroes.com/category/grappling-wars-in-mma" title="Only videos the best Fights in MMA, true grappling battles in the Octagoan and in the Rings around the world, with the likes of all time great fighters like Sakuraba, Royce Gracie, Minotauro and many other all time greats">MMA Fights</a> (19)
+</li>
+		</ul>
+</li>
+	
+
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var s = document.createElement("script"); s.type = "text/javascript"; s.src = "http://intensedebate.com/js/wordpressTemplateLinkWrapper2.php?acct=2fd021e7a72a99cbb9accff966860246"; document.getElementsByTagName("head")[0].appendChild(s);
+		/* ]]> */
+		</script>
+
+	</div>
+
+</div>
+
+
+<div id="footer" class="clearfix">
+
+	<div class="limit">
+
+		&copy; Copyright <a href="http://www.bjjheroes.com">BJJ Heroes</a> 2011. All rights reserved.<br />
+		<a href="http://wordpress.org/">WordPress</a> | <a href="http://www.solostream.com">WordPress Themes</a> | <a href="http://validator.w3.org/check?uri=referer">XHTML</a>
+
+	</div>
+
+</div>
+
+<script type='text/javascript' src='http://cdn.wibiya.com/Toolbars/dir_0855/Toolbar_855533/Loader_855533.js?ver=3.1.2'></script>
+
+</body>
+
+</html>
