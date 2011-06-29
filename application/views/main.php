@@ -1,6 +1,4 @@
 <?php
-
-
-echo "this is the main view"; 
+echo "this is main view";
 
 ?>
