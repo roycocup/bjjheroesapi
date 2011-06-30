@@ -8,6 +8,11 @@ class main extends CI_Controller {
 		$this->model_website->getFighters();
 	}
 	
+	public function updateDb(){
+		$t = $config['bjjHeroesBaseUrl'];
+		$t = $config['bjjHeroesDbUrl']; 
+	}
+	
 }
 
 /* End of file welcome.php */

@@ -1,5 +1,9 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+
+$config['bjjHeroesBaseUrl'] = 'http://www.bjjheroes.com/';
+$config['bjjHeroesDbUrl'] = "http://www.bjjheroes.com/a-z-bjj-fighters-list";
+
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
