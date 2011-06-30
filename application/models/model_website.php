@@ -3,9 +3,9 @@
 
 class Model_website extends CI_Model{
 
-	public function getUsers(){
-		$t = $this->db->get('users');
-		var_dump($t);die;
+	public function getFighters(){
+		$t = $this->db->get('fighters')->result();
+		print_r($t);die;
 	}
 	
 }

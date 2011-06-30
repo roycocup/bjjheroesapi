@@ -5,7 +5,7 @@ class main extends CI_Controller {
 	public function index(){
 		//$this->load->view('main');
 		$this->load->model('model_website', '', true);
-		$this->model_website->getUsers();
+		$this->model_website->getFighters();
 	}
 	
 }
