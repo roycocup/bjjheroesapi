@@ -3,14 +3,15 @@
 class main extends CI_Controller {
 
 	public function index(){
-		//$this->load->view('main');
-		$this->load->model('model_website', '', true);
-		$this->model_website->getFighters();
+		//check whats the update
+		//present the options
+		$this->load->view('apiMenu');
 	}
 	
 	public function updateDb(){
-		$t = $config['bjjHeroesBaseUrl'];
-		$t = $config['bjjHeroesDbUrl']; 
+		$this->load->model('model_website', '', true);
+		$updated = $this->model_website->update();
+		print_r($updated); die;
 	}
 	
 }
