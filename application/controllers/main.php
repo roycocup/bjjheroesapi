@@ -9,7 +9,7 @@ class main extends CI_Controller {
 	}
 	
 	public function updateDb(){
-		define('UPDATEALL', true);
+		
 		$this->load->model('model_website', '', true);
 		$updated = $this->model_website->update();
 		print_r($updated); die;

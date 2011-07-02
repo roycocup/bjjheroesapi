@@ -19,6 +19,9 @@
  *
  */
 	define('ENVIRONMENT', 'development');
+	define('CLI', true);
+	define('UPDATEALL', true);
+	if (CLI) ob_start();
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING

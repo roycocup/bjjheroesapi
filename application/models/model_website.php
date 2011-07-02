@@ -36,19 +36,23 @@ class Model_website extends CI_Model{
 				$data['dataSignature'] 	= $dataSignature;
 				
 				if ($fighter){
+					
 					$this->model_fighter->updateFighter($data, $fighter->id);
+					if(CLI){print("Updating fighter ".$fighter->id."\n\r"); ob_flush();}
 					//get the new updated fighter
 					$fighter = $this->model_fighter->load($fighter->id);
 				} else {
 					//if we dont have a fighter
 					$this->model_fighter->updateFighter($data);
 					$fighter = $this->model_fighter->getFighterByUlr($value);
+					if(CLI){print("Created new fighter ".$fighter->id."\n\r");ob_flush();}
 				}
 				
 				//add the name and get it again
 				$data['name'] = $this->_getFighterName($fighter);
 				$this->model_fighter->updateFighter($data, $fighter->id);
 				$fighter = $this->model_fighter->load($fighter->id);
+				if(CLI){print("Fighter ".$fighter->name. "is in the db"."\n\r");ob_flush();}
 			} 
 			
 			//print_r($fighter); die;
