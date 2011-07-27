@@ -4,6 +4,7 @@
 class Model_website extends CI_Model{
 
 	protected $_index_table = 'website_index';
+	
 	public $fighterPages = array();
 
 	public function update(){
@@ -21,38 +22,47 @@ class Model_website extends CI_Model{
 		unset($matches);
 
 		$counter = 0;
+		//iterate all fighters page
 		foreach ($fightersPage as $key => $value){
 			$fighter = array();
-			
 			$this->load->model('model_fighter');
 			$fighter = $this->model_fighter->getFighterByUlr($value); 
 			
 			//do we need to update?
 			$fullPage = file_get_contents($value);
 			$dataSignature = md5($fullPage);
+			
+			//only update if fighter doesnt exist, the signature is different or UPDATEALL constant is true
 			if (!$fighter || $dataSignature != $fighter->dataSignature || UPDATEALL){
 				$data['url'] 			= $value;
 				$data['full_page'] 		= $fullPage;
 				$data['dataSignature'] 	= $dataSignature;
 				
+				//if we already had a fighter update that id
 				if ($fighter){
-					
 					$this->model_fighter->updateFighter($data, $fighter->id);
 					if(CLI){print("Updating fighter ".$fighter->id."\n\r"); ob_flush();}
 					//get the new updated fighter
 					$fighter = $this->model_fighter->load($fighter->id);
 				} else {
-					//if we dont have a fighter
+					//if we dont have a fighter create a new one
 					$this->model_fighter->updateFighter($data);
 					$fighter = $this->model_fighter->getFighterByUlr($value);
 					if(CLI){print("Created new fighter ".$fighter->id."\n\r");ob_flush();}
 				}
 				
-				//add the name and get it again
+				//Get some info about this fighter
 				$data['name'] = $this->_getFighterName($fighter);
+				$data['weight_category'] = $this->_getFighterWeight($fighter);
+				//save the info conlected
 				$this->model_fighter->updateFighter($data, $fighter->id);
+				
+				//load the fighter so we can print it back to the screen
 				$fighter = $this->model_fighter->load($fighter->id);
+				
 				if(CLI){print("Fighter ".$fighter->name. "is in the db"."\n\r");ob_flush();}
+				
+				
 			} 
 			
 			//print_r($fighter); die;
@@ -83,9 +93,10 @@ class Model_website extends CI_Model{
 		}
 		die('done');
 	}
+	
 	protected function _getFighterName($fighter){
 		$string = $fighter->full_page;
-		$mask = '/title="Permanent Link to ([‡Ž’—œ“ˆ˜‰›\w\s\d\-\(\)]*)/';
+		$mask = '/title="Permanent Link to ([\x{0030}-\x{007f}\‡\Ž\’\—\œ\“\ˆ\\˜\\‰\\\›\\w\s\d\-\(\)\&\#\;]*)/';
 		preg_match_all($mask, $string, $matches);
 		return $matches[1][0];
 	} 
@@ -119,6 +130,21 @@ class Model_website extends CI_Model{
 		
 		die('done');
 	}
+	
+	protected function _getFighterWeight($fighter){
+		$string = $fighter->full_page;
+		//$mask = '/(w|W)eigh(t|)\s(C|c)ategory[\w\d\s\(\)]*(\:|)[\w\d\s\<\/]*\>([\xL\w\s\d\(\)\/\"‡Ž’—œ‹›]*)/';
+		$mask = '/(w|W)eigh(t|)\s(C|c)ategory[\w\d\s\(\)\"\<\>\.]*.*/';
+		preg_match_all($mask, $string, $matches);
+		if (!$matches[0][0] or empty($matches[0][0])){
+			$mask = '/(w|W)eigh(t|)\s(D|d)ivision[\w\d\s\(\)\"\<\>\.]*.*/';
+			preg_match_all($mask, $string, $matches);
+		}
+		//print_r($matches[0]); die;
+		return $matches[0][0];
+	}
+	
+	
 	
 	
 }

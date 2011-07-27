@@ -19,7 +19,7 @@
  *
  */
 	define('ENVIRONMENT', 'development');
-	define('CLI', true);
+	define('CLI', false);
 	define('UPDATEALL', true);
 	if (CLI) ob_start();
 /*

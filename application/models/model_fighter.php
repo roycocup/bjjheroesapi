@@ -71,5 +71,11 @@ class Model_fighter extends CI_Model {
 
 
 	
+	public function getFullFightersList(){
+		$this->db->select(array('name', 'id'));
+		$results = $this->db->get($this->_table)->result_array();
+		return $results;
+	}
+	
 	
 }
